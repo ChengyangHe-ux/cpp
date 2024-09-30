@@ -135,37 +135,37 @@ build Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework1/CMakeFiles
   TARGET_PDB = yuan.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target hai
+# Object build statements for EXECUTABLE target fenshu
 
 
 #############################################
-# Order-only phony target for hai
+# Order-only phony target for fenshu
 
-build cmake_object_order_depends_target_hai: phony || .
+build cmake_object_order_depends_target_fenshu: phony || .
 
-build Homework1/CMakeFiles/hai.dir/hai.cpp.obj: CXX_COMPILER__hai_unscanned_Debug D$:/cpp/Homework1/hai.cpp || cmake_object_order_depends_target_hai
-  DEP_FILE = Homework1\CMakeFiles\hai.dir\hai.cpp.obj.d
+build Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj: CXX_COMPILER__fenshu_unscanned_Debug D$:/cpp/Homework1/分数的加法.cpp || cmake_object_order_depends_target_fenshu
+  DEP_FILE = Homework1\CMakeFiles\fenshu.dir\分数的加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework1\CMakeFiles\hai.dir
-  OBJECT_FILE_DIR = Homework1\CMakeFiles\hai.dir
+  OBJECT_DIR = Homework1\CMakeFiles\fenshu.dir
+  OBJECT_FILE_DIR = Homework1\CMakeFiles\fenshu.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target hai
+# Link build statements for EXECUTABLE target fenshu
 
 
 #############################################
-# Link the executable Homework1\hai.exe
+# Link the executable Homework1\fenshu.exe
 
-build Homework1/hai.exe: CXX_EXECUTABLE_LINKER__hai_Debug Homework1/CMakeFiles/hai.dir/hai.cpp.obj
+build Homework1/fenshu.exe: CXX_EXECUTABLE_LINKER__fenshu_Debug Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework1\CMakeFiles\hai.dir
+  OBJECT_DIR = Homework1\CMakeFiles\fenshu.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework1\hai.exe
-  TARGET_IMPLIB = Homework1\libhai.dll.a
-  TARGET_PDB = hai.exe.dbg
+  TARGET_FILE = Homework1\fenshu.exe
+  TARGET_IMPLIB = Homework1\libfenshu.dll.a
+  TARGET_PDB = fenshu.exe.dbg
 
 
 #############################################
@@ -254,9 +254,9 @@ build Homework2/rebuild_cache: phony Homework2/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build hai: phony Homework1/hai.exe
+build fenshu: phony Homework1/fenshu.exe
 
-build hai.exe: phony Homework1/hai.exe
+build fenshu.exe: phony Homework1/fenshu.exe
 
 build pp: phony Homework1/pp.exe
 
@@ -285,7 +285,7 @@ build all: phony Homework1/all Homework2/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework1
 
-build Homework1/all: phony Homework1/pp.exe Homework1/yuan.exe Homework1/hai.exe
+build Homework1/all: phony Homework1/pp.exe Homework1/yuan.exe Homework1/fenshu.exe
 
 # =============================================================================
 
