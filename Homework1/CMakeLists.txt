@@ -1,3 +1,3 @@
 add_executable(pp pp.cpp)
 add_executable(yuan yuan.cpp)
-add_executable(hai hai.cpp)
+add_executable(1-10 1-10.cpp)
