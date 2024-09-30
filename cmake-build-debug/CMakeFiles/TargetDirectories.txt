@@ -2,5 +2,6 @@ D:/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/cpp/cmake-build-debug/Homework1/CMakeFiles/pp.dir
 D:/cpp/cmake-build-debug/Homework1/CMakeFiles/yuan.dir
+D:/cpp/cmake-build-debug/Homework1/CMakeFiles/hai.dir
 D:/cpp/cmake-build-debug/Homework1/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/Homework1/CMakeFiles/rebuild_cache.dir

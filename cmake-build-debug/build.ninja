@@ -134,6 +134,39 @@ build Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework1/CMakeFiles
   TARGET_IMPLIB = Homework1\libyuan.dll.a
   TARGET_PDB = yuan.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target hai
+
+
+#############################################
+# Order-only phony target for hai
+
+build cmake_object_order_depends_target_hai: phony || .
+
+build Homework1/CMakeFiles/hai.dir/hai.cpp.obj: CXX_COMPILER__hai_unscanned_Debug D$:/cpp/Homework1/hai.cpp || cmake_object_order_depends_target_hai
+  DEP_FILE = Homework1\CMakeFiles\hai.dir\hai.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework1\CMakeFiles\hai.dir
+  OBJECT_FILE_DIR = Homework1\CMakeFiles\hai.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target hai
+
+
+#############################################
+# Link the executable Homework1\hai.exe
+
+build Homework1/hai.exe: CXX_EXECUTABLE_LINKER__hai_Debug Homework1/CMakeFiles/hai.dir/hai.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework1\CMakeFiles\hai.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework1\hai.exe
+  TARGET_IMPLIB = Homework1\libhai.dll.a
+  TARGET_PDB = hai.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -160,6 +193,10 @@ build Homework1/rebuild_cache: phony Homework1/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build hai: phony Homework1/hai.exe
+
+build hai.exe: phony Homework1/hai.exe
+
 build pp: phony Homework1/pp.exe
 
 build pp.exe: phony Homework1/pp.exe
@@ -183,7 +220,7 @@ build all: phony Homework1/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework1
 
-build Homework1/all: phony Homework1/pp.exe Homework1/yuan.exe
+build Homework1/all: phony Homework1/pp.exe Homework1/yuan.exe Homework1/hai.exe
 
 # =============================================================================
 # Built-in targets
