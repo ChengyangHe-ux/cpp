@@ -4,6 +4,7 @@ D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/duogefenshu.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/duogeshu.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/fenshu.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/jinnian.dir
+D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/wujiao.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/rebuild_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework2/CMakeFiles/qing.dir

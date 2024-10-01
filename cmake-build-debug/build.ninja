@@ -200,6 +200,39 @@ build Homework/Homework1/jinnian.exe: CXX_EXECUTABLE_LINKER__jinnian_Debug Homew
   TARGET_IMPLIB = Homework\Homework1\libjinnian.dll.a
   TARGET_PDB = jinnian.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target wujiao
+
+
+#############################################
+# Order-only phony target for wujiao
+
+build cmake_object_order_depends_target_wujiao: phony || .
+
+build Homework/Homework1/CMakeFiles/wujiao.dir/五角大楼.cpp.obj: CXX_COMPILER__wujiao_unscanned_Debug D$:/cpp/Homework/Homework1/五角大楼.cpp || cmake_object_order_depends_target_wujiao
+  DEP_FILE = Homework\Homework1\CMakeFiles\wujiao.dir\五角大楼.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\wujiao.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\wujiao.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target wujiao
+
+
+#############################################
+# Link the executable Homework\Homework1\wujiao.exe
+
+build Homework/Homework1/wujiao.exe: CXX_EXECUTABLE_LINKER__wujiao_Debug Homework/Homework1/CMakeFiles/wujiao.dir/五角大楼.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\wujiao.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\wujiao.exe
+  TARGET_IMPLIB = Homework\Homework1\libwujiao.dll.a
+  TARGET_PDB = wujiao.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -335,6 +368,10 @@ build qing: phony Homework/Homework2/qing.exe
 
 build qing.exe: phony Homework/Homework2/qing.exe
 
+build wujiao: phony Homework/Homework1/wujiao.exe
+
+build wujiao.exe: phony Homework/Homework1/wujiao.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -350,7 +387,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe
+build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe Homework/Homework1/wujiao.exe
 
 # =============================================================================
 
