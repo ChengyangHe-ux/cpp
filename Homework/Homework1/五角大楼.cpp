@@ -11,8 +11,8 @@ int main() {
     double cos_cita=cos(cita);
     double sin_cita=sin(cita);
     double x3,y3=0;
-    x3=x1+(x2-x1)*cos_cita+(y2-y1)*sin_cita;
-    y3=y1-(x2-x1)*sin_cita+(y2-y1)*cos_cita;
+    x3=-(x1+(x2-x1)*cos_cita+(y2-y1)*sin_cita);
+    y3=-y1-(x2-x1)*sin_cita+(y2-y1)*cos_cita;
     printf("%.3lf %.3f\n",x3,y3);
     return 0;
 }
