@@ -102,37 +102,37 @@ build Homework/Homework1/duogefenshu.exe: CXX_EXECUTABLE_LINKER__duogefenshu_Deb
   TARGET_PDB = duogefenshu.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target yuan
+# Object build statements for EXECUTABLE target duogeshu
 
 
 #############################################
-# Order-only phony target for yuan
+# Order-only phony target for duogeshu
 
-build cmake_object_order_depends_target_yuan: phony || .
+build cmake_object_order_depends_target_duogeshu: phony || .
 
-build Homework/Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj: CXX_COMPILER__yuan_unscanned_Debug D$:/cpp/Homework/Homework1/yuan.cpp || cmake_object_order_depends_target_yuan
-  DEP_FILE = Homework\Homework1\CMakeFiles\yuan.dir\yuan.cpp.obj.d
+build Homework/Homework1/CMakeFiles/duogeshu.dir/多个数的最大公约数.cpp.obj: CXX_COMPILER__duogeshu_unscanned_Debug D$:/cpp/Homework/Homework1/多个数的最大公约数.cpp || cmake_object_order_depends_target_duogeshu
+  DEP_FILE = Homework\Homework1\CMakeFiles\duogeshu.dir\多个数的最大公约数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\yuan.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\yuan.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogeshu.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\duogeshu.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target yuan
+# Link build statements for EXECUTABLE target duogeshu
 
 
 #############################################
-# Link the executable Homework\Homework1\yuan.exe
+# Link the executable Homework\Homework1\duogeshu.exe
 
-build Homework/Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework/Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj
+build Homework/Homework1/duogeshu.exe: CXX_EXECUTABLE_LINKER__duogeshu_Debug Homework/Homework1/CMakeFiles/duogeshu.dir/多个数的最大公约数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\yuan.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogeshu.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\yuan.exe
-  TARGET_IMPLIB = Homework\Homework1\libyuan.dll.a
-  TARGET_PDB = yuan.exe.dbg
+  TARGET_FILE = Homework\Homework1\duogeshu.exe
+  TARGET_IMPLIB = Homework\Homework1\libduogeshu.dll.a
+  TARGET_PDB = duogeshu.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target fenshu
@@ -166,6 +166,39 @@ build Homework/Homework1/fenshu.exe: CXX_EXECUTABLE_LINKER__fenshu_Debug Homewor
   TARGET_FILE = Homework\Homework1\fenshu.exe
   TARGET_IMPLIB = Homework\Homework1\libfenshu.dll.a
   TARGET_PDB = fenshu.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target duogeshuzi
+
+
+#############################################
+# Order-only phony target for duogeshuzi
+
+build cmake_object_order_depends_target_duogeshuzi: phony || .
+
+build Homework/Homework1/CMakeFiles/duogeshuzi.dir/duogeshuzi.cpp.obj: CXX_COMPILER__duogeshuzi_unscanned_Debug D$:/cpp/Homework/Homework1/duogeshuzi.cpp || cmake_object_order_depends_target_duogeshuzi
+  DEP_FILE = Homework\Homework1\CMakeFiles\duogeshuzi.dir\duogeshuzi.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogeshuzi.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\duogeshuzi.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target duogeshuzi
+
+
+#############################################
+# Link the executable Homework\Homework1\duogeshuzi.exe
+
+build Homework/Homework1/duogeshuzi.exe: CXX_EXECUTABLE_LINKER__duogeshuzi_Debug Homework/Homework1/CMakeFiles/duogeshuzi.dir/duogeshuzi.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogeshuzi.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\duogeshuzi.exe
+  TARGET_IMPLIB = Homework\Homework1\libduogeshuzi.dll.a
+  TARGET_PDB = duogeshuzi.exe.dbg
 
 
 #############################################
@@ -258,6 +291,14 @@ build duogefenshu: phony Homework/Homework1/duogefenshu.exe
 
 build duogefenshu.exe: phony Homework/Homework1/duogefenshu.exe
 
+build duogeshu: phony Homework/Homework1/duogeshu.exe
+
+build duogeshu.exe: phony Homework/Homework1/duogeshu.exe
+
+build duogeshuzi: phony Homework/Homework1/duogeshuzi.exe
+
+build duogeshuzi.exe: phony Homework/Homework1/duogeshuzi.exe
+
 build fenshu: phony Homework/Homework1/fenshu.exe
 
 build fenshu.exe: phony Homework/Homework1/fenshu.exe
@@ -265,10 +306,6 @@ build fenshu.exe: phony Homework/Homework1/fenshu.exe
 build qing: phony Homework/Homework2/qing.exe
 
 build qing.exe: phony Homework/Homework2/qing.exe
-
-build yuan: phony Homework/Homework1/yuan.exe
-
-build yuan.exe: phony Homework/Homework1/yuan.exe
 
 # =============================================================================
 # Folder targets.
@@ -285,7 +322,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/yuan.exe Homework/Homework1/fenshu.exe
+build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/duogeshuzi.exe
 
 # =============================================================================
 
