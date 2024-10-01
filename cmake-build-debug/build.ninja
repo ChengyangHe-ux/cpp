@@ -233,6 +233,39 @@ build Homework/Homework1/wujiao.exe: CXX_EXECUTABLE_LINKER__wujiao_Debug Homewor
   TARGET_IMPLIB = Homework\Homework1\libwujiao.dll.a
   TARGET_PDB = wujiao.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target yongshengzuzhou
+
+
+#############################################
+# Order-only phony target for yongshengzuzhou
+
+build cmake_object_order_depends_target_yongshengzuzhou: phony || .
+
+build Homework/Homework1/CMakeFiles/yongshengzuzhou.dir/永生诅咒.cpp.obj: CXX_COMPILER__yongshengzuzhou_unscanned_Debug D$:/cpp/Homework/Homework1/永生诅咒.cpp || cmake_object_order_depends_target_yongshengzuzhou
+  DEP_FILE = Homework\Homework1\CMakeFiles\yongshengzuzhou.dir\永生诅咒.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\yongshengzuzhou.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\yongshengzuzhou.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target yongshengzuzhou
+
+
+#############################################
+# Link the executable Homework\Homework1\yongshengzuzhou.exe
+
+build Homework/Homework1/yongshengzuzhou.exe: CXX_EXECUTABLE_LINKER__yongshengzuzhou_Debug Homework/Homework1/CMakeFiles/yongshengzuzhou.dir/永生诅咒.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\yongshengzuzhou.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\yongshengzuzhou.exe
+  TARGET_IMPLIB = Homework\Homework1\libyongshengzuzhou.dll.a
+  TARGET_PDB = yongshengzuzhou.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -372,6 +405,10 @@ build wujiao: phony Homework/Homework1/wujiao.exe
 
 build wujiao.exe: phony Homework/Homework1/wujiao.exe
 
+build yongshengzuzhou: phony Homework/Homework1/yongshengzuzhou.exe
+
+build yongshengzuzhou.exe: phony Homework/Homework1/yongshengzuzhou.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -387,7 +424,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe Homework/Homework1/wujiao.exe
+build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe Homework/Homework1/wujiao.exe Homework/Homework1/yongshengzuzhou.exe
 
 # =============================================================================
 
