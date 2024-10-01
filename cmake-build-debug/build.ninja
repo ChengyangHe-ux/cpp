@@ -69,37 +69,37 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target pp
+# Object build statements for EXECUTABLE target duogefenshu
 
 
 #############################################
-# Order-only phony target for pp
+# Order-only phony target for duogefenshu
 
-build cmake_object_order_depends_target_pp: phony || .
+build cmake_object_order_depends_target_duogefenshu: phony || .
 
-build Homework1/CMakeFiles/pp.dir/pp.cpp.obj: CXX_COMPILER__pp_unscanned_Debug D$:/cpp/Homework1/pp.cpp || cmake_object_order_depends_target_pp
-  DEP_FILE = Homework1\CMakeFiles\pp.dir\pp.cpp.obj.d
+build Homework/Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj: CXX_COMPILER__duogefenshu_unscanned_Debug D$:/cpp/Homework/Homework1/多个分数的加法.cpp || cmake_object_order_depends_target_duogefenshu
+  DEP_FILE = Homework\Homework1\CMakeFiles\duogefenshu.dir\多个分数的加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework1\CMakeFiles\pp.dir
-  OBJECT_FILE_DIR = Homework1\CMakeFiles\pp.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogefenshu.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\duogefenshu.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target pp
+# Link build statements for EXECUTABLE target duogefenshu
 
 
 #############################################
-# Link the executable Homework1\pp.exe
+# Link the executable Homework\Homework1\duogefenshu.exe
 
-build Homework1/pp.exe: CXX_EXECUTABLE_LINKER__pp_Debug Homework1/CMakeFiles/pp.dir/pp.cpp.obj
+build Homework/Homework1/duogefenshu.exe: CXX_EXECUTABLE_LINKER__duogefenshu_Debug Homework/Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework1\CMakeFiles\pp.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\duogefenshu.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework1\pp.exe
-  TARGET_IMPLIB = Homework1\libpp.dll.a
-  TARGET_PDB = pp.exe.dbg
+  TARGET_FILE = Homework\Homework1\duogefenshu.exe
+  TARGET_IMPLIB = Homework\Homework1\libduogefenshu.dll.a
+  TARGET_PDB = duogefenshu.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target yuan
@@ -110,11 +110,11 @@ build Homework1/pp.exe: CXX_EXECUTABLE_LINKER__pp_Debug Homework1/CMakeFiles/pp.
 
 build cmake_object_order_depends_target_yuan: phony || .
 
-build Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj: CXX_COMPILER__yuan_unscanned_Debug D$:/cpp/Homework1/yuan.cpp || cmake_object_order_depends_target_yuan
-  DEP_FILE = Homework1\CMakeFiles\yuan.dir\yuan.cpp.obj.d
+build Homework/Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj: CXX_COMPILER__yuan_unscanned_Debug D$:/cpp/Homework/Homework1/yuan.cpp || cmake_object_order_depends_target_yuan
+  DEP_FILE = Homework\Homework1\CMakeFiles\yuan.dir\yuan.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework1\CMakeFiles\yuan.dir
-  OBJECT_FILE_DIR = Homework1\CMakeFiles\yuan.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\yuan.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\yuan.dir
 
 
 # =============================================================================
@@ -122,16 +122,16 @@ build Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj: CXX_COMPILER__yuan_unscanned_D
 
 
 #############################################
-# Link the executable Homework1\yuan.exe
+# Link the executable Homework\Homework1\yuan.exe
 
-build Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj
+build Homework/Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework/Homework1/CMakeFiles/yuan.dir/yuan.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework1\CMakeFiles\yuan.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\yuan.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework1\yuan.exe
-  TARGET_IMPLIB = Homework1\libyuan.dll.a
+  TARGET_FILE = Homework\Homework1\yuan.exe
+  TARGET_IMPLIB = Homework\Homework1\libyuan.dll.a
   TARGET_PDB = yuan.exe.dbg
 
 # =============================================================================
@@ -143,11 +143,11 @@ build Homework1/yuan.exe: CXX_EXECUTABLE_LINKER__yuan_Debug Homework1/CMakeFiles
 
 build cmake_object_order_depends_target_fenshu: phony || .
 
-build Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj: CXX_COMPILER__fenshu_unscanned_Debug D$:/cpp/Homework1/分数的加法.cpp || cmake_object_order_depends_target_fenshu
-  DEP_FILE = Homework1\CMakeFiles\fenshu.dir\分数的加法.cpp.obj.d
+build Homework/Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj: CXX_COMPILER__fenshu_unscanned_Debug D$:/cpp/Homework/Homework1/分数的加法.cpp || cmake_object_order_depends_target_fenshu
+  DEP_FILE = Homework\Homework1\CMakeFiles\fenshu.dir\分数的加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework1\CMakeFiles\fenshu.dir
-  OBJECT_FILE_DIR = Homework1\CMakeFiles\fenshu.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\fenshu.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\fenshu.dir
 
 
 # =============================================================================
@@ -155,40 +155,40 @@ build Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj: CXX_COMPILER__fen
 
 
 #############################################
-# Link the executable Homework1\fenshu.exe
+# Link the executable Homework\Homework1\fenshu.exe
 
-build Homework1/fenshu.exe: CXX_EXECUTABLE_LINKER__fenshu_Debug Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj
+build Homework/Homework1/fenshu.exe: CXX_EXECUTABLE_LINKER__fenshu_Debug Homework/Homework1/CMakeFiles/fenshu.dir/分数的加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework1\CMakeFiles\fenshu.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\fenshu.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework1\fenshu.exe
-  TARGET_IMPLIB = Homework1\libfenshu.dll.a
+  TARGET_FILE = Homework\Homework1\fenshu.exe
+  TARGET_IMPLIB = Homework\Homework1\libfenshu.dll.a
   TARGET_PDB = fenshu.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
-build Homework1/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+build Homework/Homework1/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
-build Homework1/edit_cache: phony Homework1/CMakeFiles/edit_cache.util
+build Homework/Homework1/edit_cache: phony Homework/Homework1/CMakeFiles/edit_cache.util
 
 
 #############################################
 # Utility command for rebuild_cache
 
-build Homework1/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+build Homework/Homework1/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 
-build Homework1/rebuild_cache: phony Homework1/CMakeFiles/rebuild_cache.util
+build Homework/Homework1/rebuild_cache: phony Homework/Homework1/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -204,11 +204,11 @@ build Homework1/rebuild_cache: phony Homework1/CMakeFiles/rebuild_cache.util
 
 build cmake_object_order_depends_target_qing: phony || .
 
-build Homework2/CMakeFiles/qing.dir/qing.cpp.obj: CXX_COMPILER__qing_unscanned_Debug D$:/cpp/Homework2/qing.cpp || cmake_object_order_depends_target_qing
-  DEP_FILE = Homework2\CMakeFiles\qing.dir\qing.cpp.obj.d
+build Homework/Homework2/CMakeFiles/qing.dir/qing.cpp.obj: CXX_COMPILER__qing_unscanned_Debug D$:/cpp/Homework/Homework2/qing.cpp || cmake_object_order_depends_target_qing
+  DEP_FILE = Homework\Homework2\CMakeFiles\qing.dir\qing.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework2\CMakeFiles\qing.dir
-  OBJECT_FILE_DIR = Homework2\CMakeFiles\qing.dir
+  OBJECT_DIR = Homework\Homework2\CMakeFiles\qing.dir
+  OBJECT_FILE_DIR = Homework\Homework2\CMakeFiles\qing.dir
 
 
 # =============================================================================
@@ -216,59 +216,59 @@ build Homework2/CMakeFiles/qing.dir/qing.cpp.obj: CXX_COMPILER__qing_unscanned_D
 
 
 #############################################
-# Link the executable Homework2\qing.exe
+# Link the executable Homework\Homework2\qing.exe
 
-build Homework2/qing.exe: CXX_EXECUTABLE_LINKER__qing_Debug Homework2/CMakeFiles/qing.dir/qing.cpp.obj
+build Homework/Homework2/qing.exe: CXX_EXECUTABLE_LINKER__qing_Debug Homework/Homework2/CMakeFiles/qing.dir/qing.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework2\CMakeFiles\qing.dir
+  OBJECT_DIR = Homework\Homework2\CMakeFiles\qing.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework2\qing.exe
-  TARGET_IMPLIB = Homework2\libqing.dll.a
+  TARGET_FILE = Homework\Homework2\qing.exe
+  TARGET_IMPLIB = Homework\Homework2\libqing.dll.a
   TARGET_PDB = qing.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
-build Homework2/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+build Homework/Homework2/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
-build Homework2/edit_cache: phony Homework2/CMakeFiles/edit_cache.util
+build Homework/Homework2/edit_cache: phony Homework/Homework2/CMakeFiles/edit_cache.util
 
 
 #############################################
 # Utility command for rebuild_cache
 
-build Homework2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+build Homework/Homework2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 
-build Homework2/rebuild_cache: phony Homework2/CMakeFiles/rebuild_cache.util
+build Homework/Homework2/rebuild_cache: phony Homework/Homework2/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Target aliases.
 
-build fenshu: phony Homework1/fenshu.exe
+build duogefenshu: phony Homework/Homework1/duogefenshu.exe
 
-build fenshu.exe: phony Homework1/fenshu.exe
+build duogefenshu.exe: phony Homework/Homework1/duogefenshu.exe
 
-build pp: phony Homework1/pp.exe
+build fenshu: phony Homework/Homework1/fenshu.exe
 
-build pp.exe: phony Homework1/pp.exe
+build fenshu.exe: phony Homework/Homework1/fenshu.exe
 
-build qing: phony Homework2/qing.exe
+build qing: phony Homework/Homework2/qing.exe
 
-build qing.exe: phony Homework2/qing.exe
+build qing.exe: phony Homework/Homework2/qing.exe
 
-build yuan: phony Homework1/yuan.exe
+build yuan: phony Homework/Homework1/yuan.exe
 
-build yuan.exe: phony Homework1/yuan.exe
+build yuan.exe: phony Homework/Homework1/yuan.exe
 
 # =============================================================================
 # Folder targets.
@@ -278,21 +278,21 @@ build yuan.exe: phony Homework1/yuan.exe
 #############################################
 # Folder: D:/cpp/cmake-build-debug
 
-build all: phony Homework1/all Homework2/all
+build all: phony Homework/Homework1/all Homework/Homework2/all
 
 # =============================================================================
 
 #############################################
-# Folder: D:/cpp/cmake-build-debug/Homework1
+# Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework1/all: phony Homework1/pp.exe Homework1/yuan.exe Homework1/fenshu.exe
+build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/yuan.exe Homework/Homework1/fenshu.exe
 
 # =============================================================================
 
 #############################################
-# Folder: D:/cpp/cmake-build-debug/Homework2
+# Folder: D:/cpp/cmake-build-debug/Homework/Homework2
 
-build Homework2/all: phony Homework2/qing.exe
+build Homework/Homework2/all: phony Homework/Homework2/qing.exe
 
 # =============================================================================
 # Built-in targets
@@ -301,14 +301,14 @@ build Homework2/all: phony Homework2/qing.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework1/CMakeLists.txt D$:/cpp/Homework2/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework1/CMakeLists.txt D$:/cpp/Homework2/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt: phony
 
 
 #############################################

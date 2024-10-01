@@ -3,5 +3,5 @@ project("clion")
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory (Homework1)
-add_subdirectory (Homework2)
+add_subdirectory (Homework/Homework1)
+add_subdirectory (Homework/Homework2)

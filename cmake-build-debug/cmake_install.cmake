@@ -39,12 +39,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/cpp/cmake-build-debug/Homework1/cmake_install.cmake")
+  include("D:/cpp/cmake-build-debug/Homework/Homework1/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/cpp/cmake-build-debug/Homework2/cmake_install.cmake")
+  include("D:/cpp/cmake-build-debug/Homework/Homework2/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
