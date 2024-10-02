@@ -10,6 +10,8 @@ add_executable(A7-4 数组的查找函数.cpp)
 add_executable(A7-5 数组的有序插入函数.cpp)
 add_executable(A7-6 数组的左移函数.cpp)
 add_executable(A7-7 数组的右移函数.cpp)
+add_executable(A9-1 数组中的素数个数.cpp)
+add_executable(A9-2 数组中最小正数的下标.cpp)
 
 
 
