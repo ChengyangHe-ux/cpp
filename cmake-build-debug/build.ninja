@@ -530,6 +530,72 @@ build Homework/Homework1/A9-2.exe: CXX_EXECUTABLE_LINKER__A9-2_Debug Homework/Ho
   TARGET_IMPLIB = Homework\Homework1\libA9-2.dll.a
   TARGET_PDB = A9-2.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target A9-3
+
+
+#############################################
+# Order-only phony target for A9-3
+
+build cmake_object_order_depends_target_A9-3: phony || .
+
+build Homework/Homework1/CMakeFiles/A9-3.dir/数组中最大的负数.cpp.obj: CXX_COMPILER__A9-3_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最大的负数.cpp || cmake_object_order_depends_target_A9-3
+  DEP_FILE = Homework\Homework1\CMakeFiles\A9-3.dir\数组中最大的负数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target A9-3
+
+
+#############################################
+# Link the executable Homework\Homework1\A9-3.exe
+
+build Homework/Homework1/A9-3.exe: CXX_EXECUTABLE_LINKER__A9-3_Debug Homework/Homework1/CMakeFiles/A9-3.dir/数组中最大的负数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\A9-3.exe
+  TARGET_IMPLIB = Homework\Homework1\libA9-3.dll.a
+  TARGET_PDB = A9-3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target A9-4
+
+
+#############################################
+# Order-only phony target for A9-4
+
+build cmake_object_order_depends_target_A9-4: phony || .
+
+build Homework/Homework1/CMakeFiles/A9-4.dir/数组中第二大的数.cpp.obj: CXX_COMPILER__A9-4_unscanned_Debug D$:/cpp/Homework/Homework1/数组中第二大的数.cpp || cmake_object_order_depends_target_A9-4
+  DEP_FILE = Homework\Homework1\CMakeFiles\A9-4.dir\数组中第二大的数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target A9-4
+
+
+#############################################
+# Link the executable Homework\Homework1\A9-4.exe
+
+build Homework/Homework1/A9-4.exe: CXX_EXECUTABLE_LINKER__A9-4_Debug Homework/Homework1/CMakeFiles/A9-4.dir/数组中第二大的数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\A9-4.exe
+  TARGET_IMPLIB = Homework\Homework1\libA9-4.dll.a
+  TARGET_PDB = A9-4.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -693,6 +759,14 @@ build A9-2: phony Homework/Homework1/A9-2.exe
 
 build A9-2.exe: phony Homework/Homework1/A9-2.exe
 
+build A9-3: phony Homework/Homework1/A9-3.exe
+
+build A9-3.exe: phony Homework/Homework1/A9-3.exe
+
+build A9-4: phony Homework/Homework1/A9-4.exe
+
+build A9-4.exe: phony Homework/Homework1/A9-4.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -720,7 +794,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/A6-3.exe Homework/Homework1/A6-4.exe Homework/Homework1/A6-2.exe Homework/Homework1/A1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/A7-2.exe Homework/Homework1/A7-3.exe Homework/Homework1/A7-4.exe Homework/Homework1/A7-5.exe Homework/Homework1/A7-6.exe Homework/Homework1/A7-7.exe Homework/Homework1/A9-1.exe Homework/Homework1/A9-2.exe
+build Homework/Homework1/all: phony Homework/Homework1/A6-3.exe Homework/Homework1/A6-4.exe Homework/Homework1/A6-2.exe Homework/Homework1/A1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/A7-2.exe Homework/Homework1/A7-3.exe Homework/Homework1/A7-4.exe Homework/Homework1/A7-5.exe Homework/Homework1/A7-6.exe Homework/Homework1/A7-7.exe Homework/Homework1/A9-1.exe Homework/Homework1/A9-2.exe Homework/Homework1/A9-3.exe Homework/Homework1/A9-4.exe
 
 # =============================================================================
 

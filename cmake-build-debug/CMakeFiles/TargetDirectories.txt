@@ -14,6 +14,8 @@ D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A7-6.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A7-7.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A9-1.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A9-2.dir
+D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A9-3.dir
+D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/A9-4.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/rebuild_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework2/CMakeFiles/qing.dir

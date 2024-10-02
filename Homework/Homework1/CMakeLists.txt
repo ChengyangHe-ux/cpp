@@ -12,6 +12,9 @@ add_executable(A7-6 数组的左移函数.cpp)
 add_executable(A7-7 数组的右移函数.cpp)
 add_executable(A9-1 数组中的素数个数.cpp)
 add_executable(A9-2 数组中最小正数的下标.cpp)
+add_executable(A9-3 数组中最大的负数.cpp)
+add_executable(A9-4 数组中第二大的数.cpp)
+
 
 
 
