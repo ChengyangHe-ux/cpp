@@ -10,7 +10,6 @@ int FindMaxNeg(int arr[],int size) {
     if(arr[i]<0&&arr[i]>min) {
         min=arr[i];
     }
-
     }
     return min;
 }
