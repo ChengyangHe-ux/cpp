@@ -8,4 +8,8 @@ add_executable(A7-2 数组的极值函数.cpp)
 add_executable(A7-3 数组的极值下标函数.cpp)
 add_executable(A7-4 数组的查找函数.cpp)
 add_executable(A7-5 数组的有序插入函数.cpp)
+add_executable(A7-6 数组的左移函数.cpp)
+add_executable(A7-7 数组的右移函数.cpp)
+
+
 

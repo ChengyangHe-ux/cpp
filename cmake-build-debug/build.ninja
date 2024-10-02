@@ -398,6 +398,72 @@ build Homework/Homework1/A7-5.exe: CXX_EXECUTABLE_LINKER__A7-5_Debug Homework/Ho
   TARGET_IMPLIB = Homework\Homework1\libA7-5.dll.a
   TARGET_PDB = A7-5.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target A7-6
+
+
+#############################################
+# Order-only phony target for A7-6
+
+build cmake_object_order_depends_target_A7-6: phony || .
+
+build Homework/Homework1/CMakeFiles/A7-6.dir/数组的左移函数.cpp.obj: CXX_COMPILER__A7-6_unscanned_Debug D$:/cpp/Homework/Homework1/数组的左移函数.cpp || cmake_object_order_depends_target_A7-6
+  DEP_FILE = Homework\Homework1\CMakeFiles\A7-6.dir\数组的左移函数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target A7-6
+
+
+#############################################
+# Link the executable Homework\Homework1\A7-6.exe
+
+build Homework/Homework1/A7-6.exe: CXX_EXECUTABLE_LINKER__A7-6_Debug Homework/Homework1/CMakeFiles/A7-6.dir/数组的左移函数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\A7-6.exe
+  TARGET_IMPLIB = Homework\Homework1\libA7-6.dll.a
+  TARGET_PDB = A7-6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target A7-7
+
+
+#############################################
+# Order-only phony target for A7-7
+
+build cmake_object_order_depends_target_A7-7: phony || .
+
+build Homework/Homework1/CMakeFiles/A7-7.dir/数组的右移函数.cpp.obj: CXX_COMPILER__A7-7_unscanned_Debug D$:/cpp/Homework/Homework1/数组的右移函数.cpp || cmake_object_order_depends_target_A7-7
+  DEP_FILE = Homework\Homework1\CMakeFiles\A7-7.dir\数组的右移函数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target A7-7
+
+
+#############################################
+# Link the executable Homework\Homework1\A7-7.exe
+
+build Homework/Homework1/A7-7.exe: CXX_EXECUTABLE_LINKER__A7-7_Debug Homework/Homework1/CMakeFiles/A7-7.dir/数组的右移函数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\A7-7.exe
+  TARGET_IMPLIB = Homework\Homework1\libA7-7.dll.a
+  TARGET_PDB = A7-7.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -545,6 +611,14 @@ build A7-5: phony Homework/Homework1/A7-5.exe
 
 build A7-5.exe: phony Homework/Homework1/A7-5.exe
 
+build A7-6: phony Homework/Homework1/A7-6.exe
+
+build A7-6.exe: phony Homework/Homework1/A7-6.exe
+
+build A7-7: phony Homework/Homework1/A7-7.exe
+
+build A7-7.exe: phony Homework/Homework1/A7-7.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -572,7 +646,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/A6-3.exe Homework/Homework1/A6-4.exe Homework/Homework1/A6-2.exe Homework/Homework1/A1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/A7-2.exe Homework/Homework1/A7-3.exe Homework/Homework1/A7-4.exe Homework/Homework1/A7-5.exe
+build Homework/Homework1/all: phony Homework/Homework1/A6-3.exe Homework/Homework1/A6-4.exe Homework/Homework1/A6-2.exe Homework/Homework1/A1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/A7-2.exe Homework/Homework1/A7-3.exe Homework/Homework1/A7-4.exe Homework/Homework1/A7-5.exe Homework/Homework1/A7-6.exe Homework/Homework1/A7-7.exe
 
 # =============================================================================
 

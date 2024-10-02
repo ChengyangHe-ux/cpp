@@ -9,7 +9,7 @@
 7	315	7494829341374144	Homework/Homework1/CMakeFiles/wujiao.dir/五角大楼.cpp.obj	96d60bf504a05fea
 1	203	7494029365898967	Homework1/CMakeFiles/hai.dir/hai.cpp.obj	ef263d5fb1228e75
 2	328	7494135504596345	Homework1/CMakeFiles/A6-2.dir/A6-2.cpp.obj	c20f2bc28020e668
-2	277	7495579837368319	build.ninja	1fd0a34564055d17
+2	277	7495606580005874	build.ninja	1fd0a34564055d17
 2	389	7494612643539665	Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj	b3f652c6be89fdd0
 5	242	7494630382673122	Homework/Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj	7bc9e8b9561583d1
 243	339	7494630385048490	Homework/Homework1/duogefenshu.exe	776eddabe34409c1
@@ -28,11 +28,5 @@
 234	330	7495578234384953	Homework/Homework1/shuzuchazhao.exe	5653f449d4f3e2f4
 2	228	7495595816390463	Homework/Homework1/CMakeFiles/A7-2.dir/数组的极值函数.cpp.obj	e9cd538dc4281708
 231	338	7495595818679316	Homework/Homework1/A7-2.exe	9394bf9bba29f26d
-3	243	7495596183582761	Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj	eb105a30e56076d4
-243	335	7495596185981965	Homework/Homework1/A7-5.exe	121ff4bdfdbba664
-5	313	7495596582789542	Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj	eb105a30e56076d4
-314	416	7495596585884007	Homework/Homework1/A7-5.exe	121ff4bdfdbba664
-11	280	7495597124083708	Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj	eb105a30e56076d4
-281	382	7495597126782546	Homework/Homework1/A7-5.exe	121ff4bdfdbba664
 5	232	7495597294456635	Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj	eb105a30e56076d4
 232	329	7495597296731404	Homework/Homework1/A7-5.exe	121ff4bdfdbba664
