@@ -266,6 +266,72 @@ build Homework/Homework1/yongshengzuzhou.exe: CXX_EXECUTABLE_LINKER__yongshengzu
   TARGET_IMPLIB = Homework\Homework1\libyongshengzuzhou.dll.a
   TARGET_PDB = yongshengzuzhou.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target shuzujizhihanshu
+
+
+#############################################
+# Order-only phony target for shuzujizhihanshu
+
+build cmake_object_order_depends_target_shuzujizhihanshu: phony || .
+
+build Homework/Homework1/CMakeFiles/shuzujizhihanshu.dir/数组的极值函数.cpp.obj: CXX_COMPILER__shuzujizhihanshu_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值函数.cpp || cmake_object_order_depends_target_shuzujizhihanshu
+  DEP_FILE = Homework\Homework1\CMakeFiles\shuzujizhihanshu.dir\数组的极值函数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\shuzujizhihanshu.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\shuzujizhihanshu.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target shuzujizhihanshu
+
+
+#############################################
+# Link the executable Homework\Homework1\shuzujizhihanshu.exe
+
+build Homework/Homework1/shuzujizhihanshu.exe: CXX_EXECUTABLE_LINKER__shuzujizhihanshu_Debug Homework/Homework1/CMakeFiles/shuzujizhihanshu.dir/数组的极值函数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\shuzujizhihanshu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\shuzujizhihanshu.exe
+  TARGET_IMPLIB = Homework\Homework1\libshuzujizhihanshu.dll.a
+  TARGET_PDB = shuzujizhihanshu.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target shuzujizhixiabiaohanshu
+
+
+#############################################
+# Order-only phony target for shuzujizhixiabiaohanshu
+
+build cmake_object_order_depends_target_shuzujizhixiabiaohanshu: phony || .
+
+build Homework/Homework1/CMakeFiles/shuzujizhixiabiaohanshu.dir/数组的极值下标函数.cpp.obj: CXX_COMPILER__shuzujizhixiabiaohanshu_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值下标函数.cpp || cmake_object_order_depends_target_shuzujizhixiabiaohanshu
+  DEP_FILE = Homework\Homework1\CMakeFiles\shuzujizhixiabiaohanshu.dir\数组的极值下标函数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\shuzujizhixiabiaohanshu.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\shuzujizhixiabiaohanshu.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target shuzujizhixiabiaohanshu
+
+
+#############################################
+# Link the executable Homework\Homework1\shuzujizhixiabiaohanshu.exe
+
+build Homework/Homework1/shuzujizhixiabiaohanshu.exe: CXX_EXECUTABLE_LINKER__shuzujizhixiabiaohanshu_Debug Homework/Homework1/CMakeFiles/shuzujizhixiabiaohanshu.dir/数组的极值下标函数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\shuzujizhixiabiaohanshu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework1\shuzujizhixiabiaohanshu.exe
+  TARGET_IMPLIB = Homework\Homework1\libshuzujizhixiabiaohanshu.dll.a
+  TARGET_PDB = shuzujizhixiabiaohanshu.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -401,6 +467,14 @@ build qing: phony Homework/Homework2/qing.exe
 
 build qing.exe: phony Homework/Homework2/qing.exe
 
+build shuzujizhihanshu: phony Homework/Homework1/shuzujizhihanshu.exe
+
+build shuzujizhihanshu.exe: phony Homework/Homework1/shuzujizhihanshu.exe
+
+build shuzujizhixiabiaohanshu: phony Homework/Homework1/shuzujizhixiabiaohanshu.exe
+
+build shuzujizhixiabiaohanshu.exe: phony Homework/Homework1/shuzujizhixiabiaohanshu.exe
+
 build wujiao: phony Homework/Homework1/wujiao.exe
 
 build wujiao.exe: phony Homework/Homework1/wujiao.exe
@@ -424,7 +498,7 @@ build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe Homework/Homework1/wujiao.exe Homework/Homework1/yongshengzuzhou.exe
+build Homework/Homework1/all: phony Homework/Homework1/duogefenshu.exe Homework/Homework1/duogeshu.exe Homework/Homework1/fenshu.exe Homework/Homework1/jinnian.exe Homework/Homework1/wujiao.exe Homework/Homework1/yongshengzuzhou.exe Homework/Homework1/shuzujizhihanshu.exe Homework/Homework1/shuzujizhixiabiaohanshu.exe
 
 # =============================================================================
 
