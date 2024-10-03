@@ -25,13 +25,12 @@ int FindiSecondMax(int arr[],int size) {
         }
     }int count=0;
     if(secondindex==-1) {
-        for(int i=0;i<size;i++) {
+        int i;
+        for(i=0;i<size;i++) {
             if(arr[i]==firstmax) {
                 count++;
-                if(count==2) return i;
             }
-        }
-        return -1;
+        }if(count==2) return i;
     }return secondindex;
 }
 
