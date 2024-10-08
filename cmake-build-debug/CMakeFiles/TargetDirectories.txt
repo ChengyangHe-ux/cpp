@@ -24,5 +24,14 @@ D:/cpp/cmake-build-debug/Homework/Homework1/CMakeFiles/rebuild_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework2/CMakeFiles/qing.dir
 D:/cpp/cmake-build-debug/Homework/Homework2/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/Homework/Homework2/CMakeFiles/rebuild_cache.dir
+D:/cpp/cmake-build-debug/luogu/CMakeFiles/P1179.dir
 D:/cpp/cmake-build-debug/luogu/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/luogu/CMakeFiles/rebuild_cache.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-1.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-2.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-25-1.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/edit_cache.dir
+D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/rebuild_cache.dir

@@ -572,8 +572,8 @@ build Homework/Homework1/A9-3.exe: CXX_EXECUTABLE_LINKER__A9-3_Debug Homework/Ho
 
 build cmake_object_order_depends_target_A9-4: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-4.dir/!!!数组中第二大的数.cpp.obj: CXX_COMPILER__A9-4_unscanned_Debug D$:/cpp/Homework/Homework1/!!!数组中第二大的数.cpp || cmake_object_order_depends_target_A9-4
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-4.dir\!!!数组中第二大的数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/A9-4.dir/!数组中第二大的数.cpp.obj: CXX_COMPILER__A9-4_unscanned_Debug D$:/cpp/Homework/Homework1/!数组中第二大的数.cpp || cmake_object_order_depends_target_A9-4
+  DEP_FILE = Homework\Homework1\CMakeFiles\A9-4.dir\!数组中第二大的数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
@@ -586,7 +586,7 @@ build Homework/Homework1/CMakeFiles/A9-4.dir/!!!数组中第二大的数.cpp.obj
 #############################################
 # Link the executable Homework\Homework1\A9-4.exe
 
-build Homework/Homework1/A9-4.exe: CXX_EXECUTABLE_LINKER__A9-4_Debug Homework/Homework1/CMakeFiles/A9-4.dir/!!!数组中第二大的数.cpp.obj
+build Homework/Homework1/A9-4.exe: CXX_EXECUTABLE_LINKER__A9-4_Debug Homework/Homework1/CMakeFiles/A9-4.dir/!数组中第二大的数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
@@ -784,6 +784,39 @@ build Homework/Homework2/rebuild_cache: phony Homework/Homework2/CMakeFiles/rebu
 # D:/cpp/CMakeLists.txt
 # =============================================================================
 
+# =============================================================================
+# Object build statements for EXECUTABLE target P1179
+
+
+#############################################
+# Order-only phony target for P1179
+
+build cmake_object_order_depends_target_P1179: phony || .
+
+build luogu/CMakeFiles/P1179.dir/P1179数字统计.cpp.obj: CXX_COMPILER__P1179_unscanned_Debug D$:/cpp/luogu/P1179数字统计.cpp || cmake_object_order_depends_target_P1179
+  DEP_FILE = luogu\CMakeFiles\P1179.dir\P1179数字统计.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = luogu\CMakeFiles\P1179.dir
+  OBJECT_FILE_DIR = luogu\CMakeFiles\P1179.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1179
+
+
+#############################################
+# Link the executable luogu\P1179.exe
+
+build luogu/P1179.exe: CXX_EXECUTABLE_LINKER__P1179_Debug luogu/CMakeFiles/P1179.dir/P1179数字统计.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = luogu\CMakeFiles\P1179.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = luogu\P1179.exe
+  TARGET_IMPLIB = luogu\libP1179.dll.a
+  TARGET_PDB = P1179.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -806,6 +839,232 @@ build luogu/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build luogu/rebuild_cache: phony luogu/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/cpp/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-1
+
+
+#############################################
+# Order-only phony target for x-1-1
+
+build cmake_object_order_depends_target_x-1-1: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-1.dir/帝国活塞A.cpp.obj: CXX_COMPILER__x-1-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞A.cpp || cmake_object_order_depends_target_x-1-1
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir\帝国活塞A.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-1
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-1.exe
+
+build BountyOrder/BountyOrder0/x-1-1.exe: CXX_EXECUTABLE_LINKER__x-1-1_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-1.dir/帝国活塞A.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-1.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-1.dll.a
+  TARGET_PDB = x-1-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-2
+
+
+#############################################
+# Order-only phony target for x-1-2
+
+build cmake_object_order_depends_target_x-1-2: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-2.dir/帝国活塞B.cpp.obj: CXX_COMPILER__x-1-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞B.cpp || cmake_object_order_depends_target_x-1-2
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir\帝国活塞B.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-2
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-2.exe
+
+build BountyOrder/BountyOrder0/x-1-2.exe: CXX_EXECUTABLE_LINKER__x-1-2_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-2.dir/帝国活塞B.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-2.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-2.dll.a
+  TARGET_PDB = x-1-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-25-1
+
+
+#############################################
+# Order-only phony target for x-1-25-1
+
+build cmake_object_order_depends_target_x-1-25-1: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-1.dir/中位数选择排序.cpp.obj: CXX_COMPILER__x-1-25-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数选择排序.cpp || cmake_object_order_depends_target_x-1-25-1
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir\中位数选择排序.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-25-1
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-25-1.exe
+
+build BountyOrder/BountyOrder0/x-1-25-1.exe: CXX_EXECUTABLE_LINKER__x-1-25-1_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-1.dir/中位数选择排序.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-1.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-1.dll.a
+  TARGET_PDB = x-1-25-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-25-2
+
+
+#############################################
+# Order-only phony target for x-1-25-2
+
+build cmake_object_order_depends_target_x-1-25-2: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir/中位数冒泡排序.cpp.obj: CXX_COMPILER__x-1-25-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数冒泡排序.cpp || cmake_object_order_depends_target_x-1-25-2
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir\中位数冒泡排序.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-25-2
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-25-2.exe
+
+build BountyOrder/BountyOrder0/x-1-25-2.exe: CXX_EXECUTABLE_LINKER__x-1-25-2_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir/中位数冒泡排序.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-2.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-2.dll.a
+  TARGET_PDB = x-1-25-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-25-3
+
+
+#############################################
+# Order-only phony target for x-1-25-3
+
+build cmake_object_order_depends_target_x-1-25-3: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj: CXX_COMPILER__x-1-25-3_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数队列排序.cpp || cmake_object_order_depends_target_x-1-25-3
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir\中位数队列排序.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-25-3
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-25-3.exe
+
+build BountyOrder/BountyOrder0/x-1-25-3.exe: CXX_EXECUTABLE_LINKER__x-1-25-3_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-3.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-3.dll.a
+  TARGET_PDB = x-1-25-3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target x-1-4
+
+
+#############################################
+# Order-only phony target for x-1-4
+
+build cmake_object_order_depends_target_x-1-4: phony || .
+
+build BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj: CXX_COMPILER__x-1-4_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/MusicGame.cpp || cmake_object_order_depends_target_x-1-4
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir\MusicGame.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target x-1-4
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder0\x-1-4.exe
+
+build BountyOrder/BountyOrder0/x-1-4.exe: CXX_EXECUTABLE_LINKER__x-1-4_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder0\x-1-4.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-4.dll.a
+  TARGET_PDB = x-1-4.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build BountyOrder/BountyOrder0/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder0 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build BountyOrder/BountyOrder0/edit_cache: phony BountyOrder/BountyOrder0/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build BountyOrder/BountyOrder0/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder0 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build BountyOrder/BountyOrder0/rebuild_cache: phony BountyOrder/BountyOrder0/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Target aliases.
@@ -878,6 +1137,10 @@ build A9-7: phony Homework/Homework1/A9-7.exe
 
 build A9-7.exe: phony Homework/Homework1/A9-7.exe
 
+build P1179: phony luogu/P1179.exe
+
+build P1179.exe: phony luogu/P1179.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -890,6 +1153,30 @@ build qing: phony Homework/Homework2/qing.exe
 
 build qing.exe: phony Homework/Homework2/qing.exe
 
+build x-1-1: phony BountyOrder/BountyOrder0/x-1-1.exe
+
+build x-1-1.exe: phony BountyOrder/BountyOrder0/x-1-1.exe
+
+build x-1-2: phony BountyOrder/BountyOrder0/x-1-2.exe
+
+build x-1-2.exe: phony BountyOrder/BountyOrder0/x-1-2.exe
+
+build x-1-25-1: phony BountyOrder/BountyOrder0/x-1-25-1.exe
+
+build x-1-25-1.exe: phony BountyOrder/BountyOrder0/x-1-25-1.exe
+
+build x-1-25-2: phony BountyOrder/BountyOrder0/x-1-25-2.exe
+
+build x-1-25-2.exe: phony BountyOrder/BountyOrder0/x-1-25-2.exe
+
+build x-1-25-3: phony BountyOrder/BountyOrder0/x-1-25-3.exe
+
+build x-1-25-3.exe: phony BountyOrder/BountyOrder0/x-1-25-3.exe
+
+build x-1-4: phony BountyOrder/BountyOrder0/x-1-4.exe
+
+build x-1-4.exe: phony BountyOrder/BountyOrder0/x-1-4.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -898,7 +1185,14 @@ build qing.exe: phony Homework/Homework2/qing.exe
 #############################################
 # Folder: D:/cpp/cmake-build-debug
 
-build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all
+build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all BountyOrder/BountyOrder0/all
+
+# =============================================================================
+
+#############################################
+# Folder: D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0
+
+build BountyOrder/BountyOrder0/all: phony BountyOrder/BountyOrder0/x-1-1.exe BountyOrder/BountyOrder0/x-1-2.exe BountyOrder/BountyOrder0/x-1-25-1.exe BountyOrder/BountyOrder0/x-1-25-2.exe BountyOrder/BountyOrder0/x-1-25-3.exe BountyOrder/BountyOrder0/x-1-4.exe
 
 # =============================================================================
 
@@ -919,7 +1213,7 @@ build Homework/Homework2/all: phony Homework/Homework2/qing.exe
 #############################################
 # Folder: D:/cpp/cmake-build-debug/luogu
 
-build luogu/all: phony
+build luogu/all: phony luogu/P1179.exe
 
 # =============================================================================
 # Built-in targets
@@ -928,14 +1222,14 @@ build luogu/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt: phony
 
 
 #############################################
