@@ -1,0 +1,6 @@
+add_executable(x-1-1 帝国活塞A.cpp)
+add_executable(x-1-2 帝国活塞B.cpp)
+add_executable(x-1-25-1 中位数选择排序.cpp)
+add_executable(x-1-25-2 中位数冒泡排序.cpp)
+add_executable(x-1-25-3 中位数队列排序.cpp)
+add_executable(x-1-4 MusicGame.cpp)

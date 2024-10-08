@@ -1,26 +1,36 @@
 //
 // Created by 何承洋 on 24-9-30.
 //
-#include <math.h>
-#include <stdio.h>
+#include <iostream>
+#include <queue>
+using namespace std;
 
 int main() {
-    double a1, a2, b1, b2;
-    scanf("%lf %lf %lf %lf", &a1, &a2, &b1, &b2);
-    double d = sqrt(((b1 - a1) * (b1 - a1) + (b2 - a2) * (b2 - a2)));
-    const double radians = 54.0 * (M_PI / 180.0);
-    double h = d / 2.0 * tan(radians);
-    double mid1 = (a1 + b1) / 2.0;
-    double mid2 = (a2 + b2) / 2.0;
-    double radians1 = atan2(a2 - b2, b1 - a1);
-    double cent1, cent2;
-    cent1 = mid1 - h * sin(radians1);
-    cent2 = mid2 - h * cos(radians1);
-    double radians2;
-    radians2 = -M_PI / 2 + 2 * radians - radians1;
-    double mid3, mid4;
-    mid3 = cent1 - h * cos(radians2);
-    mid4 = cent2 + h * sin(radians2);
-    printf("%.3lf %.3lf", a1 + 2 * (mid3 - a1), a2 + 2 * (mid4 - a2));
+    int N;
+    cin >> N;
+    int arr[N];
+    for (int i = 0; i < N; i++) {
+        cin >> arr[i];
+    }
+    priority_queue<int> maxHeap;
+    priority_queue<int, vector<int>, greater<int>> minHeap;
+    for (int i = 0; i < N; i++) {
+        if (maxHeap.empty() || arr[i] <= maxHeap.top()) {
+            maxHeap.push(arr[i]);
+        } else {
+            minHeap.push(arr[i]);
+        }
+        if (maxHeap.size() > minHeap.size() + 1) {
+            minHeap.push(maxHeap.top());
+            maxHeap.pop();
+        } else if (minHeap.size() > maxHeap.size()) {
+            maxHeap.push(minHeap.top());
+            minHeap.pop();
+        }
+        if ((i + 1) % 2 == 1) {
+            cout << maxHeap.top() << endl;
+        }
+    }
+
     return 0;
 }
