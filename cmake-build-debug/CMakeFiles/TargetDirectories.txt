@@ -35,3 +35,7 @@ D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir
 D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir
 D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/rebuild_cache.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-1.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-2.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/edit_cache.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/rebuild_cache.dir

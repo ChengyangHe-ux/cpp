@@ -11,7 +11,7 @@
 7	315	7494829341374144	Homework/Homework1/CMakeFiles/wujiao.dir/五角大楼.cpp.obj	96d60bf504a05fea
 1	203	7494029365898967	Homework1/CMakeFiles/hai.dir/hai.cpp.obj	ef263d5fb1228e75
 2	328	7494135504596345	Homework1/CMakeFiles/A6-2.dir/A6-2.cpp.obj	c20f2bc28020e668
-2	277	7499865193705912	build.ninja	1fd0a34564055d17
+2	277	7502542531159635	build.ninja	1fd0a34564055d17
 2	389	7494612643539665	Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj	b3f652c6be89fdd0
 5	242	7494630382673122	Homework/Homework1/CMakeFiles/duogefenshu.dir/多个分数的加法.cpp.obj	7bc9e8b9561583d1
 243	339	7494630385048490	Homework/Homework1/duogefenshu.exe	776eddabe34409c1
@@ -38,12 +38,13 @@
 2	228	7495595816390463	Homework/Homework1/CMakeFiles/A7-2.dir/数组的极值函数.cpp.obj	e9cd538dc4281708
 231	338	7495595818679316	Homework/Homework1/A7-2.exe	9394bf9bba29f26d
 245	349	7496655877666188	Homework/Homework1/A9-5.exe	39de67ba6f171112
-302	411	7499860054952245	BountyOrder/BountyOrder0/x-1-25-3.exe	47f65291dfad346a
+322	440	7499866450000799	BountyOrder/BountyOrder0/x-1-25-3.exe	47f65291dfad346a
 5	232	7495597294456635	Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj	eb105a30e56076d4
 232	329	7495597296731404	Homework/Homework1/A7-5.exe	121ff4bdfdbba664
 6	299	7496710727447935	Homework/Homework1/CMakeFiles/A9-4.dir/数组中第二大的数.cpp.obj	8beed4e42e5f0286
 214	311	7499724421555249	BountyOrder/BountyOrder0/x-1-2.exe	89eabf94e0c6f076
 6	229	7495626131410218	Homework/Homework1/CMakeFiles/A7-6.dir/数组的左移函数.cpp.obj	9627a9f1d2327130
+5	4649	7502538212191710	BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj	94e9c8668cde9d84
 230	325	7495626133647930	Homework/Homework1/A7-6.exe	7b27d8689143e727
 2	225	7495631476818960	Homework/Homework1/CMakeFiles/A7-7.dir/数组的右移函数.cpp.obj	148dc6573ec3d32
 299	417	7496710730377024	Homework/Homework1/A9-4.exe	6006c0b11f71ad56
@@ -51,9 +52,9 @@
 243	345	7495673292908076	Homework/Homework1/A9-2.exe	c8ed75f6aa99822f
 393	527	7495942828409445	Homework/Homework1/A9-3.exe	c873f9fae2ae5d74
 5	292	7499280564338612	BountyOrder/BountyOrder0/CMakeFiles/x-1-A.dir/帝国活塞A.cpp.obj	fd628cbd250b0ffe
-270	422	7497157353674132	Homework/Homework1/A9-7.exe	428690f91d3f8d1c
 239	355	7497143060159689	Homework/Homework1/A9-6.exe	8bbefe2a7c8e7daf
-2	301	7499860051962224	BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj	5f9e2ca98c50053e
+270	422	7497157353674132	Homework/Homework1/A9-7.exe	428690f91d3f8d1c
+5	322	7499866446824389	BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj	5f9e2ca98c50053e
 7	244	7496655875299286	Homework/Homework1/CMakeFiles/A9-5.dir/数组中最小值的个数.cpp.obj	dae081728cded715
 5	238	7497143057821486	Homework/Homework1/CMakeFiles/A9-6.dir/数组中递增子序列的个数.cpp.obj	e2c44948dc9da057
 292	412	7499280567220506	BountyOrder/BountyOrder0/x-1-A.exe	83637f51c9ddc677
@@ -61,7 +62,6 @@
 5	208	7499751266628187	BountyOrder/BountyOrder0/CMakeFiles/x-1-25.dir/中位数.cpp.obj	3d9ea75ef4b3b587
 5	207	7499808428743046	BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir/中位数冒泡排序.cpp.obj	3839432df915825
 207	316	7499808430771785	BountyOrder/BountyOrder0/x-1-25-2.exe	8f9d7fa95a07db70
-5	322	7499866446824389	BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj	5f9e2ca98c50053e
-322	440	7499866450000799	BountyOrder/BountyOrder0/x-1-25-3.exe	47f65291dfad346a
-2	208	7499866789480359	BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj	94e9c8668cde9d84
-208	303	7499866791544265	BountyOrder/BountyOrder0/x-1-4.exe	68f73986757ba3f9
+4649	7199	7502538258636510	BountyOrder/BountyOrder0/x-1-4.exe	68f73986757ba3f9
+4	213	7502540842771210	course/course1/CMakeFiles/c-1-2-1.dir/定点删除与定点插入.cpp.obj	277e13bcab5c5b4a
+214	314	7502540844866269	course/course1/c-1-2-1.exe	db5d6deb1b5d0ca4

@@ -584,5 +584,6 @@
     <option name="/Default/CodeInspection/Highlighting/InspectionSeverities/=StringLiteralTypo/@EntryIndexRemoved" />
     <option name="/Default/CodeInspection/Highlighting/InspectionSeverities/=CommentTypo/@EntryIndexRemoved" />
     <option name="/Default/CodeInspection/Highlighting/InspectionSeverities/=IdentifierTypo/@EntryIndexRemoved" />
+    <option name="/Default/CodeInspection/Highlighting/BatterySaverLevel/@EntryValue" value="1" type="long" />
   </component>
 </project>
