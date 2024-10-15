@@ -1,0 +1,8 @@
+add_executable(A10-3 整数的去重.cpp)
+add_executable(A10-4 集合的交集.cpp)
+add_executable(A10-5 集合的并集.cpp)
+add_executable(A10-1 有序数组的合并.cpp)
+add_executable(A10-2 有序子序列的合并.cpp)
+add_executable(A11-1 高精度整数与常规整数的乘法.cpp)
+add_executable(A11-2 K进制的高精度整数.cpp)
+add_executable(A11-3 高精度整数的加法.cpp)

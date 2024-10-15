@@ -37,5 +37,17 @@ D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0/CMakeFiles/rebuild_cache.dir
 D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-1.dir
 D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-2.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-3.dir
+D:/cpp/cmake-build-debug/course/course1/CMakeFiles/c-1-2-4.dir
 D:/cpp/cmake-build-debug/course/course1/CMakeFiles/edit_cache.dir
 D:/cpp/cmake-build-debug/course/course1/CMakeFiles/rebuild_cache.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A10-3.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A10-4.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A10-5.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A10-1.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A10-2.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A11-1.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A11-2.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/A11-3.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/edit_cache.dir
+D:/cpp/cmake-build-debug/Homework/Homework3/CMakeFiles/rebuild_cache.dir
