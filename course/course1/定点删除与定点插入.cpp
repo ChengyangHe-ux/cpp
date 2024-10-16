@@ -9,30 +9,29 @@ void Output(int arr[],int n) {
     }
     cout<<endl;
 }
-int Removeat(int arr[],int n,int x) {
-    if(x<0||x>=n) return n;
-    for(int i=x+1;i<n;i++) {
-        arr[i-1]=arr[i];
+int RemoveAt(int arr[],int n,int k) {
+    if(k>=n||k<0) return n;
+    for(int i=k;i<n-1;i++) {
+        arr[i]=arr[i+1];
     }
     return n-1;
 }
-int Insertat(int arr[],int n,int x,int k) {
-    if(x<0||x>n) return n;
-    for(int i=n;i>x;i--) {
+int InsertAt(int arr[],int n,int k,int x) {
+    if(k>=n||k<0) return n;
+    for(int i=n;i>k;i--) {
         arr[i]=arr[i-1];
     }
-    arr[x]=k;
+    arr[k]=x;
     return n+1;
 }
 int main() {
     int a[20]={5,6,1,2,3,4,7,8}, n=8;
     Output(a,n);
-    n=Removeat(a,n, 3);    Output(a,n);
-    n=Insertat(a,n, 3,10); Output(a,n);
-    n=Insertat(a,n, 3,11); Output(a,n);
-    n=Insertat(a,n, 3,12); Output(a,n);
-    n=Insertat(a,n, 3,13); Output(a,n);
-
-
+    n=RemoveAt(a,n,3);
+    Output(a,n);
+    n=InsertAt(a,n, 3,10); Output(a,n); // 5,6,1,10,3,4,7,8
+    n=InsertAt(a,n, 3,11); Output(a,n); // 5,6,1,11,10,3,4,7,8
+    n=InsertAt(a,n, 3,12); Output(a,n); // 5,6,1,12,11,10,3,4,7,8
+    n=InsertAt(a,n, 3,13); Output(a,n); // 5,6,1,13,12,11,,10,3,4,7,8
     return 0;
 }

@@ -1203,6 +1203,105 @@ build course/course1/c-1-2-4.exe: CXX_EXECUTABLE_LINKER__c-1-2-4_Debug course/co
   TARGET_IMPLIB = course\course1\libc-1-2-4.dll.a
   TARGET_PDB = c-1-2-4.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target c-1-2-5
+
+
+#############################################
+# Order-only phony target for c-1-2-5
+
+build cmake_object_order_depends_target_c-1-2-5: phony || .
+
+build course/course1/CMakeFiles/c-1-2-5.dir/有序插入.cpp.obj: CXX_COMPILER__c-1-2-5_unscanned_Debug D$:/cpp/course/course1/有序插入.cpp || cmake_object_order_depends_target_c-1-2-5
+  DEP_FILE = course\course1\CMakeFiles\c-1-2-5.dir\有序插入.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-5.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c-1-2-5
+
+
+#############################################
+# Link the executable course\course1\c-1-2-5.exe
+
+build course/course1/c-1-2-5.exe: CXX_EXECUTABLE_LINKER__c-1-2-5_Debug course/course1/CMakeFiles/c-1-2-5.dir/有序插入.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\c-1-2-5.exe
+  TARGET_IMPLIB = course\course1\libc-1-2-5.dll.a
+  TARGET_PDB = c-1-2-5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c-1-2-6
+
+
+#############################################
+# Order-only phony target for c-1-2-6
+
+build cmake_object_order_depends_target_c-1-2-6: phony || .
+
+build course/course1/CMakeFiles/c-1-2-6.dir/集合运算（交集）.cpp.obj: CXX_COMPILER__c-1-2-6_unscanned_Debug D$:/cpp/course/course1/集合运算（交集）.cpp || cmake_object_order_depends_target_c-1-2-6
+  DEP_FILE = course\course1\CMakeFiles\c-1-2-6.dir\集合运算（交集）.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-6.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c-1-2-6
+
+
+#############################################
+# Link the executable course\course1\c-1-2-6.exe
+
+build course/course1/c-1-2-6.exe: CXX_EXECUTABLE_LINKER__c-1-2-6_Debug course/course1/CMakeFiles/c-1-2-6.dir/集合运算（交集）.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\c-1-2-6.exe
+  TARGET_IMPLIB = course\course1\libc-1-2-6.dll.a
+  TARGET_PDB = c-1-2-6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c-1-2-7
+
+
+#############################################
+# Order-only phony target for c-1-2-7
+
+build cmake_object_order_depends_target_c-1-2-7: phony || .
+
+build course/course1/CMakeFiles/c-1-2-7.dir/集合运算（并集）.cpp.obj: CXX_COMPILER__c-1-2-7_unscanned_Debug D$:/cpp/course/course1/集合运算（并集）.cpp || cmake_object_order_depends_target_c-1-2-7
+  DEP_FILE = course\course1\CMakeFiles\c-1-2-7.dir\集合运算（并集）.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-7.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c-1-2-7
+
+
+#############################################
+# Link the executable course\course1\c-1-2-7.exe
+
+build course/course1/c-1-2-7.exe: CXX_EXECUTABLE_LINKER__c-1-2-7_Debug course/course1/CMakeFiles/c-1-2-7.dir/集合运算（并集）.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\c-1-2-7.exe
+  TARGET_IMPLIB = course\course1\libc-1-2-7.dll.a
+  TARGET_PDB = c-1-2-7.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1641,6 +1740,18 @@ build c-1-2-4: phony course/course1/c-1-2-4.exe
 
 build c-1-2-4.exe: phony course/course1/c-1-2-4.exe
 
+build c-1-2-5: phony course/course1/c-1-2-5.exe
+
+build c-1-2-5.exe: phony course/course1/c-1-2-5.exe
+
+build c-1-2-6: phony course/course1/c-1-2-6.exe
+
+build c-1-2-6.exe: phony course/course1/c-1-2-6.exe
+
+build c-1-2-7: phony course/course1/c-1-2-7.exe
+
+build c-1-2-7.exe: phony course/course1/c-1-2-7.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -1720,7 +1831,7 @@ build Homework/Homework3/all: phony Homework/Homework3/A10-3.exe Homework/Homewo
 #############################################
 # Folder: D:/cpp/cmake-build-debug/course/course1
 
-build course/course1/all: phony course/course1/c-1-2-1.exe course/course1/c-1-2-2.exe course/course1/c-1-2-3.exe course/course1/c-1-2-4.exe
+build course/course1/all: phony course/course1/c-1-2-1.exe course/course1/c-1-2-2.exe course/course1/c-1-2-3.exe course/course1/c-1-2-4.exe course/course1/c-1-2-5.exe course/course1/c-1-2-6.exe course/course1/c-1-2-7.exe
 
 # =============================================================================
 
