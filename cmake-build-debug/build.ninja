@@ -1302,6 +1302,39 @@ build course/course1/c-1-2-7.exe: CXX_EXECUTABLE_LINKER__c-1-2-7_Debug course/co
   TARGET_IMPLIB = course\course1\libc-1-2-7.dll.a
   TARGET_PDB = c-1-2-7.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target c-1-2-8
+
+
+#############################################
+# Order-only phony target for c-1-2-8
+
+build cmake_object_order_depends_target_c-1-2-8: phony || .
+
+build course/course1/CMakeFiles/c-1-2-8.dir/集合运算（唯一性）.cpp.obj: CXX_COMPILER__c-1-2-8_unscanned_Debug D$:/cpp/course/course1/集合运算（唯一性）.cpp || cmake_object_order_depends_target_c-1-2-8
+  DEP_FILE = course\course1\CMakeFiles\c-1-2-8.dir\集合运算（唯一性）.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-8.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c-1-2-8
+
+
+#############################################
+# Link the executable course\course1\c-1-2-8.exe
+
+build course/course1/c-1-2-8.exe: CXX_EXECUTABLE_LINKER__c-1-2-8_Debug course/course1/CMakeFiles/c-1-2-8.dir/集合运算（唯一性）.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\c-1-2-8.exe
+  TARGET_IMPLIB = course\course1\libc-1-2-8.dll.a
+  TARGET_PDB = c-1-2-8.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1752,6 +1785,10 @@ build c-1-2-7: phony course/course1/c-1-2-7.exe
 
 build c-1-2-7.exe: phony course/course1/c-1-2-7.exe
 
+build c-1-2-8: phony course/course1/c-1-2-8.exe
+
+build c-1-2-8.exe: phony course/course1/c-1-2-8.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -1831,7 +1868,7 @@ build Homework/Homework3/all: phony Homework/Homework3/A10-3.exe Homework/Homewo
 #############################################
 # Folder: D:/cpp/cmake-build-debug/course/course1
 
-build course/course1/all: phony course/course1/c-1-2-1.exe course/course1/c-1-2-2.exe course/course1/c-1-2-3.exe course/course1/c-1-2-4.exe course/course1/c-1-2-5.exe course/course1/c-1-2-6.exe course/course1/c-1-2-7.exe
+build course/course1/all: phony course/course1/c-1-2-1.exe course/course1/c-1-2-2.exe course/course1/c-1-2-3.exe course/course1/c-1-2-4.exe course/course1/c-1-2-5.exe course/course1/c-1-2-6.exe course/course1/c-1-2-7.exe course/course1/c-1-2-8.exe
 
 # =============================================================================
 
