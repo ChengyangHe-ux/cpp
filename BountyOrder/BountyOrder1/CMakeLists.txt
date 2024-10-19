@@ -1,0 +1,1 @@
+add_executable(X1-1 玩俄罗斯原神玩的.cpp)

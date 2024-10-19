@@ -49,6 +49,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/cpp/cmake-build-debug/Homework/Homework3/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/cpp/cmake-build-debug/Homework/Homework4/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/cpp/cmake-build-debug/luogu/cmake_install.cmake")
 endif()
 
@@ -59,12 +69,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/cpp/cmake-build-debug/BountyOrder/BountyOrder1/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/cpp/cmake-build-debug/course/course1/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/cpp/cmake-build-debug/Homework/Homework3/cmake_install.cmake")
+  include("D:/cpp/cmake-build-debug/course/course2/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

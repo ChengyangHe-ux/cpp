@@ -1,0 +1,5 @@
+add_executable(C2-1 高精度整数：乘法1.cpp)
+add_executable(C2-2 高精度整数：乘法2.cpp)
+add_executable(C2-3 高精度整数：K进制.cpp)
+add_executable(C2-4 高精度整数：除法.cpp)
+add_executable(C2-5 高精度整数：加法.cpp)

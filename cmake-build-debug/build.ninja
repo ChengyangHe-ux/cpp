@@ -69,136 +69,136 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A6-3
+# Object build statements for EXECUTABLE target H1-1
 
 
 #############################################
-# Order-only phony target for A6-3
+# Order-only phony target for H1-1
 
-build cmake_object_order_depends_target_A6-3: phony || .
+build cmake_object_order_depends_target_H1-1: phony || .
 
-build Homework/Homework1/CMakeFiles/A6-3.dir/多个分数的加法.cpp.obj: CXX_COMPILER__A6-3_unscanned_Debug D$:/cpp/Homework/Homework1/多个分数的加法.cpp || cmake_object_order_depends_target_A6-3
-  DEP_FILE = Homework\Homework1\CMakeFiles\A6-3.dir\多个分数的加法.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-1.dir/多个分数的加法.cpp.obj: CXX_COMPILER__H1-1_unscanned_Debug D$:/cpp/Homework/Homework1/多个分数的加法.cpp || cmake_object_order_depends_target_H1-1
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-1.dir\多个分数的加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-3.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A6-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A6-3
+# Link build statements for EXECUTABLE target H1-1
 
 
 #############################################
-# Link the executable Homework\Homework1\A6-3.exe
+# Link the executable Homework\Homework1\H1-1.exe
 
-build Homework/Homework1/A6-3.exe: CXX_EXECUTABLE_LINKER__A6-3_Debug Homework/Homework1/CMakeFiles/A6-3.dir/多个分数的加法.cpp.obj
+build Homework/Homework1/H1-1.exe: CXX_EXECUTABLE_LINKER__H1-1_Debug Homework/Homework1/CMakeFiles/H1-1.dir/多个分数的加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A6-3.exe
-  TARGET_IMPLIB = Homework\Homework1\libA6-3.dll.a
-  TARGET_PDB = A6-3.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-1.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-1.dll.a
+  TARGET_PDB = H1-1.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A6-4
+# Object build statements for EXECUTABLE target H1-2
 
 
 #############################################
-# Order-only phony target for A6-4
+# Order-only phony target for H1-2
 
-build cmake_object_order_depends_target_A6-4: phony || .
+build cmake_object_order_depends_target_H1-2: phony || .
 
-build Homework/Homework1/CMakeFiles/A6-4.dir/多个数的最大公约数.cpp.obj: CXX_COMPILER__A6-4_unscanned_Debug D$:/cpp/Homework/Homework1/多个数的最大公约数.cpp || cmake_object_order_depends_target_A6-4
-  DEP_FILE = Homework\Homework1\CMakeFiles\A6-4.dir\多个数的最大公约数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-2.dir/多个数的最大公约数.cpp.obj: CXX_COMPILER__H1-2_unscanned_Debug D$:/cpp/Homework/Homework1/多个数的最大公约数.cpp || cmake_object_order_depends_target_H1-2
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-2.dir\多个数的最大公约数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-4.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A6-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A6-4
+# Link build statements for EXECUTABLE target H1-2
 
 
 #############################################
-# Link the executable Homework\Homework1\A6-4.exe
+# Link the executable Homework\Homework1\H1-2.exe
 
-build Homework/Homework1/A6-4.exe: CXX_EXECUTABLE_LINKER__A6-4_Debug Homework/Homework1/CMakeFiles/A6-4.dir/多个数的最大公约数.cpp.obj
+build Homework/Homework1/H1-2.exe: CXX_EXECUTABLE_LINKER__H1-2_Debug Homework/Homework1/CMakeFiles/H1-2.dir/多个数的最大公约数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A6-4.exe
-  TARGET_IMPLIB = Homework\Homework1\libA6-4.dll.a
-  TARGET_PDB = A6-4.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-2.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-2.dll.a
+  TARGET_PDB = H1-2.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A6-2
+# Object build statements for EXECUTABLE target H1-3
 
 
 #############################################
-# Order-only phony target for A6-2
+# Order-only phony target for H1-3
 
-build cmake_object_order_depends_target_A6-2: phony || .
+build cmake_object_order_depends_target_H1-3: phony || .
 
-build Homework/Homework1/CMakeFiles/A6-2.dir/分数的加法.cpp.obj: CXX_COMPILER__A6-2_unscanned_Debug D$:/cpp/Homework/Homework1/分数的加法.cpp || cmake_object_order_depends_target_A6-2
-  DEP_FILE = Homework\Homework1\CMakeFiles\A6-2.dir\分数的加法.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-3.dir/分数的加法.cpp.obj: CXX_COMPILER__H1-3_unscanned_Debug D$:/cpp/Homework/Homework1/分数的加法.cpp || cmake_object_order_depends_target_H1-3
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-3.dir\分数的加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-2.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A6-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A6-2
+# Link build statements for EXECUTABLE target H1-3
 
 
 #############################################
-# Link the executable Homework\Homework1\A6-2.exe
+# Link the executable Homework\Homework1\H1-3.exe
 
-build Homework/Homework1/A6-2.exe: CXX_EXECUTABLE_LINKER__A6-2_Debug Homework/Homework1/CMakeFiles/A6-2.dir/分数的加法.cpp.obj
+build Homework/Homework1/H1-3.exe: CXX_EXECUTABLE_LINKER__H1-3_Debug Homework/Homework1/CMakeFiles/H1-3.dir/分数的加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A6-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A6-2.exe
-  TARGET_IMPLIB = Homework\Homework1\libA6-2.dll.a
-  TARGET_PDB = A6-2.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-3.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-3.dll.a
+  TARGET_PDB = H1-3.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A1-4
+# Object build statements for EXECUTABLE target H1-4
 
 
 #############################################
-# Order-only phony target for A1-4
+# Order-only phony target for H1-4
 
-build cmake_object_order_depends_target_A1-4: phony || .
+build cmake_object_order_depends_target_H1-4: phony || .
 
-build Homework/Homework1/CMakeFiles/A1-4.dir/今年过去了多少天.cpp.obj: CXX_COMPILER__A1-4_unscanned_Debug D$:/cpp/Homework/Homework1/今年过去了多少天.cpp || cmake_object_order_depends_target_A1-4
-  DEP_FILE = Homework\Homework1\CMakeFiles\A1-4.dir\今年过去了多少天.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-4.dir/今年过去了多少天.cpp.obj: CXX_COMPILER__H1-4_unscanned_Debug D$:/cpp/Homework/Homework1/今年过去了多少天.cpp || cmake_object_order_depends_target_H1-4
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-4.dir\今年过去了多少天.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A1-4.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A1-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A1-4
+# Link build statements for EXECUTABLE target H1-4
 
 
 #############################################
-# Link the executable Homework\Homework1\A1-4.exe
+# Link the executable Homework\Homework1\H1-4.exe
 
-build Homework/Homework1/A1-4.exe: CXX_EXECUTABLE_LINKER__A1-4_Debug Homework/Homework1/CMakeFiles/A1-4.dir/今年过去了多少天.cpp.obj
+build Homework/Homework1/H1-4.exe: CXX_EXECUTABLE_LINKER__H1-4_Debug Homework/Homework1/CMakeFiles/H1-4.dir/今年过去了多少天.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A1-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A1-4.exe
-  TARGET_IMPLIB = Homework\Homework1\libA1-4.dll.a
-  TARGET_PDB = A1-4.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-4.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-4.dll.a
+  TARGET_PDB = H1-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1183
@@ -267,433 +267,433 @@ build Homework/Homework1/p1185.exe: CXX_EXECUTABLE_LINKER__p1185_Debug Homework/
   TARGET_PDB = p1185.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-2
+# Object build statements for EXECUTABLE target H1-5
 
 
 #############################################
-# Order-only phony target for A7-2
+# Order-only phony target for H1-5
 
-build cmake_object_order_depends_target_A7-2: phony || .
+build cmake_object_order_depends_target_H1-5: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-2.dir/数组的极值函数.cpp.obj: CXX_COMPILER__A7-2_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值函数.cpp || cmake_object_order_depends_target_A7-2
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-2.dir\数组的极值函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-5.dir/数组的极值函数.cpp.obj: CXX_COMPILER__H1-5_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值函数.cpp || cmake_object_order_depends_target_H1-5
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-5.dir\数组的极值函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-2.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-2
+# Link build statements for EXECUTABLE target H1-5
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-2.exe
+# Link the executable Homework\Homework1\H1-5.exe
 
-build Homework/Homework1/A7-2.exe: CXX_EXECUTABLE_LINKER__A7-2_Debug Homework/Homework1/CMakeFiles/A7-2.dir/数组的极值函数.cpp.obj
+build Homework/Homework1/H1-5.exe: CXX_EXECUTABLE_LINKER__H1-5_Debug Homework/Homework1/CMakeFiles/H1-5.dir/数组的极值函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-2.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-2.dll.a
-  TARGET_PDB = A7-2.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-5.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-5.dll.a
+  TARGET_PDB = H1-5.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-3
+# Object build statements for EXECUTABLE target H1-6
 
 
 #############################################
-# Order-only phony target for A7-3
+# Order-only phony target for H1-6
 
-build cmake_object_order_depends_target_A7-3: phony || .
+build cmake_object_order_depends_target_H1-6: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-3.dir/数组的极值下标函数.cpp.obj: CXX_COMPILER__A7-3_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值下标函数.cpp || cmake_object_order_depends_target_A7-3
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-3.dir\数组的极值下标函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-6.dir/数组的极值下标函数.cpp.obj: CXX_COMPILER__H1-6_unscanned_Debug D$:/cpp/Homework/Homework1/数组的极值下标函数.cpp || cmake_object_order_depends_target_H1-6
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-6.dir\数组的极值下标函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-3.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-3
+# Link build statements for EXECUTABLE target H1-6
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-3.exe
+# Link the executable Homework\Homework1\H1-6.exe
 
-build Homework/Homework1/A7-3.exe: CXX_EXECUTABLE_LINKER__A7-3_Debug Homework/Homework1/CMakeFiles/A7-3.dir/数组的极值下标函数.cpp.obj
+build Homework/Homework1/H1-6.exe: CXX_EXECUTABLE_LINKER__H1-6_Debug Homework/Homework1/CMakeFiles/H1-6.dir/数组的极值下标函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-3.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-3.dll.a
-  TARGET_PDB = A7-3.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-6.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-6.dll.a
+  TARGET_PDB = H1-6.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-4
+# Object build statements for EXECUTABLE target H1-7
 
 
 #############################################
-# Order-only phony target for A7-4
+# Order-only phony target for H1-7
 
-build cmake_object_order_depends_target_A7-4: phony || .
+build cmake_object_order_depends_target_H1-7: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-4.dir/数组的查找函数.cpp.obj: CXX_COMPILER__A7-4_unscanned_Debug D$:/cpp/Homework/Homework1/数组的查找函数.cpp || cmake_object_order_depends_target_A7-4
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-4.dir\数组的查找函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-7.dir/数组的查找函数.cpp.obj: CXX_COMPILER__H1-7_unscanned_Debug D$:/cpp/Homework/Homework1/数组的查找函数.cpp || cmake_object_order_depends_target_H1-7
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-7.dir\数组的查找函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-4.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-4
+# Link build statements for EXECUTABLE target H1-7
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-4.exe
+# Link the executable Homework\Homework1\H1-7.exe
 
-build Homework/Homework1/A7-4.exe: CXX_EXECUTABLE_LINKER__A7-4_Debug Homework/Homework1/CMakeFiles/A7-4.dir/数组的查找函数.cpp.obj
+build Homework/Homework1/H1-7.exe: CXX_EXECUTABLE_LINKER__H1-7_Debug Homework/Homework1/CMakeFiles/H1-7.dir/数组的查找函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-4.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-4.dll.a
-  TARGET_PDB = A7-4.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-7.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-7.dll.a
+  TARGET_PDB = H1-7.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-5
+# Object build statements for EXECUTABLE target H1-8
 
 
 #############################################
-# Order-only phony target for A7-5
+# Order-only phony target for H1-8
 
-build cmake_object_order_depends_target_A7-5: phony || .
+build cmake_object_order_depends_target_H1-8: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj: CXX_COMPILER__A7-5_unscanned_Debug D$:/cpp/Homework/Homework1/数组的有序插入函数.cpp || cmake_object_order_depends_target_A7-5
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-5.dir\数组的有序插入函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-8.dir/数组的有序插入函数.cpp.obj: CXX_COMPILER__H1-8_unscanned_Debug D$:/cpp/Homework/Homework1/数组的有序插入函数.cpp || cmake_object_order_depends_target_H1-8
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-8.dir\数组的有序插入函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-5.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-5.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-5
+# Link build statements for EXECUTABLE target H1-8
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-5.exe
+# Link the executable Homework\Homework1\H1-8.exe
 
-build Homework/Homework1/A7-5.exe: CXX_EXECUTABLE_LINKER__A7-5_Debug Homework/Homework1/CMakeFiles/A7-5.dir/数组的有序插入函数.cpp.obj
+build Homework/Homework1/H1-8.exe: CXX_EXECUTABLE_LINKER__H1-8_Debug Homework/Homework1/CMakeFiles/H1-8.dir/数组的有序插入函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-5.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-5.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-5.dll.a
-  TARGET_PDB = A7-5.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-8.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-8.dll.a
+  TARGET_PDB = H1-8.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-6
+# Object build statements for EXECUTABLE target H1-9
 
 
 #############################################
-# Order-only phony target for A7-6
+# Order-only phony target for H1-9
 
-build cmake_object_order_depends_target_A7-6: phony || .
+build cmake_object_order_depends_target_H1-9: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-6.dir/数组的左移函数.cpp.obj: CXX_COMPILER__A7-6_unscanned_Debug D$:/cpp/Homework/Homework1/数组的左移函数.cpp || cmake_object_order_depends_target_A7-6
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-6.dir\数组的左移函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-9.dir/数组的左移函数.cpp.obj: CXX_COMPILER__H1-9_unscanned_Debug D$:/cpp/Homework/Homework1/数组的左移函数.cpp || cmake_object_order_depends_target_H1-9
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-9.dir\数组的左移函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-6
+# Link build statements for EXECUTABLE target H1-9
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-6.exe
+# Link the executable Homework\Homework1\H1-9.exe
 
-build Homework/Homework1/A7-6.exe: CXX_EXECUTABLE_LINKER__A7-6_Debug Homework/Homework1/CMakeFiles/A7-6.dir/数组的左移函数.cpp.obj
+build Homework/Homework1/H1-9.exe: CXX_EXECUTABLE_LINKER__H1-9_Debug Homework/Homework1/CMakeFiles/H1-9.dir/数组的左移函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-6.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-6.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-6.dll.a
-  TARGET_PDB = A7-6.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-9.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-9.dll.a
+  TARGET_PDB = H1-9.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A7-7
+# Object build statements for EXECUTABLE target H1-10
 
 
 #############################################
-# Order-only phony target for A7-7
+# Order-only phony target for H1-10
 
-build cmake_object_order_depends_target_A7-7: phony || .
+build cmake_object_order_depends_target_H1-10: phony || .
 
-build Homework/Homework1/CMakeFiles/A7-7.dir/数组的右移函数.cpp.obj: CXX_COMPILER__A7-7_unscanned_Debug D$:/cpp/Homework/Homework1/数组的右移函数.cpp || cmake_object_order_depends_target_A7-7
-  DEP_FILE = Homework\Homework1\CMakeFiles\A7-7.dir\数组的右移函数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-10.dir/数组的右移函数.cpp.obj: CXX_COMPILER__H1-10_unscanned_Debug D$:/cpp/Homework/Homework1/数组的右移函数.cpp || cmake_object_order_depends_target_H1-10
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-10.dir\数组的右移函数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A7-7
+# Link build statements for EXECUTABLE target H1-10
 
 
 #############################################
-# Link the executable Homework\Homework1\A7-7.exe
+# Link the executable Homework\Homework1\H1-10.exe
 
-build Homework/Homework1/A7-7.exe: CXX_EXECUTABLE_LINKER__A7-7_Debug Homework/Homework1/CMakeFiles/A7-7.dir/数组的右移函数.cpp.obj
+build Homework/Homework1/H1-10.exe: CXX_EXECUTABLE_LINKER__H1-10_Debug Homework/Homework1/CMakeFiles/H1-10.dir/数组的右移函数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A7-7.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A7-7.exe
-  TARGET_IMPLIB = Homework\Homework1\libA7-7.dll.a
-  TARGET_PDB = A7-7.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-10.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-10.dll.a
+  TARGET_PDB = H1-10.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-1
+# Object build statements for EXECUTABLE target H1-11
 
 
 #############################################
-# Order-only phony target for A9-1
+# Order-only phony target for H1-11
 
-build cmake_object_order_depends_target_A9-1: phony || .
+build cmake_object_order_depends_target_H1-11: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-1.dir/数组中的素数个数.cpp.obj: CXX_COMPILER__A9-1_unscanned_Debug D$:/cpp/Homework/Homework1/数组中的素数个数.cpp || cmake_object_order_depends_target_A9-1
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-1.dir\数组中的素数个数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-11.dir/数组中的素数个数.cpp.obj: CXX_COMPILER__H1-11_unscanned_Debug D$:/cpp/Homework/Homework1/数组中的素数个数.cpp || cmake_object_order_depends_target_H1-11
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-11.dir\数组中的素数个数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-1.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-1.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-1
+# Link build statements for EXECUTABLE target H1-11
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-1.exe
+# Link the executable Homework\Homework1\H1-11.exe
 
-build Homework/Homework1/A9-1.exe: CXX_EXECUTABLE_LINKER__A9-1_Debug Homework/Homework1/CMakeFiles/A9-1.dir/数组中的素数个数.cpp.obj
+build Homework/Homework1/H1-11.exe: CXX_EXECUTABLE_LINKER__H1-11_Debug Homework/Homework1/CMakeFiles/H1-11.dir/数组中的素数个数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-1.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-1.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-1.dll.a
-  TARGET_PDB = A9-1.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-11.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-11.dll.a
+  TARGET_PDB = H1-11.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-2
+# Object build statements for EXECUTABLE target H1-12
 
 
 #############################################
-# Order-only phony target for A9-2
+# Order-only phony target for H1-12
 
-build cmake_object_order_depends_target_A9-2: phony || .
+build cmake_object_order_depends_target_H1-12: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-2.dir/数组中最小正数的下标.cpp.obj: CXX_COMPILER__A9-2_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最小正数的下标.cpp || cmake_object_order_depends_target_A9-2
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-2.dir\数组中最小正数的下标.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-12.dir/数组中最小正数的下标.cpp.obj: CXX_COMPILER__H1-12_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最小正数的下标.cpp || cmake_object_order_depends_target_H1-12
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-12.dir\数组中最小正数的下标.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-2.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-2
+# Link build statements for EXECUTABLE target H1-12
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-2.exe
+# Link the executable Homework\Homework1\H1-12.exe
 
-build Homework/Homework1/A9-2.exe: CXX_EXECUTABLE_LINKER__A9-2_Debug Homework/Homework1/CMakeFiles/A9-2.dir/数组中最小正数的下标.cpp.obj
+build Homework/Homework1/H1-12.exe: CXX_EXECUTABLE_LINKER__H1-12_Debug Homework/Homework1/CMakeFiles/H1-12.dir/数组中最小正数的下标.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-2.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-2.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-2.dll.a
-  TARGET_PDB = A9-2.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-12.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-12.dll.a
+  TARGET_PDB = H1-12.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-3
+# Object build statements for EXECUTABLE target H1-13
 
 
 #############################################
-# Order-only phony target for A9-3
+# Order-only phony target for H1-13
 
-build cmake_object_order_depends_target_A9-3: phony || .
+build cmake_object_order_depends_target_H1-13: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-3.dir/数组中最大的负数.cpp.obj: CXX_COMPILER__A9-3_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最大的负数.cpp || cmake_object_order_depends_target_A9-3
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-3.dir\数组中最大的负数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-13.dir/数组中最大的负数.cpp.obj: CXX_COMPILER__H1-13_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最大的负数.cpp || cmake_object_order_depends_target_H1-13
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-13.dir\数组中最大的负数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-3
+# Link build statements for EXECUTABLE target H1-13
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-3.exe
+# Link the executable Homework\Homework1\H1-13.exe
 
-build Homework/Homework1/A9-3.exe: CXX_EXECUTABLE_LINKER__A9-3_Debug Homework/Homework1/CMakeFiles/A9-3.dir/数组中最大的负数.cpp.obj
+build Homework/Homework1/H1-13.exe: CXX_EXECUTABLE_LINKER__H1-13_Debug Homework/Homework1/CMakeFiles/H1-13.dir/数组中最大的负数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-3.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-3.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-3.dll.a
-  TARGET_PDB = A9-3.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-13.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-13.dll.a
+  TARGET_PDB = H1-13.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-4
+# Object build statements for EXECUTABLE target H1-14
 
 
 #############################################
-# Order-only phony target for A9-4
+# Order-only phony target for H1-14
 
-build cmake_object_order_depends_target_A9-4: phony || .
+build cmake_object_order_depends_target_H1-14: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-4.dir/!数组中第二大的数.cpp.obj: CXX_COMPILER__A9-4_unscanned_Debug D$:/cpp/Homework/Homework1/!数组中第二大的数.cpp || cmake_object_order_depends_target_A9-4
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-4.dir\!数组中第二大的数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-14.dir/!数组中第二大的数.cpp.obj: CXX_COMPILER__H1-14_unscanned_Debug D$:/cpp/Homework/Homework1/!数组中第二大的数.cpp || cmake_object_order_depends_target_H1-14
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-14.dir\!数组中第二大的数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-4
+# Link build statements for EXECUTABLE target H1-14
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-4.exe
+# Link the executable Homework\Homework1\H1-14.exe
 
-build Homework/Homework1/A9-4.exe: CXX_EXECUTABLE_LINKER__A9-4_Debug Homework/Homework1/CMakeFiles/A9-4.dir/!数组中第二大的数.cpp.obj
+build Homework/Homework1/H1-14.exe: CXX_EXECUTABLE_LINKER__H1-14_Debug Homework/Homework1/CMakeFiles/H1-14.dir/!数组中第二大的数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-4.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-4.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-4.dll.a
-  TARGET_PDB = A9-4.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-14.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-14.dll.a
+  TARGET_PDB = H1-14.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-5
+# Object build statements for EXECUTABLE target H1-15
 
 
 #############################################
-# Order-only phony target for A9-5
+# Order-only phony target for H1-15
 
-build cmake_object_order_depends_target_A9-5: phony || .
+build cmake_object_order_depends_target_H1-15: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-5.dir/数组中最小值的个数.cpp.obj: CXX_COMPILER__A9-5_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最小值的个数.cpp || cmake_object_order_depends_target_A9-5
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-5.dir\数组中最小值的个数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-15.dir/数组中最小值的个数.cpp.obj: CXX_COMPILER__H1-15_unscanned_Debug D$:/cpp/Homework/Homework1/数组中最小值的个数.cpp || cmake_object_order_depends_target_H1-15
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-15.dir\数组中最小值的个数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-5.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-5.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-5
+# Link build statements for EXECUTABLE target H1-15
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-5.exe
+# Link the executable Homework\Homework1\H1-15.exe
 
-build Homework/Homework1/A9-5.exe: CXX_EXECUTABLE_LINKER__A9-5_Debug Homework/Homework1/CMakeFiles/A9-5.dir/数组中最小值的个数.cpp.obj
+build Homework/Homework1/H1-15.exe: CXX_EXECUTABLE_LINKER__H1-15_Debug Homework/Homework1/CMakeFiles/H1-15.dir/数组中最小值的个数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-5.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-5.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-5.dll.a
-  TARGET_PDB = A9-5.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-15.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-15.dll.a
+  TARGET_PDB = H1-15.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-6
+# Object build statements for EXECUTABLE target H1-16
 
 
 #############################################
-# Order-only phony target for A9-6
+# Order-only phony target for H1-16
 
-build cmake_object_order_depends_target_A9-6: phony || .
+build cmake_object_order_depends_target_H1-16: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-6.dir/数组中递增子序列的个数.cpp.obj: CXX_COMPILER__A9-6_unscanned_Debug D$:/cpp/Homework/Homework1/数组中递增子序列的个数.cpp || cmake_object_order_depends_target_A9-6
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-6.dir\数组中递增子序列的个数.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-16.dir/数组中递增子序列的个数.cpp.obj: CXX_COMPILER__H1-16_unscanned_Debug D$:/cpp/Homework/Homework1/数组中递增子序列的个数.cpp || cmake_object_order_depends_target_H1-16
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-16.dir\数组中递增子序列的个数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-6.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-6.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-6
+# Link build statements for EXECUTABLE target H1-16
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-6.exe
+# Link the executable Homework\Homework1\H1-16.exe
 
-build Homework/Homework1/A9-6.exe: CXX_EXECUTABLE_LINKER__A9-6_Debug Homework/Homework1/CMakeFiles/A9-6.dir/数组中递增子序列的个数.cpp.obj
+build Homework/Homework1/H1-16.exe: CXX_EXECUTABLE_LINKER__H1-16_Debug Homework/Homework1/CMakeFiles/H1-16.dir/数组中递增子序列的个数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-6.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-6.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-6.dll.a
-  TARGET_PDB = A9-6.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-16.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-16.dll.a
+  TARGET_PDB = H1-16.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A9-7
+# Object build statements for EXECUTABLE target H1-17
 
 
 #############################################
-# Order-only phony target for A9-7
+# Order-only phony target for H1-17
 
-build cmake_object_order_depends_target_A9-7: phony || .
+build cmake_object_order_depends_target_H1-17: phony || .
 
-build Homework/Homework1/CMakeFiles/A9-7.dir/数组中所有极大值.cpp.obj: CXX_COMPILER__A9-7_unscanned_Debug D$:/cpp/Homework/Homework1/数组中所有极大值.cpp || cmake_object_order_depends_target_A9-7
-  DEP_FILE = Homework\Homework1\CMakeFiles\A9-7.dir\数组中所有极大值.cpp.obj.d
+build Homework/Homework1/CMakeFiles/H1-17.dir/数组中所有极大值.cpp.obj: CXX_COMPILER__H1-17_unscanned_Debug D$:/cpp/Homework/Homework1/数组中所有极大值.cpp || cmake_object_order_depends_target_H1-17
+  DEP_FILE = Homework\Homework1\CMakeFiles\H1-17.dir\数组中所有极大值.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-7.dir
-  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\A9-7.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
+  OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A9-7
+# Link build statements for EXECUTABLE target H1-17
 
 
 #############################################
-# Link the executable Homework\Homework1\A9-7.exe
+# Link the executable Homework\Homework1\H1-17.exe
 
-build Homework/Homework1/A9-7.exe: CXX_EXECUTABLE_LINKER__A9-7_Debug Homework/Homework1/CMakeFiles/A9-7.dir/数组中所有极大值.cpp.obj
+build Homework/Homework1/H1-17.exe: CXX_EXECUTABLE_LINKER__H1-17_Debug Homework/Homework1/CMakeFiles/H1-17.dir/数组中所有极大值.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework1\CMakeFiles\A9-7.dir
+  OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework1\A9-7.exe
-  TARGET_IMPLIB = Homework\Homework1\libA9-7.dll.a
-  TARGET_PDB = A9-7.exe.dbg
+  TARGET_FILE = Homework\Homework1\H1-17.exe
+  TARGET_IMPLIB = Homework\Homework1\libH1-17.dll.a
+  TARGET_PDB = H1-17.exe.dbg
 
 
 #############################################
@@ -724,37 +724,37 @@ build Homework/Homework1/rebuild_cache: phony Homework/Homework1/CMakeFiles/rebu
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target qing
+# Object build statements for EXECUTABLE target H2-1
 
 
 #############################################
-# Order-only phony target for qing
+# Order-only phony target for H2-1
 
-build cmake_object_order_depends_target_qing: phony || .
+build cmake_object_order_depends_target_H2-1: phony || .
 
-build Homework/Homework2/CMakeFiles/qing.dir/qing.cpp.obj: CXX_COMPILER__qing_unscanned_Debug D$:/cpp/Homework/Homework2/qing.cpp || cmake_object_order_depends_target_qing
-  DEP_FILE = Homework\Homework2\CMakeFiles\qing.dir\qing.cpp.obj.d
+build Homework/Homework2/CMakeFiles/H2-1.dir/qing.cpp.obj: CXX_COMPILER__H2-1_unscanned_Debug D$:/cpp/Homework/Homework2/qing.cpp || cmake_object_order_depends_target_H2-1
+  DEP_FILE = Homework\Homework2\CMakeFiles\H2-1.dir\qing.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework2\CMakeFiles\qing.dir
-  OBJECT_FILE_DIR = Homework\Homework2\CMakeFiles\qing.dir
+  OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
+  OBJECT_FILE_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target qing
+# Link build statements for EXECUTABLE target H2-1
 
 
 #############################################
-# Link the executable Homework\Homework2\qing.exe
+# Link the executable Homework\Homework2\H2-1.exe
 
-build Homework/Homework2/qing.exe: CXX_EXECUTABLE_LINKER__qing_Debug Homework/Homework2/CMakeFiles/qing.dir/qing.cpp.obj
+build Homework/Homework2/H2-1.exe: CXX_EXECUTABLE_LINKER__H2-1_Debug Homework/Homework2/CMakeFiles/H2-1.dir/qing.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework2\CMakeFiles\qing.dir
+  OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework2\qing.exe
-  TARGET_IMPLIB = Homework\Homework2\libqing.dll.a
-  TARGET_PDB = qing.exe.dbg
+  TARGET_FILE = Homework\Homework2\H2-1.exe
+  TARGET_IMPLIB = Homework\Homework2\libH2-1.dll.a
+  TARGET_PDB = H2-1.exe.dbg
 
 
 #############################################
@@ -778,6 +778,623 @@ build Homework/Homework2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build Homework/Homework2/rebuild_cache: phony Homework/Homework2/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/cpp/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-1
+
+
+#############################################
+# Order-only phony target for H3-1
+
+build cmake_object_order_depends_target_H3-1: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-1.dir/整数的去重.cpp.obj: CXX_COMPILER__H3-1_unscanned_Debug D$:/cpp/Homework/Homework3/整数的去重.cpp || cmake_object_order_depends_target_H3-1
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-1.dir\整数的去重.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-1
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-1.exe
+
+build Homework/Homework3/H3-1.exe: CXX_EXECUTABLE_LINKER__H3-1_Debug Homework/Homework3/CMakeFiles/H3-1.dir/整数的去重.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-1.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-1.dll.a
+  TARGET_PDB = H3-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-2
+
+
+#############################################
+# Order-only phony target for H3-2
+
+build cmake_object_order_depends_target_H3-2: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-2.dir/集合的交集.cpp.obj: CXX_COMPILER__H3-2_unscanned_Debug D$:/cpp/Homework/Homework3/集合的交集.cpp || cmake_object_order_depends_target_H3-2
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-2.dir\集合的交集.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-2
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-2.exe
+
+build Homework/Homework3/H3-2.exe: CXX_EXECUTABLE_LINKER__H3-2_Debug Homework/Homework3/CMakeFiles/H3-2.dir/集合的交集.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-2.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-2.dll.a
+  TARGET_PDB = H3-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-3
+
+
+#############################################
+# Order-only phony target for H3-3
+
+build cmake_object_order_depends_target_H3-3: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-3.dir/集合的并集.cpp.obj: CXX_COMPILER__H3-3_unscanned_Debug D$:/cpp/Homework/Homework3/集合的并集.cpp || cmake_object_order_depends_target_H3-3
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-3.dir\集合的并集.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-3
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-3.exe
+
+build Homework/Homework3/H3-3.exe: CXX_EXECUTABLE_LINKER__H3-3_Debug Homework/Homework3/CMakeFiles/H3-3.dir/集合的并集.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-3.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-3.dll.a
+  TARGET_PDB = H3-3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-4
+
+
+#############################################
+# Order-only phony target for H3-4
+
+build cmake_object_order_depends_target_H3-4: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-4.dir/有序数组的合并.cpp.obj: CXX_COMPILER__H3-4_unscanned_Debug D$:/cpp/Homework/Homework3/有序数组的合并.cpp || cmake_object_order_depends_target_H3-4
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-4.dir\有序数组的合并.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-4
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-4.exe
+
+build Homework/Homework3/H3-4.exe: CXX_EXECUTABLE_LINKER__H3-4_Debug Homework/Homework3/CMakeFiles/H3-4.dir/有序数组的合并.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-4.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-4.dll.a
+  TARGET_PDB = H3-4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-5
+
+
+#############################################
+# Order-only phony target for H3-5
+
+build cmake_object_order_depends_target_H3-5: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-5.dir/有序子序列的合并.cpp.obj: CXX_COMPILER__H3-5_unscanned_Debug D$:/cpp/Homework/Homework3/有序子序列的合并.cpp || cmake_object_order_depends_target_H3-5
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-5.dir\有序子序列的合并.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-5
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-5.exe
+
+build Homework/Homework3/H3-5.exe: CXX_EXECUTABLE_LINKER__H3-5_Debug Homework/Homework3/CMakeFiles/H3-5.dir/有序子序列的合并.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-5.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-5.dll.a
+  TARGET_PDB = H3-5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-6
+
+
+#############################################
+# Order-only phony target for H3-6
+
+build cmake_object_order_depends_target_H3-6: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-6.dir/高精度整数与常规整数的乘法.cpp.obj: CXX_COMPILER__H3-6_unscanned_Debug D$:/cpp/Homework/Homework3/高精度整数与常规整数的乘法.cpp || cmake_object_order_depends_target_H3-6
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-6.dir\高精度整数与常规整数的乘法.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-6
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-6.exe
+
+build Homework/Homework3/H3-6.exe: CXX_EXECUTABLE_LINKER__H3-6_Debug Homework/Homework3/CMakeFiles/H3-6.dir/高精度整数与常规整数的乘法.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-6.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-6.dll.a
+  TARGET_PDB = H3-6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-7
+
+
+#############################################
+# Order-only phony target for H3-7
+
+build cmake_object_order_depends_target_H3-7: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-7.dir/K进制的高精度整数.cpp.obj: CXX_COMPILER__H3-7_unscanned_Debug D$:/cpp/Homework/Homework3/K进制的高精度整数.cpp || cmake_object_order_depends_target_H3-7
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-7.dir\K进制的高精度整数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-7
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-7.exe
+
+build Homework/Homework3/H3-7.exe: CXX_EXECUTABLE_LINKER__H3-7_Debug Homework/Homework3/CMakeFiles/H3-7.dir/K进制的高精度整数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-7.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-7.dll.a
+  TARGET_PDB = H3-7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H3-8
+
+
+#############################################
+# Order-only phony target for H3-8
+
+build cmake_object_order_depends_target_H3-8: phony || .
+
+build Homework/Homework3/CMakeFiles/H3-8.dir/高精度整数的加法.cpp.obj: CXX_COMPILER__H3-8_unscanned_Debug D$:/cpp/Homework/Homework3/高精度整数的加法.cpp || cmake_object_order_depends_target_H3-8
+  DEP_FILE = Homework\Homework3\CMakeFiles\H3-8.dir\高精度整数的加法.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
+  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H3-8
+
+
+#############################################
+# Link the executable Homework\Homework3\H3-8.exe
+
+build Homework/Homework3/H3-8.exe: CXX_EXECUTABLE_LINKER__H3-8_Debug Homework/Homework3/CMakeFiles/H3-8.dir/高精度整数的加法.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework3\H3-8.exe
+  TARGET_IMPLIB = Homework\Homework3\libH3-8.dll.a
+  TARGET_PDB = H3-8.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build Homework/Homework3/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework3 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Homework/Homework3/edit_cache: phony Homework/Homework3/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Homework/Homework3/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework3 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Homework/Homework3/rebuild_cache: phony Homework/Homework3/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/cpp/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-1
+
+
+#############################################
+# Order-only phony target for H4-1
+
+build cmake_object_order_depends_target_H4-1: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-1.dir/高精度整数之间的乘法.cpp.obj: CXX_COMPILER__H4-1_unscanned_Debug D$:/cpp/Homework/Homework4/高精度整数之间的乘法.cpp || cmake_object_order_depends_target_H4-1
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-1.dir\高精度整数之间的乘法.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-1
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-1.exe
+
+build Homework/Homework4/H4-1.exe: CXX_EXECUTABLE_LINKER__H4-1_Debug Homework/Homework4/CMakeFiles/H4-1.dir/高精度整数之间的乘法.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-1.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-1.dll.a
+  TARGET_PDB = H4-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-2
+
+
+#############################################
+# Order-only phony target for H4-2
+
+build cmake_object_order_depends_target_H4-2: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-2.dir/数字循环左移.cpp.obj: CXX_COMPILER__H4-2_unscanned_Debug D$:/cpp/Homework/Homework4/数字循环左移.cpp || cmake_object_order_depends_target_H4-2
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-2.dir\数字循环左移.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-2
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-2.exe
+
+build Homework/Homework4/H4-2.exe: CXX_EXECUTABLE_LINKER__H4-2_Debug Homework/Homework4/CMakeFiles/H4-2.dir/数字循环左移.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-2.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-2.dll.a
+  TARGET_PDB = H4-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-3
+
+
+#############################################
+# Order-only phony target for H4-3
+
+build cmake_object_order_depends_target_H4-3: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-3.dir/数列循环左移.cpp.obj: CXX_COMPILER__H4-3_unscanned_Debug D$:/cpp/Homework/Homework4/数列循环左移.cpp || cmake_object_order_depends_target_H4-3
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-3.dir\数列循环左移.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-3
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-3.exe
+
+build Homework/Homework4/H4-3.exe: CXX_EXECUTABLE_LINKER__H4-3_Debug Homework/Homework4/CMakeFiles/H4-3.dir/数列循环左移.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-3.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-3.dll.a
+  TARGET_PDB = H4-3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-4
+
+
+#############################################
+# Order-only phony target for H4-4
+
+build cmake_object_order_depends_target_H4-4: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-4.dir/单个数的3N+1猜想.cpp.obj: CXX_COMPILER__H4-4_unscanned_Debug D$:/cpp/Homework/Homework4/单个数的3N+1猜想.cpp || cmake_object_order_depends_target_H4-4
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-4.dir\单个数的3N+1猜想.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-4
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-4.exe
+
+build Homework/Homework4/H4-4.exe: CXX_EXECUTABLE_LINKER__H4-4_Debug Homework/Homework4/CMakeFiles/H4-4.dir/单个数的3N+1猜想.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-4.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-4.dll.a
+  TARGET_PDB = H4-4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-5
+
+
+#############################################
+# Order-only phony target for H4-5
+
+build cmake_object_order_depends_target_H4-5: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-5.dir/语言的起点.cpp.obj: CXX_COMPILER__H4-5_unscanned_Debug D$:/cpp/Homework/Homework4/语言的起点.cpp || cmake_object_order_depends_target_H4-5
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-5.dir\语言的起点.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-5
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-5.exe
+
+build Homework/Homework4/H4-5.exe: CXX_EXECUTABLE_LINKER__H4-5_Debug Homework/Homework4/CMakeFiles/H4-5.dir/语言的起点.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-5.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-5.dll.a
+  TARGET_PDB = H4-5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-6
+
+
+#############################################
+# Order-only phony target for H4-6
+
+build cmake_object_order_depends_target_H4-6: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-6.dir/点名上前.cpp.obj: CXX_COMPILER__H4-6_unscanned_Debug D$:/cpp/Homework/Homework4/点名上前.cpp || cmake_object_order_depends_target_H4-6
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-6.dir\点名上前.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-6
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-6.exe
+
+build Homework/Homework4/H4-6.exe: CXX_EXECUTABLE_LINKER__H4-6_Debug Homework/Homework4/CMakeFiles/H4-6.dir/点名上前.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-6.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-6.dll.a
+  TARGET_PDB = H4-6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-7
+
+
+#############################################
+# Order-only phony target for H4-7
+
+build cmake_object_order_depends_target_H4-7: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-7.dir/参赛人数.cpp.obj: CXX_COMPILER__H4-7_unscanned_Debug D$:/cpp/Homework/Homework4/参赛人数.cpp || cmake_object_order_depends_target_H4-7
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-7.dir\参赛人数.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-7
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-7.exe
+
+build Homework/Homework4/H4-7.exe: CXX_EXECUTABLE_LINKER__H4-7_Debug Homework/Homework4/CMakeFiles/H4-7.dir/参赛人数.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-7.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-7.dll.a
+  TARGET_PDB = H4-7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-8
+
+
+#############################################
+# Order-only phony target for H4-8
+
+build cmake_object_order_depends_target_H4-8: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-8.dir/整数中的数字.cpp.obj: CXX_COMPILER__H4-8_unscanned_Debug D$:/cpp/Homework/Homework4/整数中的数字.cpp || cmake_object_order_depends_target_H4-8
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-8.dir\整数中的数字.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-8
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-8.exe
+
+build Homework/Homework4/H4-8.exe: CXX_EXECUTABLE_LINKER__H4-8_Debug Homework/Homework4/CMakeFiles/H4-8.dir/整数中的数字.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-8.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-8.dll.a
+  TARGET_PDB = H4-8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target H4-9
+
+
+#############################################
+# Order-only phony target for H4-9
+
+build cmake_object_order_depends_target_H4-9: phony || .
+
+build Homework/Homework4/CMakeFiles/H4-9.dir/解密算法.cpp.obj: CXX_COMPILER__H4-9_unscanned_Debug D$:/cpp/Homework/Homework4/解密算法.cpp || cmake_object_order_depends_target_H4-9
+  DEP_FILE = Homework\Homework4\CMakeFiles\H4-9.dir\解密算法.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
+  OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target H4-9
+
+
+#############################################
+# Link the executable Homework\Homework4\H4-9.exe
+
+build Homework/Homework4/H4-9.exe: CXX_EXECUTABLE_LINKER__H4-9_Debug Homework/Homework4/CMakeFiles/H4-9.dir/解密算法.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Homework\Homework4\H4-9.exe
+  TARGET_IMPLIB = Homework\Homework4\libH4-9.dll.a
+  TARGET_PDB = H4-9.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build Homework/Homework4/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework4 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Homework/Homework4/edit_cache: phony Homework/Homework4/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Homework/Homework4/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework4 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Homework/Homework4/rebuild_cache: phony Homework/Homework4/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -846,202 +1463,202 @@ build luogu/rebuild_cache: phony luogu/CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-1
+# Object build statements for EXECUTABLE target X0-1
 
 
 #############################################
-# Order-only phony target for x-1-1
+# Order-only phony target for X0-1
 
-build cmake_object_order_depends_target_x-1-1: phony || .
+build cmake_object_order_depends_target_X0-1: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-1.dir/帝国活塞A.cpp.obj: CXX_COMPILER__x-1-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞A.cpp || cmake_object_order_depends_target_x-1-1
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir\帝国活塞A.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-1.dir/帝国活塞A.cpp.obj: CXX_COMPILER__X0-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞A.cpp || cmake_object_order_depends_target_X0-1
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir\帝国活塞A.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-1
+# Link build statements for EXECUTABLE target X0-1
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-1.exe
+# Link the executable BountyOrder\BountyOrder0\X0-1.exe
 
-build BountyOrder/BountyOrder0/x-1-1.exe: CXX_EXECUTABLE_LINKER__x-1-1_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-1.dir/帝国活塞A.cpp.obj
+build BountyOrder/BountyOrder0/X0-1.exe: CXX_EXECUTABLE_LINKER__X0-1_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-1.dir/帝国活塞A.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-1.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-1.dll.a
-  TARGET_PDB = x-1-1.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-1.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-1.dll.a
+  TARGET_PDB = X0-1.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-2
+# Object build statements for EXECUTABLE target X0-2
 
 
 #############################################
-# Order-only phony target for x-1-2
+# Order-only phony target for X0-2
 
-build cmake_object_order_depends_target_x-1-2: phony || .
+build cmake_object_order_depends_target_X0-2: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-2.dir/帝国活塞B.cpp.obj: CXX_COMPILER__x-1-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞B.cpp || cmake_object_order_depends_target_x-1-2
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir\帝国活塞B.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-2.dir/帝国活塞B.cpp.obj: CXX_COMPILER__X0-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/帝国活塞B.cpp || cmake_object_order_depends_target_X0-2
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir\帝国活塞B.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-2
+# Link build statements for EXECUTABLE target X0-2
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-2.exe
+# Link the executable BountyOrder\BountyOrder0\X0-2.exe
 
-build BountyOrder/BountyOrder0/x-1-2.exe: CXX_EXECUTABLE_LINKER__x-1-2_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-2.dir/帝国活塞B.cpp.obj
+build BountyOrder/BountyOrder0/X0-2.exe: CXX_EXECUTABLE_LINKER__X0-2_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-2.dir/帝国活塞B.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-2.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-2.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-2.dll.a
-  TARGET_PDB = x-1-2.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-2.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-2.dll.a
+  TARGET_PDB = X0-2.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-25-1
+# Object build statements for EXECUTABLE target X0-3
 
 
 #############################################
-# Order-only phony target for x-1-25-1
+# Order-only phony target for X0-3
 
-build cmake_object_order_depends_target_x-1-25-1: phony || .
+build cmake_object_order_depends_target_X0-3: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-1.dir/中位数选择排序.cpp.obj: CXX_COMPILER__x-1-25-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数选择排序.cpp || cmake_object_order_depends_target_x-1-25-1
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir\中位数选择排序.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-3.dir/中位数选择排序.cpp.obj: CXX_COMPILER__X0-3_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数选择排序.cpp || cmake_object_order_depends_target_X0-3
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir\中位数选择排序.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-25-1
+# Link build statements for EXECUTABLE target X0-3
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-25-1.exe
+# Link the executable BountyOrder\BountyOrder0\X0-3.exe
 
-build BountyOrder/BountyOrder0/x-1-25-1.exe: CXX_EXECUTABLE_LINKER__x-1-25-1_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-1.dir/中位数选择排序.cpp.obj
+build BountyOrder/BountyOrder0/X0-3.exe: CXX_EXECUTABLE_LINKER__X0-3_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-3.dir/中位数选择排序.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-1.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-1.dll.a
-  TARGET_PDB = x-1-25-1.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-3.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-3.dll.a
+  TARGET_PDB = X0-3.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-25-2
+# Object build statements for EXECUTABLE target X0-4
 
 
 #############################################
-# Order-only phony target for x-1-25-2
+# Order-only phony target for X0-4
 
-build cmake_object_order_depends_target_x-1-25-2: phony || .
+build cmake_object_order_depends_target_X0-4: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir/中位数冒泡排序.cpp.obj: CXX_COMPILER__x-1-25-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数冒泡排序.cpp || cmake_object_order_depends_target_x-1-25-2
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir\中位数冒泡排序.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-4.dir/中位数冒泡排序.cpp.obj: CXX_COMPILER__X0-4_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数冒泡排序.cpp || cmake_object_order_depends_target_X0-4
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir\中位数冒泡排序.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-25-2
+# Link build statements for EXECUTABLE target X0-4
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-25-2.exe
+# Link the executable BountyOrder\BountyOrder0\X0-4.exe
 
-build BountyOrder/BountyOrder0/x-1-25-2.exe: CXX_EXECUTABLE_LINKER__x-1-25-2_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-2.dir/中位数冒泡排序.cpp.obj
+build BountyOrder/BountyOrder0/X0-4.exe: CXX_EXECUTABLE_LINKER__X0-4_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-4.dir/中位数冒泡排序.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-2.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-2.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-2.dll.a
-  TARGET_PDB = x-1-25-2.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-4.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-4.dll.a
+  TARGET_PDB = X0-4.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-25-3
+# Object build statements for EXECUTABLE target X0-5
 
 
 #############################################
-# Order-only phony target for x-1-25-3
+# Order-only phony target for X0-5
 
-build cmake_object_order_depends_target_x-1-25-3: phony || .
+build cmake_object_order_depends_target_X0-5: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj: CXX_COMPILER__x-1-25-3_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数队列排序.cpp || cmake_object_order_depends_target_x-1-25-3
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir\中位数队列排序.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-5.dir/中位数队列排序.cpp.obj: CXX_COMPILER__X0-5_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/中位数队列排序.cpp || cmake_object_order_depends_target_X0-5
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir\中位数队列排序.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-25-3
+# Link build statements for EXECUTABLE target X0-5
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-25-3.exe
+# Link the executable BountyOrder\BountyOrder0\X0-5.exe
 
-build BountyOrder/BountyOrder0/x-1-25-3.exe: CXX_EXECUTABLE_LINKER__x-1-25-3_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-25-3.dir/中位数队列排序.cpp.obj
+build BountyOrder/BountyOrder0/X0-5.exe: CXX_EXECUTABLE_LINKER__X0-5_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-5.dir/中位数队列排序.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-25-3.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-25-3.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-25-3.dll.a
-  TARGET_PDB = x-1-25-3.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-5.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-5.dll.a
+  TARGET_PDB = X0-5.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target x-1-4
+# Object build statements for EXECUTABLE target X0-6
 
 
 #############################################
-# Order-only phony target for x-1-4
+# Order-only phony target for X0-6
 
-build cmake_object_order_depends_target_x-1-4: phony || .
+build cmake_object_order_depends_target_X0-6: phony || .
 
-build BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj: CXX_COMPILER__x-1-4_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/MusicGame.cpp || cmake_object_order_depends_target_x-1-4
-  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir\MusicGame.cpp.obj.d
+build BountyOrder/BountyOrder0/CMakeFiles/X0-6.dir/MusicGame.cpp.obj: CXX_COMPILER__X0-6_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder0/MusicGame.cpp || cmake_object_order_depends_target_X0-6
+  DEP_FILE = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir\MusicGame.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
-  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target x-1-4
+# Link build statements for EXECUTABLE target X0-6
 
 
 #############################################
-# Link the executable BountyOrder\BountyOrder0\x-1-4.exe
+# Link the executable BountyOrder\BountyOrder0\X0-6.exe
 
-build BountyOrder/BountyOrder0/x-1-4.exe: CXX_EXECUTABLE_LINKER__x-1-4_Debug BountyOrder/BountyOrder0/CMakeFiles/x-1-4.dir/MusicGame.cpp.obj
+build BountyOrder/BountyOrder0/X0-6.exe: CXX_EXECUTABLE_LINKER__X0-6_Debug BountyOrder/BountyOrder0/CMakeFiles/X0-6.dir/MusicGame.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\x-1-4.dir
+  OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BountyOrder\BountyOrder0\x-1-4.exe
-  TARGET_IMPLIB = BountyOrder\BountyOrder0\libx-1-4.dll.a
-  TARGET_PDB = x-1-4.exe.dbg
+  TARGET_FILE = BountyOrder\BountyOrder0\X0-6.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-6.dll.a
+  TARGET_PDB = X0-6.exe.dbg
 
 
 #############################################
@@ -1072,268 +1689,362 @@ build BountyOrder/BountyOrder0/rebuild_cache: phony BountyOrder/BountyOrder0/CMa
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-1
+# Object build statements for EXECUTABLE target X1-1
 
 
 #############################################
-# Order-only phony target for c-1-2-1
+# Order-only phony target for X1-1
 
-build cmake_object_order_depends_target_c-1-2-1: phony || .
+build cmake_object_order_depends_target_X1-1: phony || .
 
-build course/course1/CMakeFiles/c-1-2-1.dir/定点删除与定点插入.cpp.obj: CXX_COMPILER__c-1-2-1_unscanned_Debug D$:/cpp/course/course1/定点删除与定点插入.cpp || cmake_object_order_depends_target_c-1-2-1
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-1.dir\定点删除与定点插入.cpp.obj.d
+build BountyOrder/BountyOrder1/CMakeFiles/X1-1.dir/玩俄罗斯原神玩的.cpp.obj: CXX_COMPILER__X1-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder1/玩俄罗斯原神玩的.cpp || cmake_object_order_depends_target_X1-1
+  DEP_FILE = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir\玩俄罗斯原神玩的.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-1.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-1
+# Link build statements for EXECUTABLE target X1-1
 
 
 #############################################
-# Link the executable course\course1\c-1-2-1.exe
+# Link the executable BountyOrder\BountyOrder1\X1-1.exe
 
-build course/course1/c-1-2-1.exe: CXX_EXECUTABLE_LINKER__c-1-2-1_Debug course/course1/CMakeFiles/c-1-2-1.dir/定点删除与定点插入.cpp.obj
+build BountyOrder/BountyOrder1/X1-1.exe: CXX_EXECUTABLE_LINKER__X1-1_Debug BountyOrder/BountyOrder1/CMakeFiles/X1-1.dir/玩俄罗斯原神玩的.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-1.dir
+  OBJECT_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-1.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-1.dll.a
-  TARGET_PDB = c-1-2-1.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-2
+  TARGET_FILE = BountyOrder\BountyOrder1\X1-1.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder1\libX1-1.dll.a
+  TARGET_PDB = X1-1.exe.dbg
 
 
 #############################################
-# Order-only phony target for c-1-2-2
+# Utility command for edit_cache
 
-build cmake_object_order_depends_target_c-1-2-2: phony || .
+build BountyOrder/BountyOrder1/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
 
-build course/course1/CMakeFiles/c-1-2-2.dir/查找删除.cpp.obj: CXX_COMPILER__c-1-2-2_unscanned_Debug D$:/cpp/course/course1/查找删除.cpp || cmake_object_order_depends_target_c-1-2-2
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-2.dir\查找删除.cpp.obj.d
+build BountyOrder/BountyOrder1/edit_cache: phony BountyOrder/BountyOrder1/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build BountyOrder/BountyOrder1/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder1 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build BountyOrder/BountyOrder1/rebuild_cache: phony BountyOrder/BountyOrder1/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/cpp/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target C1-1
+
+
+#############################################
+# Order-only phony target for C1-1
+
+build cmake_object_order_depends_target_C1-1: phony || .
+
+build course/course1/CMakeFiles/C1-1.dir/定点删除与定点插入.cpp.obj: CXX_COMPILER__C1-1_unscanned_Debug D$:/cpp/course/course1/定点删除与定点插入.cpp || cmake_object_order_depends_target_C1-1
+  DEP_FILE = course\course1\CMakeFiles\C1-1.dir\定点删除与定点插入.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-2.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-2.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-1.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-2
+# Link build statements for EXECUTABLE target C1-1
 
 
 #############################################
-# Link the executable course\course1\c-1-2-2.exe
+# Link the executable course\course1\C1-1.exe
 
-build course/course1/c-1-2-2.exe: CXX_EXECUTABLE_LINKER__c-1-2-2_Debug course/course1/CMakeFiles/c-1-2-2.dir/查找删除.cpp.obj
+build course/course1/C1-1.exe: CXX_EXECUTABLE_LINKER__C1-1_Debug course/course1/CMakeFiles/C1-1.dir/定点删除与定点插入.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-2.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-2.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-2.dll.a
-  TARGET_PDB = c-1-2-2.exe.dbg
+  TARGET_FILE = course\course1\C1-1.exe
+  TARGET_IMPLIB = course\course1\libC1-1.dll.a
+  TARGET_PDB = C1-1.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-3
+# Object build statements for EXECUTABLE target C1-2
 
 
 #############################################
-# Order-only phony target for c-1-2-3
+# Order-only phony target for C1-2
 
-build cmake_object_order_depends_target_c-1-2-3: phony || .
+build cmake_object_order_depends_target_C1-2: phony || .
 
-build course/course1/CMakeFiles/c-1-2-3.dir/质因数分解.cpp.obj: CXX_COMPILER__c-1-2-3_unscanned_Debug D$:/cpp/course/course1/质因数分解.cpp || cmake_object_order_depends_target_c-1-2-3
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-3.dir\质因数分解.cpp.obj.d
+build course/course1/CMakeFiles/C1-2.dir/查找删除.cpp.obj: CXX_COMPILER__C1-2_unscanned_Debug D$:/cpp/course/course1/查找删除.cpp || cmake_object_order_depends_target_C1-2
+  DEP_FILE = course\course1\CMakeFiles\C1-2.dir\查找删除.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-3.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-3.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-2.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-2.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-3
+# Link build statements for EXECUTABLE target C1-2
 
 
 #############################################
-# Link the executable course\course1\c-1-2-3.exe
+# Link the executable course\course1\C1-2.exe
 
-build course/course1/c-1-2-3.exe: CXX_EXECUTABLE_LINKER__c-1-2-3_Debug course/course1/CMakeFiles/c-1-2-3.dir/质因数分解.cpp.obj
+build course/course1/C1-2.exe: CXX_EXECUTABLE_LINKER__C1-2_Debug course/course1/CMakeFiles/C1-2.dir/查找删除.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-3.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-3.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-3.dll.a
-  TARGET_PDB = c-1-2-3.exe.dbg
+  TARGET_FILE = course\course1\C1-2.exe
+  TARGET_IMPLIB = course\course1\libC1-2.dll.a
+  TARGET_PDB = C1-2.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-4
+# Object build statements for EXECUTABLE target C1-3
 
 
 #############################################
-# Order-only phony target for c-1-2-4
+# Order-only phony target for C1-3
 
-build cmake_object_order_depends_target_c-1-2-4: phony || .
+build cmake_object_order_depends_target_C1-3: phony || .
 
-build course/course1/CMakeFiles/c-1-2-4.dir/因子数.cpp.obj: CXX_COMPILER__c-1-2-4_unscanned_Debug D$:/cpp/course/course1/因子数.cpp || cmake_object_order_depends_target_c-1-2-4
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-4.dir\因子数.cpp.obj.d
+build course/course1/CMakeFiles/C1-3.dir/质因数分解.cpp.obj: CXX_COMPILER__C1-3_unscanned_Debug D$:/cpp/course/course1/质因数分解.cpp || cmake_object_order_depends_target_C1-3
+  DEP_FILE = course\course1\CMakeFiles\C1-3.dir\质因数分解.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-4.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-4.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-3.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-3.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-4
+# Link build statements for EXECUTABLE target C1-3
 
 
 #############################################
-# Link the executable course\course1\c-1-2-4.exe
+# Link the executable course\course1\C1-3.exe
 
-build course/course1/c-1-2-4.exe: CXX_EXECUTABLE_LINKER__c-1-2-4_Debug course/course1/CMakeFiles/c-1-2-4.dir/因子数.cpp.obj
+build course/course1/C1-3.exe: CXX_EXECUTABLE_LINKER__C1-3_Debug course/course1/CMakeFiles/C1-3.dir/质因数分解.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-4.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-4.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-4.dll.a
-  TARGET_PDB = c-1-2-4.exe.dbg
+  TARGET_FILE = course\course1\C1-3.exe
+  TARGET_IMPLIB = course\course1\libC1-3.dll.a
+  TARGET_PDB = C1-3.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-5
+# Object build statements for EXECUTABLE target C1-4
 
 
 #############################################
-# Order-only phony target for c-1-2-5
+# Order-only phony target for C1-4
 
-build cmake_object_order_depends_target_c-1-2-5: phony || .
+build cmake_object_order_depends_target_C1-4: phony || .
 
-build course/course1/CMakeFiles/c-1-2-5.dir/有序插入.cpp.obj: CXX_COMPILER__c-1-2-5_unscanned_Debug D$:/cpp/course/course1/有序插入.cpp || cmake_object_order_depends_target_c-1-2-5
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-5.dir\有序插入.cpp.obj.d
+build course/course1/CMakeFiles/C1-4.dir/因子数.cpp.obj: CXX_COMPILER__C1-4_unscanned_Debug D$:/cpp/course/course1/因子数.cpp || cmake_object_order_depends_target_C1-4
+  DEP_FILE = course\course1\CMakeFiles\C1-4.dir\因子数.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-5.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-5.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-4.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-5
+# Link build statements for EXECUTABLE target C1-4
 
 
 #############################################
-# Link the executable course\course1\c-1-2-5.exe
+# Link the executable course\course1\C1-4.exe
 
-build course/course1/c-1-2-5.exe: CXX_EXECUTABLE_LINKER__c-1-2-5_Debug course/course1/CMakeFiles/c-1-2-5.dir/有序插入.cpp.obj
+build course/course1/C1-4.exe: CXX_EXECUTABLE_LINKER__C1-4_Debug course/course1/CMakeFiles/C1-4.dir/因子数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-5.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-5.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-5.dll.a
-  TARGET_PDB = c-1-2-5.exe.dbg
+  TARGET_FILE = course\course1\C1-4.exe
+  TARGET_IMPLIB = course\course1\libC1-4.dll.a
+  TARGET_PDB = C1-4.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-6
+# Object build statements for EXECUTABLE target C1-5
 
 
 #############################################
-# Order-only phony target for c-1-2-6
+# Order-only phony target for C1-5
 
-build cmake_object_order_depends_target_c-1-2-6: phony || .
+build cmake_object_order_depends_target_C1-5: phony || .
 
-build course/course1/CMakeFiles/c-1-2-6.dir/集合运算（交集）.cpp.obj: CXX_COMPILER__c-1-2-6_unscanned_Debug D$:/cpp/course/course1/集合运算（交集）.cpp || cmake_object_order_depends_target_c-1-2-6
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-6.dir\集合运算（交集）.cpp.obj.d
+build course/course1/CMakeFiles/C1-5.dir/有序插入.cpp.obj: CXX_COMPILER__C1-5_unscanned_Debug D$:/cpp/course/course1/有序插入.cpp || cmake_object_order_depends_target_C1-5
+  DEP_FILE = course\course1\CMakeFiles\C1-5.dir\有序插入.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-6.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-6.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-5.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-5.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-6
+# Link build statements for EXECUTABLE target C1-5
 
 
 #############################################
-# Link the executable course\course1\c-1-2-6.exe
+# Link the executable course\course1\C1-5.exe
 
-build course/course1/c-1-2-6.exe: CXX_EXECUTABLE_LINKER__c-1-2-6_Debug course/course1/CMakeFiles/c-1-2-6.dir/集合运算（交集）.cpp.obj
+build course/course1/C1-5.exe: CXX_EXECUTABLE_LINKER__C1-5_Debug course/course1/CMakeFiles/C1-5.dir/有序插入.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-6.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-6.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-6.dll.a
-  TARGET_PDB = c-1-2-6.exe.dbg
+  TARGET_FILE = course\course1\C1-5.exe
+  TARGET_IMPLIB = course\course1\libC1-5.dll.a
+  TARGET_PDB = C1-5.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-7
+# Object build statements for EXECUTABLE target C1-6
 
 
 #############################################
-# Order-only phony target for c-1-2-7
+# Order-only phony target for C1-6
 
-build cmake_object_order_depends_target_c-1-2-7: phony || .
+build cmake_object_order_depends_target_C1-6: phony || .
 
-build course/course1/CMakeFiles/c-1-2-7.dir/集合运算（并集）.cpp.obj: CXX_COMPILER__c-1-2-7_unscanned_Debug D$:/cpp/course/course1/集合运算（并集）.cpp || cmake_object_order_depends_target_c-1-2-7
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-7.dir\集合运算（并集）.cpp.obj.d
+build course/course1/CMakeFiles/C1-6.dir/集合运算（交集）.cpp.obj: CXX_COMPILER__C1-6_unscanned_Debug D$:/cpp/course/course1/集合运算（交集）.cpp || cmake_object_order_depends_target_C1-6
+  DEP_FILE = course\course1\CMakeFiles\C1-6.dir\集合运算（交集）.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-7.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-7.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-6.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-6.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-7
+# Link build statements for EXECUTABLE target C1-6
 
 
 #############################################
-# Link the executable course\course1\c-1-2-7.exe
+# Link the executable course\course1\C1-6.exe
 
-build course/course1/c-1-2-7.exe: CXX_EXECUTABLE_LINKER__c-1-2-7_Debug course/course1/CMakeFiles/c-1-2-7.dir/集合运算（并集）.cpp.obj
+build course/course1/C1-6.exe: CXX_EXECUTABLE_LINKER__C1-6_Debug course/course1/CMakeFiles/C1-6.dir/集合运算（交集）.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-7.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-7.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-7.dll.a
-  TARGET_PDB = c-1-2-7.exe.dbg
+  TARGET_FILE = course\course1\C1-6.exe
+  TARGET_IMPLIB = course\course1\libC1-6.dll.a
+  TARGET_PDB = C1-6.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target c-1-2-8
+# Object build statements for EXECUTABLE target C1-7
 
 
 #############################################
-# Order-only phony target for c-1-2-8
+# Order-only phony target for C1-7
 
-build cmake_object_order_depends_target_c-1-2-8: phony || .
+build cmake_object_order_depends_target_C1-7: phony || .
 
-build course/course1/CMakeFiles/c-1-2-8.dir/集合运算（唯一性）.cpp.obj: CXX_COMPILER__c-1-2-8_unscanned_Debug D$:/cpp/course/course1/集合运算（唯一性）.cpp || cmake_object_order_depends_target_c-1-2-8
-  DEP_FILE = course\course1\CMakeFiles\c-1-2-8.dir\集合运算（唯一性）.cpp.obj.d
+build course/course1/CMakeFiles/C1-7.dir/集合运算（并集）.cpp.obj: CXX_COMPILER__C1-7_unscanned_Debug D$:/cpp/course/course1/集合运算（并集）.cpp || cmake_object_order_depends_target_C1-7
+  DEP_FILE = course\course1\CMakeFiles\C1-7.dir\集合运算（并集）.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-8.dir
-  OBJECT_FILE_DIR = course\course1\CMakeFiles\c-1-2-8.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-7.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-7.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target c-1-2-8
+# Link build statements for EXECUTABLE target C1-7
 
 
 #############################################
-# Link the executable course\course1\c-1-2-8.exe
+# Link the executable course\course1\C1-7.exe
 
-build course/course1/c-1-2-8.exe: CXX_EXECUTABLE_LINKER__c-1-2-8_Debug course/course1/CMakeFiles/c-1-2-8.dir/集合运算（唯一性）.cpp.obj
+build course/course1/C1-7.exe: CXX_EXECUTABLE_LINKER__C1-7_Debug course/course1/CMakeFiles/C1-7.dir/集合运算（并集）.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = course\course1\CMakeFiles\c-1-2-8.dir
+  OBJECT_DIR = course\course1\CMakeFiles\C1-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = course\course1\c-1-2-8.exe
-  TARGET_IMPLIB = course\course1\libc-1-2-8.dll.a
-  TARGET_PDB = c-1-2-8.exe.dbg
+  TARGET_FILE = course\course1\C1-7.exe
+  TARGET_IMPLIB = course\course1\libC1-7.dll.a
+  TARGET_PDB = C1-7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target C1-8
+
+
+#############################################
+# Order-only phony target for C1-8
+
+build cmake_object_order_depends_target_C1-8: phony || .
+
+build course/course1/CMakeFiles/C1-8.dir/集合运算（唯一性）.cpp.obj: CXX_COMPILER__C1-8_unscanned_Debug D$:/cpp/course/course1/集合运算（唯一性）.cpp || cmake_object_order_depends_target_C1-8
+  DEP_FILE = course\course1\CMakeFiles\C1-8.dir\集合运算（唯一性）.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\C1-8.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target C1-8
+
+
+#############################################
+# Link the executable course\course1\C1-8.exe
+
+build course/course1/C1-8.exe: CXX_EXECUTABLE_LINKER__C1-8_Debug course/course1/CMakeFiles/C1-8.dir/集合运算（唯一性）.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\C1-8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\C1-8.exe
+  TARGET_IMPLIB = course\course1\libC1-8.dll.a
+  TARGET_PDB = C1-8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target C1-9
+
+
+#############################################
+# Order-only phony target for C1-9
+
+build cmake_object_order_depends_target_C1-9: phony || .
+
+build course/course1/CMakeFiles/C1-9.dir/有序归并.cpp.obj: CXX_COMPILER__C1-9_unscanned_Debug D$:/cpp/course/course1/有序归并.cpp || cmake_object_order_depends_target_C1-9
+  DEP_FILE = course\course1\CMakeFiles\C1-9.dir\有序归并.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = course\course1\CMakeFiles\C1-9.dir
+  OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-9.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target C1-9
+
+
+#############################################
+# Link the executable course\course1\C1-9.exe
+
+build course/course1/C1-9.exe: CXX_EXECUTABLE_LINKER__C1-9_Debug course/course1/CMakeFiles/C1-9.dir/有序归并.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = course\course1\CMakeFiles\C1-9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = course\course1\C1-9.exe
+  TARGET_IMPLIB = course\course1\libC1-9.dll.a
+  TARGET_PDB = C1-9.exe.dbg
 
 
 #############################################
@@ -1364,430 +2075,423 @@ build course/course1/rebuild_cache: phony course/course1/CMakeFiles/rebuild_cach
 # =============================================================================
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A10-3
+# Object build statements for EXECUTABLE target C2-1
 
 
 #############################################
-# Order-only phony target for A10-3
+# Order-only phony target for C2-1
 
-build cmake_object_order_depends_target_A10-3: phony || .
+build cmake_object_order_depends_target_C2-1: phony || .
 
-build Homework/Homework3/CMakeFiles/A10-3.dir/整数的去重.cpp.obj: CXX_COMPILER__A10-3_unscanned_Debug D$:/cpp/Homework/Homework3/整数的去重.cpp || cmake_object_order_depends_target_A10-3
-  DEP_FILE = Homework\Homework3\CMakeFiles\A10-3.dir\整数的去重.cpp.obj.d
+build course/course2/CMakeFiles/C2-1.dir/高精度整数：乘法1.cpp.obj: CXX_COMPILER__C2-1_unscanned_Debug D$:/cpp/course/course2/高精度整数：乘法1.cpp || cmake_object_order_depends_target_C2-1
+  DEP_FILE = course\course2\CMakeFiles\C2-1.dir\高精度整数：乘法1.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-3.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A10-3.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-1.dir
+  OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A10-3
+# Link build statements for EXECUTABLE target C2-1
 
 
 #############################################
-# Link the executable Homework\Homework3\A10-3.exe
+# Link the executable course\course2\C2-1.exe
 
-build Homework/Homework3/A10-3.exe: CXX_EXECUTABLE_LINKER__A10-3_Debug Homework/Homework3/CMakeFiles/A10-3.dir/整数的去重.cpp.obj
+build course/course2/C2-1.exe: CXX_EXECUTABLE_LINKER__C2-1_Debug course/course2/CMakeFiles/C2-1.dir/高精度整数：乘法1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-3.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A10-3.exe
-  TARGET_IMPLIB = Homework\Homework3\libA10-3.dll.a
-  TARGET_PDB = A10-3.exe.dbg
+  TARGET_FILE = course\course2\C2-1.exe
+  TARGET_IMPLIB = course\course2\libC2-1.dll.a
+  TARGET_PDB = C2-1.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A10-4
+# Object build statements for EXECUTABLE target C2-2
 
 
 #############################################
-# Order-only phony target for A10-4
+# Order-only phony target for C2-2
 
-build cmake_object_order_depends_target_A10-4: phony || .
+build cmake_object_order_depends_target_C2-2: phony || .
 
-build Homework/Homework3/CMakeFiles/A10-4.dir/集合的交集.cpp.obj: CXX_COMPILER__A10-4_unscanned_Debug D$:/cpp/Homework/Homework3/集合的交集.cpp || cmake_object_order_depends_target_A10-4
-  DEP_FILE = Homework\Homework3\CMakeFiles\A10-4.dir\集合的交集.cpp.obj.d
+build course/course2/CMakeFiles/C2-2.dir/高精度整数：乘法2.cpp.obj: CXX_COMPILER__C2-2_unscanned_Debug D$:/cpp/course/course2/高精度整数：乘法2.cpp || cmake_object_order_depends_target_C2-2
+  DEP_FILE = course\course2\CMakeFiles\C2-2.dir\高精度整数：乘法2.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-4.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A10-4.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-2.dir
+  OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-2.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A10-4
+# Link build statements for EXECUTABLE target C2-2
 
 
 #############################################
-# Link the executable Homework\Homework3\A10-4.exe
+# Link the executable course\course2\C2-2.exe
 
-build Homework/Homework3/A10-4.exe: CXX_EXECUTABLE_LINKER__A10-4_Debug Homework/Homework3/CMakeFiles/A10-4.dir/集合的交集.cpp.obj
+build course/course2/C2-2.exe: CXX_EXECUTABLE_LINKER__C2-2_Debug course/course2/CMakeFiles/C2-2.dir/高精度整数：乘法2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-4.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A10-4.exe
-  TARGET_IMPLIB = Homework\Homework3\libA10-4.dll.a
-  TARGET_PDB = A10-4.exe.dbg
+  TARGET_FILE = course\course2\C2-2.exe
+  TARGET_IMPLIB = course\course2\libC2-2.dll.a
+  TARGET_PDB = C2-2.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A10-5
+# Object build statements for EXECUTABLE target C2-3
 
 
 #############################################
-# Order-only phony target for A10-5
+# Order-only phony target for C2-3
 
-build cmake_object_order_depends_target_A10-5: phony || .
+build cmake_object_order_depends_target_C2-3: phony || .
 
-build Homework/Homework3/CMakeFiles/A10-5.dir/集合的并集.cpp.obj: CXX_COMPILER__A10-5_unscanned_Debug D$:/cpp/Homework/Homework3/集合的并集.cpp || cmake_object_order_depends_target_A10-5
-  DEP_FILE = Homework\Homework3\CMakeFiles\A10-5.dir\集合的并集.cpp.obj.d
+build course/course2/CMakeFiles/C2-3.dir/高精度整数：K进制.cpp.obj: CXX_COMPILER__C2-3_unscanned_Debug D$:/cpp/course/course2/高精度整数：K进制.cpp || cmake_object_order_depends_target_C2-3
+  DEP_FILE = course\course2\CMakeFiles\C2-3.dir\高精度整数：K进制.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-5.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A10-5.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-3.dir
+  OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-3.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A10-5
+# Link build statements for EXECUTABLE target C2-3
 
 
 #############################################
-# Link the executable Homework\Homework3\A10-5.exe
+# Link the executable course\course2\C2-3.exe
 
-build Homework/Homework3/A10-5.exe: CXX_EXECUTABLE_LINKER__A10-5_Debug Homework/Homework3/CMakeFiles/A10-5.dir/集合的并集.cpp.obj
+build course/course2/C2-3.exe: CXX_EXECUTABLE_LINKER__C2-3_Debug course/course2/CMakeFiles/C2-3.dir/高精度整数：K进制.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-5.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A10-5.exe
-  TARGET_IMPLIB = Homework\Homework3\libA10-5.dll.a
-  TARGET_PDB = A10-5.exe.dbg
+  TARGET_FILE = course\course2\C2-3.exe
+  TARGET_IMPLIB = course\course2\libC2-3.dll.a
+  TARGET_PDB = C2-3.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A10-1
+# Object build statements for EXECUTABLE target C2-4
 
 
 #############################################
-# Order-only phony target for A10-1
+# Order-only phony target for C2-4
 
-build cmake_object_order_depends_target_A10-1: phony || .
+build cmake_object_order_depends_target_C2-4: phony || .
 
-build Homework/Homework3/CMakeFiles/A10-1.dir/有序数组的合并.cpp.obj: CXX_COMPILER__A10-1_unscanned_Debug D$:/cpp/Homework/Homework3/有序数组的合并.cpp || cmake_object_order_depends_target_A10-1
-  DEP_FILE = Homework\Homework3\CMakeFiles\A10-1.dir\有序数组的合并.cpp.obj.d
+build course/course2/CMakeFiles/C2-4.dir/高精度整数：除法.cpp.obj: CXX_COMPILER__C2-4_unscanned_Debug D$:/cpp/course/course2/高精度整数：除法.cpp || cmake_object_order_depends_target_C2-4
+  DEP_FILE = course\course2\CMakeFiles\C2-4.dir\高精度整数：除法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-1.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A10-1.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-4.dir
+  OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A10-1
+# Link build statements for EXECUTABLE target C2-4
 
 
 #############################################
-# Link the executable Homework\Homework3\A10-1.exe
+# Link the executable course\course2\C2-4.exe
 
-build Homework/Homework3/A10-1.exe: CXX_EXECUTABLE_LINKER__A10-1_Debug Homework/Homework3/CMakeFiles/A10-1.dir/有序数组的合并.cpp.obj
+build course/course2/C2-4.exe: CXX_EXECUTABLE_LINKER__C2-4_Debug course/course2/CMakeFiles/C2-4.dir/高精度整数：除法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-1.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A10-1.exe
-  TARGET_IMPLIB = Homework\Homework3\libA10-1.dll.a
-  TARGET_PDB = A10-1.exe.dbg
+  TARGET_FILE = course\course2\C2-4.exe
+  TARGET_IMPLIB = course\course2\libC2-4.dll.a
+  TARGET_PDB = C2-4.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target A10-2
+# Object build statements for EXECUTABLE target C2-5
 
 
 #############################################
-# Order-only phony target for A10-2
+# Order-only phony target for C2-5
 
-build cmake_object_order_depends_target_A10-2: phony || .
+build cmake_object_order_depends_target_C2-5: phony || .
 
-build Homework/Homework3/CMakeFiles/A10-2.dir/有序子序列的合并.cpp.obj: CXX_COMPILER__A10-2_unscanned_Debug D$:/cpp/Homework/Homework3/有序子序列的合并.cpp || cmake_object_order_depends_target_A10-2
-  DEP_FILE = Homework\Homework3\CMakeFiles\A10-2.dir\有序子序列的合并.cpp.obj.d
+build course/course2/CMakeFiles/C2-5.dir/高精度整数：加法.cpp.obj: CXX_COMPILER__C2-5_unscanned_Debug D$:/cpp/course/course2/高精度整数：加法.cpp || cmake_object_order_depends_target_C2-5
+  DEP_FILE = course\course2\CMakeFiles\C2-5.dir\高精度整数：加法.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-2.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A10-2.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-5.dir
+  OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-5.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target A10-2
+# Link build statements for EXECUTABLE target C2-5
 
 
 #############################################
-# Link the executable Homework\Homework3\A10-2.exe
+# Link the executable course\course2\C2-5.exe
 
-build Homework/Homework3/A10-2.exe: CXX_EXECUTABLE_LINKER__A10-2_Debug Homework/Homework3/CMakeFiles/A10-2.dir/有序子序列的合并.cpp.obj
+build course/course2/C2-5.exe: CXX_EXECUTABLE_LINKER__C2-5_Debug course/course2/CMakeFiles/C2-5.dir/高精度整数：加法.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A10-2.dir
+  OBJECT_DIR = course\course2\CMakeFiles\C2-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A10-2.exe
-  TARGET_IMPLIB = Homework\Homework3\libA10-2.dll.a
-  TARGET_PDB = A10-2.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target A11-1
-
-
-#############################################
-# Order-only phony target for A11-1
-
-build cmake_object_order_depends_target_A11-1: phony || .
-
-build Homework/Homework3/CMakeFiles/A11-1.dir/高精度整数与常规整数的乘法.cpp.obj: CXX_COMPILER__A11-1_unscanned_Debug D$:/cpp/Homework/Homework3/高精度整数与常规整数的乘法.cpp || cmake_object_order_depends_target_A11-1
-  DEP_FILE = Homework\Homework3\CMakeFiles\A11-1.dir\高精度整数与常规整数的乘法.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-1.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A11-1.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target A11-1
-
-
-#############################################
-# Link the executable Homework\Homework3\A11-1.exe
-
-build Homework/Homework3/A11-1.exe: CXX_EXECUTABLE_LINKER__A11-1_Debug Homework/Homework3/CMakeFiles/A11-1.dir/高精度整数与常规整数的乘法.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-1.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A11-1.exe
-  TARGET_IMPLIB = Homework\Homework3\libA11-1.dll.a
-  TARGET_PDB = A11-1.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target A11-2
-
-
-#############################################
-# Order-only phony target for A11-2
-
-build cmake_object_order_depends_target_A11-2: phony || .
-
-build Homework/Homework3/CMakeFiles/A11-2.dir/K进制的高精度整数.cpp.obj: CXX_COMPILER__A11-2_unscanned_Debug D$:/cpp/Homework/Homework3/K进制的高精度整数.cpp || cmake_object_order_depends_target_A11-2
-  DEP_FILE = Homework\Homework3\CMakeFiles\A11-2.dir\K进制的高精度整数.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-2.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A11-2.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target A11-2
-
-
-#############################################
-# Link the executable Homework\Homework3\A11-2.exe
-
-build Homework/Homework3/A11-2.exe: CXX_EXECUTABLE_LINKER__A11-2_Debug Homework/Homework3/CMakeFiles/A11-2.dir/K进制的高精度整数.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-2.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A11-2.exe
-  TARGET_IMPLIB = Homework\Homework3\libA11-2.dll.a
-  TARGET_PDB = A11-2.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target A11-3
-
-
-#############################################
-# Order-only phony target for A11-3
-
-build cmake_object_order_depends_target_A11-3: phony || .
-
-build Homework/Homework3/CMakeFiles/A11-3.dir/高精度整数的加法.cpp.obj: CXX_COMPILER__A11-3_unscanned_Debug D$:/cpp/Homework/Homework3/高精度整数的加法.cpp || cmake_object_order_depends_target_A11-3
-  DEP_FILE = Homework\Homework3\CMakeFiles\A11-3.dir\高精度整数的加法.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-3.dir
-  OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\A11-3.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target A11-3
-
-
-#############################################
-# Link the executable Homework\Homework3\A11-3.exe
-
-build Homework/Homework3/A11-3.exe: CXX_EXECUTABLE_LINKER__A11-3_Debug Homework/Homework3/CMakeFiles/A11-3.dir/高精度整数的加法.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = Homework\Homework3\CMakeFiles\A11-3.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Homework\Homework3\A11-3.exe
-  TARGET_IMPLIB = Homework\Homework3\libA11-3.dll.a
-  TARGET_PDB = A11-3.exe.dbg
+  TARGET_FILE = course\course2\C2-5.exe
+  TARGET_IMPLIB = course\course2\libC2-5.dll.a
+  TARGET_PDB = C2-5.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
-build Homework/Homework3/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework3 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+build course/course2/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\course\course2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
-build Homework/Homework3/edit_cache: phony Homework/Homework3/CMakeFiles/edit_cache.util
+build course/course2/edit_cache: phony course/course2/CMakeFiles/edit_cache.util
 
 
 #############################################
 # Utility command for rebuild_cache
 
-build Homework/Homework3/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\Homework\Homework3 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+build course/course2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\course\course2 && "D:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 
-build Homework/Homework3/rebuild_cache: phony Homework/Homework3/CMakeFiles/rebuild_cache.util
+build course/course2/rebuild_cache: phony course/course2/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Target aliases.
 
-build A1-4: phony Homework/Homework1/A1-4.exe
+build C1-1: phony course/course1/C1-1.exe
 
-build A1-4.exe: phony Homework/Homework1/A1-4.exe
+build C1-1.exe: phony course/course1/C1-1.exe
 
-build A10-1: phony Homework/Homework3/A10-1.exe
+build C1-2: phony course/course1/C1-2.exe
 
-build A10-1.exe: phony Homework/Homework3/A10-1.exe
+build C1-2.exe: phony course/course1/C1-2.exe
 
-build A10-2: phony Homework/Homework3/A10-2.exe
+build C1-3: phony course/course1/C1-3.exe
 
-build A10-2.exe: phony Homework/Homework3/A10-2.exe
+build C1-3.exe: phony course/course1/C1-3.exe
 
-build A10-3: phony Homework/Homework3/A10-3.exe
+build C1-4: phony course/course1/C1-4.exe
 
-build A10-3.exe: phony Homework/Homework3/A10-3.exe
+build C1-4.exe: phony course/course1/C1-4.exe
 
-build A10-4: phony Homework/Homework3/A10-4.exe
+build C1-5: phony course/course1/C1-5.exe
 
-build A10-4.exe: phony Homework/Homework3/A10-4.exe
+build C1-5.exe: phony course/course1/C1-5.exe
 
-build A10-5: phony Homework/Homework3/A10-5.exe
+build C1-6: phony course/course1/C1-6.exe
 
-build A10-5.exe: phony Homework/Homework3/A10-5.exe
+build C1-6.exe: phony course/course1/C1-6.exe
 
-build A11-1: phony Homework/Homework3/A11-1.exe
+build C1-7: phony course/course1/C1-7.exe
 
-build A11-1.exe: phony Homework/Homework3/A11-1.exe
+build C1-7.exe: phony course/course1/C1-7.exe
 
-build A11-2: phony Homework/Homework3/A11-2.exe
+build C1-8: phony course/course1/C1-8.exe
 
-build A11-2.exe: phony Homework/Homework3/A11-2.exe
+build C1-8.exe: phony course/course1/C1-8.exe
 
-build A11-3: phony Homework/Homework3/A11-3.exe
+build C1-9: phony course/course1/C1-9.exe
 
-build A11-3.exe: phony Homework/Homework3/A11-3.exe
+build C1-9.exe: phony course/course1/C1-9.exe
 
-build A6-2: phony Homework/Homework1/A6-2.exe
+build C2-1: phony course/course2/C2-1.exe
 
-build A6-2.exe: phony Homework/Homework1/A6-2.exe
+build C2-1.exe: phony course/course2/C2-1.exe
 
-build A6-3: phony Homework/Homework1/A6-3.exe
+build C2-2: phony course/course2/C2-2.exe
 
-build A6-3.exe: phony Homework/Homework1/A6-3.exe
+build C2-2.exe: phony course/course2/C2-2.exe
 
-build A6-4: phony Homework/Homework1/A6-4.exe
+build C2-3: phony course/course2/C2-3.exe
 
-build A6-4.exe: phony Homework/Homework1/A6-4.exe
+build C2-3.exe: phony course/course2/C2-3.exe
 
-build A7-2: phony Homework/Homework1/A7-2.exe
+build C2-4: phony course/course2/C2-4.exe
 
-build A7-2.exe: phony Homework/Homework1/A7-2.exe
+build C2-4.exe: phony course/course2/C2-4.exe
 
-build A7-3: phony Homework/Homework1/A7-3.exe
+build C2-5: phony course/course2/C2-5.exe
 
-build A7-3.exe: phony Homework/Homework1/A7-3.exe
+build C2-5.exe: phony course/course2/C2-5.exe
 
-build A7-4: phony Homework/Homework1/A7-4.exe
+build H1-1: phony Homework/Homework1/H1-1.exe
 
-build A7-4.exe: phony Homework/Homework1/A7-4.exe
+build H1-1.exe: phony Homework/Homework1/H1-1.exe
 
-build A7-5: phony Homework/Homework1/A7-5.exe
+build H1-10: phony Homework/Homework1/H1-10.exe
 
-build A7-5.exe: phony Homework/Homework1/A7-5.exe
+build H1-10.exe: phony Homework/Homework1/H1-10.exe
 
-build A7-6: phony Homework/Homework1/A7-6.exe
+build H1-11: phony Homework/Homework1/H1-11.exe
 
-build A7-6.exe: phony Homework/Homework1/A7-6.exe
+build H1-11.exe: phony Homework/Homework1/H1-11.exe
 
-build A7-7: phony Homework/Homework1/A7-7.exe
+build H1-12: phony Homework/Homework1/H1-12.exe
 
-build A7-7.exe: phony Homework/Homework1/A7-7.exe
+build H1-12.exe: phony Homework/Homework1/H1-12.exe
 
-build A9-1: phony Homework/Homework1/A9-1.exe
+build H1-13: phony Homework/Homework1/H1-13.exe
 
-build A9-1.exe: phony Homework/Homework1/A9-1.exe
+build H1-13.exe: phony Homework/Homework1/H1-13.exe
 
-build A9-2: phony Homework/Homework1/A9-2.exe
+build H1-14: phony Homework/Homework1/H1-14.exe
 
-build A9-2.exe: phony Homework/Homework1/A9-2.exe
+build H1-14.exe: phony Homework/Homework1/H1-14.exe
 
-build A9-3: phony Homework/Homework1/A9-3.exe
+build H1-15: phony Homework/Homework1/H1-15.exe
 
-build A9-3.exe: phony Homework/Homework1/A9-3.exe
+build H1-15.exe: phony Homework/Homework1/H1-15.exe
 
-build A9-4: phony Homework/Homework1/A9-4.exe
+build H1-16: phony Homework/Homework1/H1-16.exe
 
-build A9-4.exe: phony Homework/Homework1/A9-4.exe
+build H1-16.exe: phony Homework/Homework1/H1-16.exe
 
-build A9-5: phony Homework/Homework1/A9-5.exe
+build H1-17: phony Homework/Homework1/H1-17.exe
 
-build A9-5.exe: phony Homework/Homework1/A9-5.exe
+build H1-17.exe: phony Homework/Homework1/H1-17.exe
 
-build A9-6: phony Homework/Homework1/A9-6.exe
+build H1-2: phony Homework/Homework1/H1-2.exe
 
-build A9-6.exe: phony Homework/Homework1/A9-6.exe
+build H1-2.exe: phony Homework/Homework1/H1-2.exe
 
-build A9-7: phony Homework/Homework1/A9-7.exe
+build H1-3: phony Homework/Homework1/H1-3.exe
 
-build A9-7.exe: phony Homework/Homework1/A9-7.exe
+build H1-3.exe: phony Homework/Homework1/H1-3.exe
+
+build H1-4: phony Homework/Homework1/H1-4.exe
+
+build H1-4.exe: phony Homework/Homework1/H1-4.exe
+
+build H1-5: phony Homework/Homework1/H1-5.exe
+
+build H1-5.exe: phony Homework/Homework1/H1-5.exe
+
+build H1-6: phony Homework/Homework1/H1-6.exe
+
+build H1-6.exe: phony Homework/Homework1/H1-6.exe
+
+build H1-7: phony Homework/Homework1/H1-7.exe
+
+build H1-7.exe: phony Homework/Homework1/H1-7.exe
+
+build H1-8: phony Homework/Homework1/H1-8.exe
+
+build H1-8.exe: phony Homework/Homework1/H1-8.exe
+
+build H1-9: phony Homework/Homework1/H1-9.exe
+
+build H1-9.exe: phony Homework/Homework1/H1-9.exe
+
+build H2-1: phony Homework/Homework2/H2-1.exe
+
+build H2-1.exe: phony Homework/Homework2/H2-1.exe
+
+build H3-1: phony Homework/Homework3/H3-1.exe
+
+build H3-1.exe: phony Homework/Homework3/H3-1.exe
+
+build H3-2: phony Homework/Homework3/H3-2.exe
+
+build H3-2.exe: phony Homework/Homework3/H3-2.exe
+
+build H3-3: phony Homework/Homework3/H3-3.exe
+
+build H3-3.exe: phony Homework/Homework3/H3-3.exe
+
+build H3-4: phony Homework/Homework3/H3-4.exe
+
+build H3-4.exe: phony Homework/Homework3/H3-4.exe
+
+build H3-5: phony Homework/Homework3/H3-5.exe
+
+build H3-5.exe: phony Homework/Homework3/H3-5.exe
+
+build H3-6: phony Homework/Homework3/H3-6.exe
+
+build H3-6.exe: phony Homework/Homework3/H3-6.exe
+
+build H3-7: phony Homework/Homework3/H3-7.exe
+
+build H3-7.exe: phony Homework/Homework3/H3-7.exe
+
+build H3-8: phony Homework/Homework3/H3-8.exe
+
+build H3-8.exe: phony Homework/Homework3/H3-8.exe
+
+build H4-1: phony Homework/Homework4/H4-1.exe
+
+build H4-1.exe: phony Homework/Homework4/H4-1.exe
+
+build H4-2: phony Homework/Homework4/H4-2.exe
+
+build H4-2.exe: phony Homework/Homework4/H4-2.exe
+
+build H4-3: phony Homework/Homework4/H4-3.exe
+
+build H4-3.exe: phony Homework/Homework4/H4-3.exe
+
+build H4-4: phony Homework/Homework4/H4-4.exe
+
+build H4-4.exe: phony Homework/Homework4/H4-4.exe
+
+build H4-5: phony Homework/Homework4/H4-5.exe
+
+build H4-5.exe: phony Homework/Homework4/H4-5.exe
+
+build H4-6: phony Homework/Homework4/H4-6.exe
+
+build H4-6.exe: phony Homework/Homework4/H4-6.exe
+
+build H4-7: phony Homework/Homework4/H4-7.exe
+
+build H4-7.exe: phony Homework/Homework4/H4-7.exe
+
+build H4-8: phony Homework/Homework4/H4-8.exe
+
+build H4-8.exe: phony Homework/Homework4/H4-8.exe
+
+build H4-9: phony Homework/Homework4/H4-9.exe
+
+build H4-9.exe: phony Homework/Homework4/H4-9.exe
 
 build P1179: phony luogu/P1179.exe
 
 build P1179.exe: phony luogu/P1179.exe
 
-build c-1-2-1: phony course/course1/c-1-2-1.exe
+build X0-1: phony BountyOrder/BountyOrder0/X0-1.exe
 
-build c-1-2-1.exe: phony course/course1/c-1-2-1.exe
+build X0-1.exe: phony BountyOrder/BountyOrder0/X0-1.exe
 
-build c-1-2-2: phony course/course1/c-1-2-2.exe
+build X0-2: phony BountyOrder/BountyOrder0/X0-2.exe
 
-build c-1-2-2.exe: phony course/course1/c-1-2-2.exe
+build X0-2.exe: phony BountyOrder/BountyOrder0/X0-2.exe
 
-build c-1-2-3: phony course/course1/c-1-2-3.exe
+build X0-3: phony BountyOrder/BountyOrder0/X0-3.exe
 
-build c-1-2-3.exe: phony course/course1/c-1-2-3.exe
+build X0-3.exe: phony BountyOrder/BountyOrder0/X0-3.exe
 
-build c-1-2-4: phony course/course1/c-1-2-4.exe
+build X0-4: phony BountyOrder/BountyOrder0/X0-4.exe
 
-build c-1-2-4.exe: phony course/course1/c-1-2-4.exe
+build X0-4.exe: phony BountyOrder/BountyOrder0/X0-4.exe
 
-build c-1-2-5: phony course/course1/c-1-2-5.exe
+build X0-5: phony BountyOrder/BountyOrder0/X0-5.exe
 
-build c-1-2-5.exe: phony course/course1/c-1-2-5.exe
+build X0-5.exe: phony BountyOrder/BountyOrder0/X0-5.exe
 
-build c-1-2-6: phony course/course1/c-1-2-6.exe
+build X0-6: phony BountyOrder/BountyOrder0/X0-6.exe
 
-build c-1-2-6.exe: phony course/course1/c-1-2-6.exe
+build X0-6.exe: phony BountyOrder/BountyOrder0/X0-6.exe
 
-build c-1-2-7: phony course/course1/c-1-2-7.exe
+build X1-1: phony BountyOrder/BountyOrder1/X1-1.exe
 
-build c-1-2-7.exe: phony course/course1/c-1-2-7.exe
-
-build c-1-2-8: phony course/course1/c-1-2-8.exe
-
-build c-1-2-8.exe: phony course/course1/c-1-2-8.exe
+build X1-1.exe: phony BountyOrder/BountyOrder1/X1-1.exe
 
 build p1183: phony Homework/Homework1/p1183.exe
 
@@ -1797,34 +2501,6 @@ build p1185: phony Homework/Homework1/p1185.exe
 
 build p1185.exe: phony Homework/Homework1/p1185.exe
 
-build qing: phony Homework/Homework2/qing.exe
-
-build qing.exe: phony Homework/Homework2/qing.exe
-
-build x-1-1: phony BountyOrder/BountyOrder0/x-1-1.exe
-
-build x-1-1.exe: phony BountyOrder/BountyOrder0/x-1-1.exe
-
-build x-1-2: phony BountyOrder/BountyOrder0/x-1-2.exe
-
-build x-1-2.exe: phony BountyOrder/BountyOrder0/x-1-2.exe
-
-build x-1-25-1: phony BountyOrder/BountyOrder0/x-1-25-1.exe
-
-build x-1-25-1.exe: phony BountyOrder/BountyOrder0/x-1-25-1.exe
-
-build x-1-25-2: phony BountyOrder/BountyOrder0/x-1-25-2.exe
-
-build x-1-25-2.exe: phony BountyOrder/BountyOrder0/x-1-25-2.exe
-
-build x-1-25-3: phony BountyOrder/BountyOrder0/x-1-25-3.exe
-
-build x-1-25-3.exe: phony BountyOrder/BountyOrder0/x-1-25-3.exe
-
-build x-1-4: phony BountyOrder/BountyOrder0/x-1-4.exe
-
-build x-1-4.exe: phony BountyOrder/BountyOrder0/x-1-4.exe
-
 # =============================================================================
 # Folder targets.
 
@@ -1833,42 +2509,63 @@ build x-1-4.exe: phony BountyOrder/BountyOrder0/x-1-4.exe
 #############################################
 # Folder: D:/cpp/cmake-build-debug
 
-build all: phony Homework/Homework1/all Homework/Homework2/all luogu/all BountyOrder/BountyOrder0/all course/course1/all Homework/Homework3/all
+build all: phony Homework/Homework1/all Homework/Homework2/all Homework/Homework3/all Homework/Homework4/all luogu/all BountyOrder/BountyOrder0/all BountyOrder/BountyOrder1/all course/course1/all course/course2/all
 
 # =============================================================================
 
 #############################################
 # Folder: D:/cpp/cmake-build-debug/BountyOrder/BountyOrder0
 
-build BountyOrder/BountyOrder0/all: phony BountyOrder/BountyOrder0/x-1-1.exe BountyOrder/BountyOrder0/x-1-2.exe BountyOrder/BountyOrder0/x-1-25-1.exe BountyOrder/BountyOrder0/x-1-25-2.exe BountyOrder/BountyOrder0/x-1-25-3.exe BountyOrder/BountyOrder0/x-1-4.exe
+build BountyOrder/BountyOrder0/all: phony BountyOrder/BountyOrder0/X0-1.exe BountyOrder/BountyOrder0/X0-2.exe BountyOrder/BountyOrder0/X0-3.exe BountyOrder/BountyOrder0/X0-4.exe BountyOrder/BountyOrder0/X0-5.exe BountyOrder/BountyOrder0/X0-6.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/cpp/cmake-build-debug/BountyOrder/BountyOrder1
+
+build BountyOrder/BountyOrder1/all: phony BountyOrder/BountyOrder1/X1-1.exe
 
 # =============================================================================
 
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework1
 
-build Homework/Homework1/all: phony Homework/Homework1/A6-3.exe Homework/Homework1/A6-4.exe Homework/Homework1/A6-2.exe Homework/Homework1/A1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/A7-2.exe Homework/Homework1/A7-3.exe Homework/Homework1/A7-4.exe Homework/Homework1/A7-5.exe Homework/Homework1/A7-6.exe Homework/Homework1/A7-7.exe Homework/Homework1/A9-1.exe Homework/Homework1/A9-2.exe Homework/Homework1/A9-3.exe Homework/Homework1/A9-4.exe Homework/Homework1/A9-5.exe Homework/Homework1/A9-6.exe Homework/Homework1/A9-7.exe
+build Homework/Homework1/all: phony Homework/Homework1/H1-1.exe Homework/Homework1/H1-2.exe Homework/Homework1/H1-3.exe Homework/Homework1/H1-4.exe Homework/Homework1/p1183.exe Homework/Homework1/p1185.exe Homework/Homework1/H1-5.exe Homework/Homework1/H1-6.exe Homework/Homework1/H1-7.exe Homework/Homework1/H1-8.exe Homework/Homework1/H1-9.exe Homework/Homework1/H1-10.exe Homework/Homework1/H1-11.exe Homework/Homework1/H1-12.exe Homework/Homework1/H1-13.exe Homework/Homework1/H1-14.exe Homework/Homework1/H1-15.exe Homework/Homework1/H1-16.exe Homework/Homework1/H1-17.exe
 
 # =============================================================================
 
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework2
 
-build Homework/Homework2/all: phony Homework/Homework2/qing.exe
+build Homework/Homework2/all: phony Homework/Homework2/H2-1.exe
 
 # =============================================================================
 
 #############################################
 # Folder: D:/cpp/cmake-build-debug/Homework/Homework3
 
-build Homework/Homework3/all: phony Homework/Homework3/A10-3.exe Homework/Homework3/A10-4.exe Homework/Homework3/A10-5.exe Homework/Homework3/A10-1.exe Homework/Homework3/A10-2.exe Homework/Homework3/A11-1.exe Homework/Homework3/A11-2.exe Homework/Homework3/A11-3.exe
+build Homework/Homework3/all: phony Homework/Homework3/H3-1.exe Homework/Homework3/H3-2.exe Homework/Homework3/H3-3.exe Homework/Homework3/H3-4.exe Homework/Homework3/H3-5.exe Homework/Homework3/H3-6.exe Homework/Homework3/H3-7.exe Homework/Homework3/H3-8.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/cpp/cmake-build-debug/Homework/Homework4
+
+build Homework/Homework4/all: phony Homework/Homework4/H4-1.exe Homework/Homework4/H4-2.exe Homework/Homework4/H4-3.exe Homework/Homework4/H4-4.exe Homework/Homework4/H4-5.exe Homework/Homework4/H4-6.exe Homework/Homework4/H4-7.exe Homework/Homework4/H4-8.exe Homework/Homework4/H4-9.exe
 
 # =============================================================================
 
 #############################################
 # Folder: D:/cpp/cmake-build-debug/course/course1
 
-build course/course1/all: phony course/course1/c-1-2-1.exe course/course1/c-1-2-2.exe course/course1/c-1-2-3.exe course/course1/c-1-2-4.exe course/course1/c-1-2-5.exe course/course1/c-1-2-6.exe course/course1/c-1-2-7.exe course/course1/c-1-2-8.exe
+build course/course1/all: phony course/course1/C1-1.exe course/course1/C1-2.exe course/course1/C1-3.exe course/course1/C1-4.exe course/course1/C1-5.exe course/course1/C1-6.exe course/course1/C1-7.exe course/course1/C1-8.exe course/course1/C1-9.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/cpp/cmake-build-debug/course/course2
+
+build course/course2/all: phony course/course2/C2-1.exe course/course2/C2-2.exe course/course2/C2-3.exe course/course2/C2-4.exe course/course2/C2-5.exe
 
 # =============================================================================
 
@@ -1884,14 +2581,14 @@ build luogu/all: phony luogu/P1179.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt: phony
 
 
 #############################################

@@ -1,1 +1,1 @@
-add_executable(qing qing.cpp)
+add_executable(H2-1 qing.cpp)
