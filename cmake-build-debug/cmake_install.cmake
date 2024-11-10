@@ -119,6 +119,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/cpp/cmake-build-debug/BountyOrder/BountyOrder6/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/cpp/cmake-build-debug/course/course1/cmake_install.cmake")
 endif()
 

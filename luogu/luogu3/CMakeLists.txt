@@ -1,3 +1,5 @@
 add_executable(B2125 B2125最高分数的学生姓名.cpp)
 add_executable(P10223 P10223Eurokod.cpp)
 add_executable(B3631 B3631单向链表.cpp)
+add_executable(nnnnn nnn.cpp)
+add_executable(nnnnnn nnnn.cpp)

@@ -82,8 +82,6 @@ build Homework/Homework1/CMakeFiles/H1-1.dir/多个分数的加法.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-1.dir\
-  TARGET_PDB = Homework\Homework1\H1-1.pdb
 
 
 # =============================================================================
@@ -99,10 +97,9 @@ build Homework/Homework1/H1-1.exe: CXX_EXECUTABLE_LINKER__H1-1_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-1.dir\
   TARGET_FILE = Homework\Homework1\H1-1.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-1.dll.a
-  TARGET_PDB = Homework\Homework1\H1-1.pdb
+  TARGET_PDB = H1-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-2
@@ -118,8 +115,6 @@ build Homework/Homework1/CMakeFiles/H1-2.dir/多个数的最大公约数.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-2.dir\
-  TARGET_PDB = Homework\Homework1\H1-2.pdb
 
 
 # =============================================================================
@@ -135,10 +130,9 @@ build Homework/Homework1/H1-2.exe: CXX_EXECUTABLE_LINKER__H1-2_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-2.dir\
   TARGET_FILE = Homework\Homework1\H1-2.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-2.dll.a
-  TARGET_PDB = Homework\Homework1\H1-2.pdb
+  TARGET_PDB = H1-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-3
@@ -154,8 +148,6 @@ build Homework/Homework1/CMakeFiles/H1-3.dir/分数的加法.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-3.dir\
-  TARGET_PDB = Homework\Homework1\H1-3.pdb
 
 
 # =============================================================================
@@ -171,10 +163,9 @@ build Homework/Homework1/H1-3.exe: CXX_EXECUTABLE_LINKER__H1-3_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-3.dir\
   TARGET_FILE = Homework\Homework1\H1-3.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-3.dll.a
-  TARGET_PDB = Homework\Homework1\H1-3.pdb
+  TARGET_PDB = H1-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-4
@@ -190,8 +181,6 @@ build Homework/Homework1/CMakeFiles/H1-4.dir/今年过去了多少天.cpp.obj: C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-4.dir\
-  TARGET_PDB = Homework\Homework1\H1-4.pdb
 
 
 # =============================================================================
@@ -207,10 +196,9 @@ build Homework/Homework1/H1-4.exe: CXX_EXECUTABLE_LINKER__H1-4_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-4.dir\
   TARGET_FILE = Homework\Homework1\H1-4.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-4.dll.a
-  TARGET_PDB = Homework\Homework1\H1-4.pdb
+  TARGET_PDB = H1-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1183
@@ -226,8 +214,6 @@ build Homework/Homework1/CMakeFiles/p1183.dir/五角大楼.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\p1183.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\p1183.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\p1183.dir\
-  TARGET_PDB = Homework\Homework1\p1183.pdb
 
 
 # =============================================================================
@@ -243,10 +229,9 @@ build Homework/Homework1/p1183.exe: CXX_EXECUTABLE_LINKER__p1183_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\p1183.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\p1183.dir\
   TARGET_FILE = Homework\Homework1\p1183.exe
   TARGET_IMPLIB = Homework\Homework1\libp1183.dll.a
-  TARGET_PDB = Homework\Homework1\p1183.pdb
+  TARGET_PDB = p1183.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1185
@@ -262,8 +247,6 @@ build Homework/Homework1/CMakeFiles/p1185.dir/永生诅咒.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\p1185.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\p1185.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\p1185.dir\
-  TARGET_PDB = Homework\Homework1\p1185.pdb
 
 
 # =============================================================================
@@ -279,10 +262,9 @@ build Homework/Homework1/p1185.exe: CXX_EXECUTABLE_LINKER__p1185_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\p1185.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\p1185.dir\
   TARGET_FILE = Homework\Homework1\p1185.exe
   TARGET_IMPLIB = Homework\Homework1\libp1185.dll.a
-  TARGET_PDB = Homework\Homework1\p1185.pdb
+  TARGET_PDB = p1185.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-5
@@ -298,8 +280,6 @@ build Homework/Homework1/CMakeFiles/H1-5.dir/数组的极值函数.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-5.dir\
-  TARGET_PDB = Homework\Homework1\H1-5.pdb
 
 
 # =============================================================================
@@ -315,10 +295,9 @@ build Homework/Homework1/H1-5.exe: CXX_EXECUTABLE_LINKER__H1-5_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-5.dir\
   TARGET_FILE = Homework\Homework1\H1-5.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-5.dll.a
-  TARGET_PDB = Homework\Homework1\H1-5.pdb
+  TARGET_PDB = H1-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-6
@@ -334,8 +313,6 @@ build Homework/Homework1/CMakeFiles/H1-6.dir/数组的极值下标函数.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-6.dir\
-  TARGET_PDB = Homework\Homework1\H1-6.pdb
 
 
 # =============================================================================
@@ -351,10 +328,9 @@ build Homework/Homework1/H1-6.exe: CXX_EXECUTABLE_LINKER__H1-6_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-6.dir\
   TARGET_FILE = Homework\Homework1\H1-6.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-6.dll.a
-  TARGET_PDB = Homework\Homework1\H1-6.pdb
+  TARGET_PDB = H1-6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-7
@@ -370,8 +346,6 @@ build Homework/Homework1/CMakeFiles/H1-7.dir/数组的查找函数.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-7.dir\
-  TARGET_PDB = Homework\Homework1\H1-7.pdb
 
 
 # =============================================================================
@@ -387,10 +361,9 @@ build Homework/Homework1/H1-7.exe: CXX_EXECUTABLE_LINKER__H1-7_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-7.dir\
   TARGET_FILE = Homework\Homework1\H1-7.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-7.dll.a
-  TARGET_PDB = Homework\Homework1\H1-7.pdb
+  TARGET_PDB = H1-7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-8
@@ -406,8 +379,6 @@ build Homework/Homework1/CMakeFiles/H1-8.dir/数组的有序插入函数.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-8.dir\
-  TARGET_PDB = Homework\Homework1\H1-8.pdb
 
 
 # =============================================================================
@@ -423,10 +394,9 @@ build Homework/Homework1/H1-8.exe: CXX_EXECUTABLE_LINKER__H1-8_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-8.dir\
   TARGET_FILE = Homework\Homework1\H1-8.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-8.dll.a
-  TARGET_PDB = Homework\Homework1\H1-8.pdb
+  TARGET_PDB = H1-8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-9
@@ -442,8 +412,6 @@ build Homework/Homework1/CMakeFiles/H1-9.dir/数组的左移函数.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-9.dir\
-  TARGET_PDB = Homework\Homework1\H1-9.pdb
 
 
 # =============================================================================
@@ -459,10 +427,9 @@ build Homework/Homework1/H1-9.exe: CXX_EXECUTABLE_LINKER__H1-9_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-9.dir\
   TARGET_FILE = Homework\Homework1\H1-9.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-9.dll.a
-  TARGET_PDB = Homework\Homework1\H1-9.pdb
+  TARGET_PDB = H1-9.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-10
@@ -478,8 +445,6 @@ build Homework/Homework1/CMakeFiles/H1-10.dir/数组的右移函数.cpp.obj: CXX
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-10.dir\
-  TARGET_PDB = Homework\Homework1\H1-10.pdb
 
 
 # =============================================================================
@@ -495,10 +460,9 @@ build Homework/Homework1/H1-10.exe: CXX_EXECUTABLE_LINKER__H1-10_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-10.dir\
   TARGET_FILE = Homework\Homework1\H1-10.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-10.dll.a
-  TARGET_PDB = Homework\Homework1\H1-10.pdb
+  TARGET_PDB = H1-10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-11
@@ -514,8 +478,6 @@ build Homework/Homework1/CMakeFiles/H1-11.dir/数组中的素数个数.cpp.obj: 
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-11.dir\
-  TARGET_PDB = Homework\Homework1\H1-11.pdb
 
 
 # =============================================================================
@@ -531,10 +493,9 @@ build Homework/Homework1/H1-11.exe: CXX_EXECUTABLE_LINKER__H1-11_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-11.dir\
   TARGET_FILE = Homework\Homework1\H1-11.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-11.dll.a
-  TARGET_PDB = Homework\Homework1\H1-11.pdb
+  TARGET_PDB = H1-11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-12
@@ -550,8 +511,6 @@ build Homework/Homework1/CMakeFiles/H1-12.dir/数组中最小正数的下标.cpp
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-12.dir\
-  TARGET_PDB = Homework\Homework1\H1-12.pdb
 
 
 # =============================================================================
@@ -567,10 +526,9 @@ build Homework/Homework1/H1-12.exe: CXX_EXECUTABLE_LINKER__H1-12_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-12.dir\
   TARGET_FILE = Homework\Homework1\H1-12.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-12.dll.a
-  TARGET_PDB = Homework\Homework1\H1-12.pdb
+  TARGET_PDB = H1-12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-13
@@ -586,8 +544,6 @@ build Homework/Homework1/CMakeFiles/H1-13.dir/数组中最大的负数.cpp.obj: 
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-13.dir\
-  TARGET_PDB = Homework\Homework1\H1-13.pdb
 
 
 # =============================================================================
@@ -603,10 +559,9 @@ build Homework/Homework1/H1-13.exe: CXX_EXECUTABLE_LINKER__H1-13_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-13.dir\
   TARGET_FILE = Homework\Homework1\H1-13.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-13.dll.a
-  TARGET_PDB = Homework\Homework1\H1-13.pdb
+  TARGET_PDB = H1-13.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-14
@@ -622,8 +577,6 @@ build Homework/Homework1/CMakeFiles/H1-14.dir/!数组中第二大的数.cpp.obj:
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-14.dir\
-  TARGET_PDB = Homework\Homework1\H1-14.pdb
 
 
 # =============================================================================
@@ -639,10 +592,9 @@ build Homework/Homework1/H1-14.exe: CXX_EXECUTABLE_LINKER__H1-14_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-14.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-14.dir\
   TARGET_FILE = Homework\Homework1\H1-14.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-14.dll.a
-  TARGET_PDB = Homework\Homework1\H1-14.pdb
+  TARGET_PDB = H1-14.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-15
@@ -658,8 +610,6 @@ build Homework/Homework1/CMakeFiles/H1-15.dir/数组中最小值的个数.cpp.ob
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-15.dir\
-  TARGET_PDB = Homework\Homework1\H1-15.pdb
 
 
 # =============================================================================
@@ -675,10 +625,9 @@ build Homework/Homework1/H1-15.exe: CXX_EXECUTABLE_LINKER__H1-15_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-15.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-15.dir\
   TARGET_FILE = Homework\Homework1\H1-15.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-15.dll.a
-  TARGET_PDB = Homework\Homework1\H1-15.pdb
+  TARGET_PDB = H1-15.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-16
@@ -694,8 +643,6 @@ build Homework/Homework1/CMakeFiles/H1-16.dir/数组中递增子序列的个数.
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-16.dir\
-  TARGET_PDB = Homework\Homework1\H1-16.pdb
 
 
 # =============================================================================
@@ -711,10 +658,9 @@ build Homework/Homework1/H1-16.exe: CXX_EXECUTABLE_LINKER__H1-16_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-16.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-16.dir\
   TARGET_FILE = Homework\Homework1\H1-16.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-16.dll.a
-  TARGET_PDB = Homework\Homework1\H1-16.pdb
+  TARGET_PDB = H1-16.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H1-17
@@ -730,8 +676,6 @@ build Homework/Homework1/CMakeFiles/H1-17.dir/数组中所有极大值.cpp.obj: 
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
   OBJECT_FILE_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-17.dir\
-  TARGET_PDB = Homework\Homework1\H1-17.pdb
 
 
 # =============================================================================
@@ -747,10 +691,9 @@ build Homework/Homework1/H1-17.exe: CXX_EXECUTABLE_LINKER__H1-17_Debug Homework/
   OBJECT_DIR = Homework\Homework1\CMakeFiles\H1-17.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework1\CMakeFiles\H1-17.dir\
   TARGET_FILE = Homework\Homework1\H1-17.exe
   TARGET_IMPLIB = Homework\Homework1\libH1-17.dll.a
-  TARGET_PDB = Homework\Homework1\H1-17.pdb
+  TARGET_PDB = H1-17.exe.dbg
 
 
 #############################################
@@ -794,8 +737,6 @@ build Homework/Homework2/CMakeFiles/H2-1.dir/qing.cpp.obj: CXX_COMPILER__H2-1_un
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
   OBJECT_FILE_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework2\CMakeFiles\H2-1.dir\
-  TARGET_PDB = Homework\Homework2\H2-1.pdb
 
 
 # =============================================================================
@@ -811,10 +752,9 @@ build Homework/Homework2/H2-1.exe: CXX_EXECUTABLE_LINKER__H2-1_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework2\CMakeFiles\H2-1.dir\
   TARGET_FILE = Homework\Homework2\H2-1.exe
   TARGET_IMPLIB = Homework\Homework2\libH2-1.dll.a
-  TARGET_PDB = Homework\Homework2\H2-1.pdb
+  TARGET_PDB = H2-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H2-2
@@ -830,8 +770,6 @@ build Homework/Homework2/CMakeFiles/H2-2.dir/111.cpp.obj: CXX_COMPILER__H2-2_uns
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-2.dir
   OBJECT_FILE_DIR = Homework\Homework2\CMakeFiles\H2-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework2\CMakeFiles\H2-2.dir\
-  TARGET_PDB = Homework\Homework2\H2-2.pdb
 
 
 # =============================================================================
@@ -847,10 +785,9 @@ build Homework/Homework2/H2-2.exe: CXX_EXECUTABLE_LINKER__H2-2_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework2\CMakeFiles\H2-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework2\CMakeFiles\H2-2.dir\
   TARGET_FILE = Homework\Homework2\H2-2.exe
   TARGET_IMPLIB = Homework\Homework2\libH2-2.dll.a
-  TARGET_PDB = Homework\Homework2\H2-2.pdb
+  TARGET_PDB = H2-2.exe.dbg
 
 
 #############################################
@@ -894,8 +831,6 @@ build Homework/Homework3/CMakeFiles/H3-1.dir/整数的去重.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-1.dir\
-  TARGET_PDB = Homework\Homework3\H3-1.pdb
 
 
 # =============================================================================
@@ -911,10 +846,9 @@ build Homework/Homework3/H3-1.exe: CXX_EXECUTABLE_LINKER__H3-1_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-1.dir\
   TARGET_FILE = Homework\Homework3\H3-1.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-1.dll.a
-  TARGET_PDB = Homework\Homework3\H3-1.pdb
+  TARGET_PDB = H3-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-2
@@ -930,8 +864,6 @@ build Homework/Homework3/CMakeFiles/H3-2.dir/集合的交集.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-2.dir\
-  TARGET_PDB = Homework\Homework3\H3-2.pdb
 
 
 # =============================================================================
@@ -947,10 +879,9 @@ build Homework/Homework3/H3-2.exe: CXX_EXECUTABLE_LINKER__H3-2_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-2.dir\
   TARGET_FILE = Homework\Homework3\H3-2.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-2.dll.a
-  TARGET_PDB = Homework\Homework3\H3-2.pdb
+  TARGET_PDB = H3-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-3
@@ -966,8 +897,6 @@ build Homework/Homework3/CMakeFiles/H3-3.dir/集合的并集.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-3.dir\
-  TARGET_PDB = Homework\Homework3\H3-3.pdb
 
 
 # =============================================================================
@@ -983,10 +912,9 @@ build Homework/Homework3/H3-3.exe: CXX_EXECUTABLE_LINKER__H3-3_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-3.dir\
   TARGET_FILE = Homework\Homework3\H3-3.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-3.dll.a
-  TARGET_PDB = Homework\Homework3\H3-3.pdb
+  TARGET_PDB = H3-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-4
@@ -1002,8 +930,6 @@ build Homework/Homework3/CMakeFiles/H3-4.dir/有序数组的合并.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-4.dir\
-  TARGET_PDB = Homework\Homework3\H3-4.pdb
 
 
 # =============================================================================
@@ -1019,10 +945,9 @@ build Homework/Homework3/H3-4.exe: CXX_EXECUTABLE_LINKER__H3-4_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-4.dir\
   TARGET_FILE = Homework\Homework3\H3-4.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-4.dll.a
-  TARGET_PDB = Homework\Homework3\H3-4.pdb
+  TARGET_PDB = H3-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-5
@@ -1038,8 +963,6 @@ build Homework/Homework3/CMakeFiles/H3-5.dir/有序子序列的合并.cpp.obj: C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-5.dir\
-  TARGET_PDB = Homework\Homework3\H3-5.pdb
 
 
 # =============================================================================
@@ -1055,10 +978,9 @@ build Homework/Homework3/H3-5.exe: CXX_EXECUTABLE_LINKER__H3-5_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-5.dir\
   TARGET_FILE = Homework\Homework3\H3-5.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-5.dll.a
-  TARGET_PDB = Homework\Homework3\H3-5.pdb
+  TARGET_PDB = H3-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-6
@@ -1074,8 +996,6 @@ build Homework/Homework3/CMakeFiles/H3-6.dir/高精度整数与常规整数的�
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-6.dir\
-  TARGET_PDB = Homework\Homework3\H3-6.pdb
 
 
 # =============================================================================
@@ -1091,10 +1011,9 @@ build Homework/Homework3/H3-6.exe: CXX_EXECUTABLE_LINKER__H3-6_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-6.dir\
   TARGET_FILE = Homework\Homework3\H3-6.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-6.dll.a
-  TARGET_PDB = Homework\Homework3\H3-6.pdb
+  TARGET_PDB = H3-6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-7
@@ -1110,8 +1029,6 @@ build Homework/Homework3/CMakeFiles/H3-7.dir/K进制的高精度整数.cpp.obj: 
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-7.dir\
-  TARGET_PDB = Homework\Homework3\H3-7.pdb
 
 
 # =============================================================================
@@ -1127,10 +1044,9 @@ build Homework/Homework3/H3-7.exe: CXX_EXECUTABLE_LINKER__H3-7_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-7.dir\
   TARGET_FILE = Homework\Homework3\H3-7.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-7.dll.a
-  TARGET_PDB = Homework\Homework3\H3-7.pdb
+  TARGET_PDB = H3-7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H3-8
@@ -1146,8 +1062,6 @@ build Homework/Homework3/CMakeFiles/H3-8.dir/高精度整数的加法.cpp.obj: C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
   OBJECT_FILE_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-8.dir\
-  TARGET_PDB = Homework\Homework3\H3-8.pdb
 
 
 # =============================================================================
@@ -1163,10 +1077,9 @@ build Homework/Homework3/H3-8.exe: CXX_EXECUTABLE_LINKER__H3-8_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework3\CMakeFiles\H3-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework3\CMakeFiles\H3-8.dir\
   TARGET_FILE = Homework\Homework3\H3-8.exe
   TARGET_IMPLIB = Homework\Homework3\libH3-8.dll.a
-  TARGET_PDB = Homework\Homework3\H3-8.pdb
+  TARGET_PDB = H3-8.exe.dbg
 
 
 #############################################
@@ -1210,8 +1123,6 @@ build Homework/Homework4/CMakeFiles/H4-1.dir/高精度整数之间的乘法.cpp.
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-1.dir\
-  TARGET_PDB = Homework\Homework4\H4-1.pdb
 
 
 # =============================================================================
@@ -1227,10 +1138,9 @@ build Homework/Homework4/H4-1.exe: CXX_EXECUTABLE_LINKER__H4-1_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-1.dir\
   TARGET_FILE = Homework\Homework4\H4-1.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-1.dll.a
-  TARGET_PDB = Homework\Homework4\H4-1.pdb
+  TARGET_PDB = H4-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-2
@@ -1246,8 +1156,6 @@ build Homework/Homework4/CMakeFiles/H4-2.dir/数字循环左移.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-2.dir\
-  TARGET_PDB = Homework\Homework4\H4-2.pdb
 
 
 # =============================================================================
@@ -1263,10 +1171,9 @@ build Homework/Homework4/H4-2.exe: CXX_EXECUTABLE_LINKER__H4-2_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-2.dir\
   TARGET_FILE = Homework\Homework4\H4-2.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-2.dll.a
-  TARGET_PDB = Homework\Homework4\H4-2.pdb
+  TARGET_PDB = H4-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-3
@@ -1282,8 +1189,6 @@ build Homework/Homework4/CMakeFiles/H4-3.dir/数列循环左移.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-3.dir\
-  TARGET_PDB = Homework\Homework4\H4-3.pdb
 
 
 # =============================================================================
@@ -1299,10 +1204,9 @@ build Homework/Homework4/H4-3.exe: CXX_EXECUTABLE_LINKER__H4-3_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-3.dir\
   TARGET_FILE = Homework\Homework4\H4-3.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-3.dll.a
-  TARGET_PDB = Homework\Homework4\H4-3.pdb
+  TARGET_PDB = H4-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-4
@@ -1318,8 +1222,6 @@ build Homework/Homework4/CMakeFiles/H4-4.dir/单个数的3N+1猜想.cpp.obj: CXX
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-4.dir\
-  TARGET_PDB = Homework\Homework4\H4-4.pdb
 
 
 # =============================================================================
@@ -1335,10 +1237,9 @@ build Homework/Homework4/H4-4.exe: CXX_EXECUTABLE_LINKER__H4-4_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-4.dir\
   TARGET_FILE = Homework\Homework4\H4-4.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-4.dll.a
-  TARGET_PDB = Homework\Homework4\H4-4.pdb
+  TARGET_PDB = H4-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-5
@@ -1354,8 +1255,6 @@ build Homework/Homework4/CMakeFiles/H4-5.dir/语言的起点.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-5.dir\
-  TARGET_PDB = Homework\Homework4\H4-5.pdb
 
 
 # =============================================================================
@@ -1371,10 +1270,9 @@ build Homework/Homework4/H4-5.exe: CXX_EXECUTABLE_LINKER__H4-5_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-5.dir\
   TARGET_FILE = Homework\Homework4\H4-5.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-5.dll.a
-  TARGET_PDB = Homework\Homework4\H4-5.pdb
+  TARGET_PDB = H4-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-6
@@ -1390,8 +1288,6 @@ build Homework/Homework4/CMakeFiles/H4-6.dir/点名上前.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-6.dir\
-  TARGET_PDB = Homework\Homework4\H4-6.pdb
 
 
 # =============================================================================
@@ -1407,10 +1303,9 @@ build Homework/Homework4/H4-6.exe: CXX_EXECUTABLE_LINKER__H4-6_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-6.dir\
   TARGET_FILE = Homework\Homework4\H4-6.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-6.dll.a
-  TARGET_PDB = Homework\Homework4\H4-6.pdb
+  TARGET_PDB = H4-6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-7
@@ -1426,8 +1321,6 @@ build Homework/Homework4/CMakeFiles/H4-7.dir/参赛人数.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-7.dir\
-  TARGET_PDB = Homework\Homework4\H4-7.pdb
 
 
 # =============================================================================
@@ -1443,10 +1336,9 @@ build Homework/Homework4/H4-7.exe: CXX_EXECUTABLE_LINKER__H4-7_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-7.dir\
   TARGET_FILE = Homework\Homework4\H4-7.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-7.dll.a
-  TARGET_PDB = Homework\Homework4\H4-7.pdb
+  TARGET_PDB = H4-7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-8
@@ -1462,8 +1354,6 @@ build Homework/Homework4/CMakeFiles/H4-8.dir/整数中的数字.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-8.dir\
-  TARGET_PDB = Homework\Homework4\H4-8.pdb
 
 
 # =============================================================================
@@ -1479,10 +1369,9 @@ build Homework/Homework4/H4-8.exe: CXX_EXECUTABLE_LINKER__H4-8_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-8.dir\
   TARGET_FILE = Homework\Homework4\H4-8.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-8.dll.a
-  TARGET_PDB = Homework\Homework4\H4-8.pdb
+  TARGET_PDB = H4-8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H4-9
@@ -1498,8 +1387,6 @@ build Homework/Homework4/CMakeFiles/H4-9.dir/解密算法.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
   OBJECT_FILE_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-9.dir\
-  TARGET_PDB = Homework\Homework4\H4-9.pdb
 
 
 # =============================================================================
@@ -1515,10 +1402,9 @@ build Homework/Homework4/H4-9.exe: CXX_EXECUTABLE_LINKER__H4-9_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework4\CMakeFiles\H4-9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework4\CMakeFiles\H4-9.dir\
   TARGET_FILE = Homework\Homework4\H4-9.exe
   TARGET_IMPLIB = Homework\Homework4\libH4-9.dll.a
-  TARGET_PDB = Homework\Homework4\H4-9.pdb
+  TARGET_PDB = H4-9.exe.dbg
 
 
 #############################################
@@ -1562,8 +1448,6 @@ build Homework/Homework5/CMakeFiles/H5-1.dir/进制转换1.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-1.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-1.dir\
-  TARGET_PDB = Homework\Homework5\H5-1.pdb
 
 
 # =============================================================================
@@ -1579,10 +1463,9 @@ build Homework/Homework5/H5-1.exe: CXX_EXECUTABLE_LINKER__H5-1_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-1.dir\
   TARGET_FILE = Homework\Homework5\H5-1.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-1.dll.a
-  TARGET_PDB = Homework\Homework5\H5-1.pdb
+  TARGET_PDB = H5-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-2
@@ -1598,8 +1481,6 @@ build Homework/Homework5/CMakeFiles/H5-2.dir/进制转换2.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-2.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-2.dir\
-  TARGET_PDB = Homework\Homework5\H5-2.pdb
 
 
 # =============================================================================
@@ -1615,10 +1496,9 @@ build Homework/Homework5/H5-2.exe: CXX_EXECUTABLE_LINKER__H5-2_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-2.dir\
   TARGET_FILE = Homework\Homework5\H5-2.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-2.dll.a
-  TARGET_PDB = Homework\Homework5\H5-2.pdb
+  TARGET_PDB = H5-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-3
@@ -1634,8 +1514,6 @@ build Homework/Homework5/CMakeFiles/H5-3.dir/排序与删除.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-3.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-3.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-3.dir\
-  TARGET_PDB = Homework\Homework5\H5-3.pdb
 
 
 # =============================================================================
@@ -1651,10 +1529,9 @@ build Homework/Homework5/H5-3.exe: CXX_EXECUTABLE_LINKER__H5-3_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-3.dir\
   TARGET_FILE = Homework\Homework5\H5-3.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-3.dll.a
-  TARGET_PDB = Homework\Homework5\H5-3.pdb
+  TARGET_PDB = H5-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-4
@@ -1670,8 +1547,6 @@ build Homework/Homework5/CMakeFiles/H5-4.dir/计算日期.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-4.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-4.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-4.dir\
-  TARGET_PDB = Homework\Homework5\H5-4.pdb
 
 
 # =============================================================================
@@ -1687,10 +1562,9 @@ build Homework/Homework5/H5-4.exe: CXX_EXECUTABLE_LINKER__H5-4_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-4.dir\
   TARGET_FILE = Homework\Homework5\H5-4.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-4.dll.a
-  TARGET_PDB = Homework\Homework5\H5-4.pdb
+  TARGET_PDB = H5-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-5
@@ -1706,8 +1580,6 @@ build Homework/Homework5/CMakeFiles/H5-5.dir/多项式求导.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-5.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-5.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-5.dir\
-  TARGET_PDB = Homework\Homework5\H5-5.pdb
 
 
 # =============================================================================
@@ -1723,10 +1595,9 @@ build Homework/Homework5/H5-5.exe: CXX_EXECUTABLE_LINKER__H5-5_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-5.dir\
   TARGET_FILE = Homework\Homework5\H5-5.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-5.dll.a
-  TARGET_PDB = Homework\Homework5\H5-5.pdb
+  TARGET_PDB = H5-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-6
@@ -1742,8 +1613,6 @@ build Homework/Homework5/CMakeFiles/H5-6.dir/多喝饮料.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-6.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-6.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-6.dir\
-  TARGET_PDB = Homework\Homework5\H5-6.pdb
 
 
 # =============================================================================
@@ -1759,10 +1628,9 @@ build Homework/Homework5/H5-6.exe: CXX_EXECUTABLE_LINKER__H5-6_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-6.dir\
   TARGET_FILE = Homework\Homework5\H5-6.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-6.dll.a
-  TARGET_PDB = Homework\Homework5\H5-6.pdb
+  TARGET_PDB = H5-6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-7
@@ -1778,8 +1646,6 @@ build Homework/Homework5/CMakeFiles/H5-7.dir/计算阶乘位数.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-7.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-7.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-7.dir\
-  TARGET_PDB = Homework\Homework5\H5-7.pdb
 
 
 # =============================================================================
@@ -1795,10 +1661,9 @@ build Homework/Homework5/H5-7.exe: CXX_EXECUTABLE_LINKER__H5-7_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-7.dir\
   TARGET_FILE = Homework\Homework5\H5-7.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-7.dll.a
-  TARGET_PDB = Homework\Homework5\H5-7.pdb
+  TARGET_PDB = H5-7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-8
@@ -1814,8 +1679,6 @@ build Homework/Homework5/CMakeFiles/H5-8.dir/情诗暗示.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-8.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-8.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-8.dir\
-  TARGET_PDB = Homework\Homework5\H5-8.pdb
 
 
 # =============================================================================
@@ -1831,10 +1694,9 @@ build Homework/Homework5/H5-8.exe: CXX_EXECUTABLE_LINKER__H5-8_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-8.dir\
   TARGET_FILE = Homework\Homework5\H5-8.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-8.dll.a
-  TARGET_PDB = Homework\Homework5\H5-8.pdb
+  TARGET_PDB = H5-8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-9
@@ -1850,8 +1712,6 @@ build Homework/Homework5/CMakeFiles/H5-9.dir/说反话.cpp.obj: CXX_COMPILER__H5
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-9.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-9.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-9.dir\
-  TARGET_PDB = Homework\Homework5\H5-9.pdb
 
 
 # =============================================================================
@@ -1867,10 +1727,9 @@ build Homework/Homework5/H5-9.exe: CXX_EXECUTABLE_LINKER__H5-9_Debug Homework/Ho
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-9.dir\
   TARGET_FILE = Homework\Homework5\H5-9.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-9.dll.a
-  TARGET_PDB = Homework\Homework5\H5-9.pdb
+  TARGET_PDB = H5-9.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-10
@@ -1886,8 +1745,6 @@ build Homework/Homework5/CMakeFiles/H5-10.dir/连续数之和.cpp.obj: CXX_COMPI
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-10.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-10.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-10.dir\
-  TARGET_PDB = Homework\Homework5\H5-10.pdb
 
 
 # =============================================================================
@@ -1903,10 +1760,9 @@ build Homework/Homework5/H5-10.exe: CXX_EXECUTABLE_LINKER__H5-10_Debug Homework/
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-10.dir\
   TARGET_FILE = Homework\Homework5\H5-10.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-10.dll.a
-  TARGET_PDB = Homework\Homework5\H5-10.pdb
+  TARGET_PDB = H5-10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-11
@@ -1922,8 +1778,6 @@ build Homework/Homework5/CMakeFiles/H5-11.dir/合并果子.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-11.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-11.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-11.dir\
-  TARGET_PDB = Homework\Homework5\H5-11.pdb
 
 
 # =============================================================================
@@ -1939,10 +1793,9 @@ build Homework/Homework5/H5-11.exe: CXX_EXECUTABLE_LINKER__H5-11_Debug Homework/
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-11.dir\
   TARGET_FILE = Homework\Homework5\H5-11.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-11.dll.a
-  TARGET_PDB = Homework\Homework5\H5-11.pdb
+  TARGET_PDB = H5-11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H5-12
@@ -1958,8 +1811,6 @@ build Homework/Homework5/CMakeFiles/H5-12.dir/字符串还原.cpp.obj: CXX_COMPI
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-12.dir
   OBJECT_FILE_DIR = Homework\Homework5\CMakeFiles\H5-12.dir
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-12.dir\
-  TARGET_PDB = Homework\Homework5\H5-12.pdb
 
 
 # =============================================================================
@@ -1975,10 +1826,9 @@ build Homework/Homework5/H5-12.exe: CXX_EXECUTABLE_LINKER__H5-12_Debug Homework/
   OBJECT_DIR = Homework\Homework5\CMakeFiles\H5-12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework5\CMakeFiles\H5-12.dir\
   TARGET_FILE = Homework\Homework5\H5-12.exe
   TARGET_IMPLIB = Homework\Homework5\libH5-12.dll.a
-  TARGET_PDB = Homework\Homework5\H5-12.pdb
+  TARGET_PDB = H5-12.exe.dbg
 
 
 #############################################
@@ -2017,13 +1867,11 @@ build Homework/Homework5/rebuild_cache: phony Homework/Homework5/CMakeFiles/rebu
 
 build cmake_object_order_depends_target_H6-1: phony || .
 
-build Homework/Homework6/CMakeFiles/H6-1.dir/比赛榜单.cpp.obj: CXX_COMPILER__H6-1_unscanned_Debug D$:/cpp/Homework/Homework6/比赛榜单.cpp || cmake_object_order_depends_target_H6-1
-  DEP_FILE = Homework\Homework6\CMakeFiles\H6-1.dir\比赛榜单.cpp.obj.d
+build Homework/Homework6/CMakeFiles/H6-1.dir/Saveyourtears.cpp.obj: CXX_COMPILER__H6-1_unscanned_Debug D$:/cpp/Homework/Homework6/Saveyourtears.cpp || cmake_object_order_depends_target_H6-1
+  DEP_FILE = Homework\Homework6\CMakeFiles\H6-1.dir\Saveyourtears.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework6\CMakeFiles\H6-1.dir
   OBJECT_FILE_DIR = Homework\Homework6\CMakeFiles\H6-1.dir
-  TARGET_COMPILE_PDB = Homework\Homework6\CMakeFiles\H6-1.dir\
-  TARGET_PDB = Homework\Homework6\H6-1.pdb
 
 
 # =============================================================================
@@ -2033,16 +1881,15 @@ build Homework/Homework6/CMakeFiles/H6-1.dir/比赛榜单.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable Homework\Homework6\H6-1.exe
 
-build Homework/Homework6/H6-1.exe: CXX_EXECUTABLE_LINKER__H6-1_Debug Homework/Homework6/CMakeFiles/H6-1.dir/比赛榜单.cpp.obj
+build Homework/Homework6/H6-1.exe: CXX_EXECUTABLE_LINKER__H6-1_Debug Homework/Homework6/CMakeFiles/H6-1.dir/Saveyourtears.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = Homework\Homework6\CMakeFiles\H6-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework6\CMakeFiles\H6-1.dir\
   TARGET_FILE = Homework\Homework6\H6-1.exe
   TARGET_IMPLIB = Homework\Homework6\libH6-1.dll.a
-  TARGET_PDB = Homework\Homework6\H6-1.pdb
+  TARGET_PDB = H6-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target H6-2
@@ -2053,13 +1900,11 @@ build Homework/Homework6/H6-1.exe: CXX_EXECUTABLE_LINKER__H6-1_Debug Homework/Ho
 
 build cmake_object_order_depends_target_H6-2: phony || .
 
-build Homework/Homework6/CMakeFiles/H6-2.dir/攀登华山.cpp.obj: CXX_COMPILER__H6-2_unscanned_Debug D$:/cpp/Homework/Homework6/攀登华山.cpp || cmake_object_order_depends_target_H6-2
-  DEP_FILE = Homework\Homework6\CMakeFiles\H6-2.dir\攀登华山.cpp.obj.d
+build Homework/Homework6/CMakeFiles/H6-2.dir/A2.cpp.obj: CXX_COMPILER__H6-2_unscanned_Debug D$:/cpp/Homework/Homework6/A2.cpp || cmake_object_order_depends_target_H6-2
+  DEP_FILE = Homework\Homework6\CMakeFiles\H6-2.dir\A2.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = Homework\Homework6\CMakeFiles\H6-2.dir
   OBJECT_FILE_DIR = Homework\Homework6\CMakeFiles\H6-2.dir
-  TARGET_COMPILE_PDB = Homework\Homework6\CMakeFiles\H6-2.dir\
-  TARGET_PDB = Homework\Homework6\H6-2.pdb
 
 
 # =============================================================================
@@ -2069,16 +1914,15 @@ build Homework/Homework6/CMakeFiles/H6-2.dir/攀登华山.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable Homework\Homework6\H6-2.exe
 
-build Homework/Homework6/H6-2.exe: CXX_EXECUTABLE_LINKER__H6-2_Debug Homework/Homework6/CMakeFiles/H6-2.dir/攀登华山.cpp.obj
+build Homework/Homework6/H6-2.exe: CXX_EXECUTABLE_LINKER__H6-2_Debug Homework/Homework6/CMakeFiles/H6-2.dir/A2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = Homework\Homework6\CMakeFiles\H6-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Homework\Homework6\CMakeFiles\H6-2.dir\
   TARGET_FILE = Homework\Homework6\H6-2.exe
   TARGET_IMPLIB = Homework\Homework6\libH6-2.dll.a
-  TARGET_PDB = Homework\Homework6\H6-2.pdb
+  TARGET_PDB = H6-2.exe.dbg
 
 
 #############################################
@@ -2122,8 +1966,6 @@ build luogu/CMakeFiles/P1179.dir/P1179数字统计.cpp.obj: CXX_COMPILER__P1179_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\CMakeFiles\P1179.dir
   OBJECT_FILE_DIR = luogu\CMakeFiles\P1179.dir
-  TARGET_COMPILE_PDB = luogu\CMakeFiles\P1179.dir\
-  TARGET_PDB = luogu\P1179.pdb
 
 
 # =============================================================================
@@ -2139,10 +1981,9 @@ build luogu/P1179.exe: CXX_EXECUTABLE_LINKER__P1179_Debug luogu/CMakeFiles/P1179
   OBJECT_DIR = luogu\CMakeFiles\P1179.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\CMakeFiles\P1179.dir\
   TARGET_FILE = luogu\P1179.exe
   TARGET_IMPLIB = luogu\libP1179.dll.a
-  TARGET_PDB = luogu\P1179.pdb
+  TARGET_PDB = P1179.exe.dbg
 
 
 #############################################
@@ -2186,8 +2027,6 @@ build luogu/luogu1/CMakeFiles/P1000.dir/P1000超级玛丽游戏.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1000.dir
   OBJECT_FILE_DIR = luogu\luogu1\CMakeFiles\P1000.dir
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1000.dir\
-  TARGET_PDB = luogu\luogu1\P1000.pdb
 
 
 # =============================================================================
@@ -2203,10 +2042,9 @@ build luogu/luogu1/P1000.exe: CXX_EXECUTABLE_LINKER__P1000_Debug luogu/luogu1/CM
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1000.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1000.dir\
   TARGET_FILE = luogu\luogu1\P1000.exe
   TARGET_IMPLIB = luogu\luogu1\libP1000.dll.a
-  TARGET_PDB = luogu\luogu1\P1000.pdb
+  TARGET_PDB = P1000.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P1001
@@ -2222,8 +2060,6 @@ build luogu/luogu1/CMakeFiles/P1001.dir/P1001A+B-Problem.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1001.dir
   OBJECT_FILE_DIR = luogu\luogu1\CMakeFiles\P1001.dir
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1001.dir\
-  TARGET_PDB = luogu\luogu1\P1001.pdb
 
 
 # =============================================================================
@@ -2239,10 +2075,9 @@ build luogu/luogu1/P1001.exe: CXX_EXECUTABLE_LINKER__P1001_Debug luogu/luogu1/CM
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1001.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1001.dir\
   TARGET_FILE = luogu\luogu1\P1001.exe
   TARGET_IMPLIB = luogu\luogu1\libP1001.dll.a
-  TARGET_PDB = luogu\luogu1\P1001.pdb
+  TARGET_PDB = P1001.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P1007
@@ -2258,8 +2093,6 @@ build luogu/luogu1/CMakeFiles/P1007.dir/P1007独木桥.cpp.obj: CXX_COMPILER__P1
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1007.dir
   OBJECT_FILE_DIR = luogu\luogu1\CMakeFiles\P1007.dir
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1007.dir\
-  TARGET_PDB = luogu\luogu1\P1007.pdb
 
 
 # =============================================================================
@@ -2275,10 +2108,9 @@ build luogu/luogu1/P1007.exe: CXX_EXECUTABLE_LINKER__P1007_Debug luogu/luogu1/CM
   OBJECT_DIR = luogu\luogu1\CMakeFiles\P1007.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu1\CMakeFiles\P1007.dir\
   TARGET_FILE = luogu\luogu1\P1007.exe
   TARGET_IMPLIB = luogu\luogu1\libP1007.dll.a
-  TARGET_PDB = luogu\luogu1\P1007.pdb
+  TARGET_PDB = P1007.exe.dbg
 
 
 #############################################
@@ -2322,8 +2154,6 @@ build luogu/luogu2/CMakeFiles/P1208.dir/P1208混合牛奶.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1208.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\P1208.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1208.dir\
-  TARGET_PDB = luogu\luogu2\P1208.pdb
 
 
 # =============================================================================
@@ -2339,10 +2169,9 @@ build luogu/luogu2/P1208.exe: CXX_EXECUTABLE_LINKER__P1208_Debug luogu/luogu2/CM
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1208.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1208.dir\
   TARGET_FILE = luogu\luogu2\P1208.exe
   TARGET_IMPLIB = luogu\luogu2\libP1208.dll.a
-  TARGET_PDB = luogu\luogu2\P1208.pdb
+  TARGET_PDB = P1208.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P1208-1
@@ -2358,8 +2187,6 @@ build luogu/luogu2/CMakeFiles/P1208-1.dir/P1208混合牛奶cmp.cpp.obj: CXX_COMP
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1208-1.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\P1208-1.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1208-1.dir\
-  TARGET_PDB = luogu\luogu2\P1208-1.pdb
 
 
 # =============================================================================
@@ -2375,10 +2202,9 @@ build luogu/luogu2/P1208-1.exe: CXX_EXECUTABLE_LINKER__P1208-1_Debug luogu/luogu
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1208-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1208-1.dir\
   TARGET_FILE = luogu\luogu2\P1208-1.exe
   TARGET_IMPLIB = luogu\luogu2\libP1208-1.dll.a
-  TARGET_PDB = luogu\luogu2\P1208-1.pdb
+  TARGET_PDB = P1208-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target B3635
@@ -2394,8 +2220,6 @@ build luogu/luogu2/CMakeFiles/B3635.dir/B3635硬币问题.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\B3635.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\B3635.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\B3635.dir\
-  TARGET_PDB = luogu\luogu2\B3635.pdb
 
 
 # =============================================================================
@@ -2411,10 +2235,9 @@ build luogu/luogu2/B3635.exe: CXX_EXECUTABLE_LINKER__B3635_Debug luogu/luogu2/CM
   OBJECT_DIR = luogu\luogu2\CMakeFiles\B3635.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\B3635.dir\
   TARGET_FILE = luogu\luogu2\B3635.exe
   TARGET_IMPLIB = luogu\luogu2\libB3635.dll.a
-  TARGET_PDB = luogu\luogu2\B3635.pdb
+  TARGET_PDB = B3635.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target B3636
@@ -2430,8 +2253,6 @@ build luogu/luogu2/CMakeFiles/B3636.dir/B3636文字工作.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\B3636.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\B3636.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\B3636.dir\
-  TARGET_PDB = luogu\luogu2\B3636.pdb
 
 
 # =============================================================================
@@ -2447,10 +2268,9 @@ build luogu/luogu2/B3636.exe: CXX_EXECUTABLE_LINKER__B3636_Debug luogu/luogu2/CM
   OBJECT_DIR = luogu\luogu2\CMakeFiles\B3636.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\B3636.dir\
   TARGET_FILE = luogu\luogu2\B3636.exe
   TARGET_IMPLIB = luogu\luogu2\libB3636.dll.a
-  TARGET_PDB = luogu\luogu2\B3636.pdb
+  TARGET_PDB = B3636.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P1216
@@ -2466,8 +2286,6 @@ build luogu/luogu2/CMakeFiles/P1216.dir/P1216数字金字塔.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1216.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\P1216.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1216.dir\
-  TARGET_PDB = luogu\luogu2\P1216.pdb
 
 
 # =============================================================================
@@ -2483,10 +2301,9 @@ build luogu/luogu2/P1216.exe: CXX_EXECUTABLE_LINKER__P1216_Debug luogu/luogu2/CM
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1216.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1216.dir\
   TARGET_FILE = luogu\luogu2\P1216.exe
   TARGET_IMPLIB = luogu\luogu2\libP1216.dll.a
-  TARGET_PDB = luogu\luogu2\P1216.pdb
+  TARGET_PDB = P1216.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P1044
@@ -2502,8 +2319,6 @@ build luogu/luogu2/CMakeFiles/P1044.dir/P1044栈.cpp.obj: CXX_COMPILER__P1044_un
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1044.dir
   OBJECT_FILE_DIR = luogu\luogu2\CMakeFiles\P1044.dir
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1044.dir\
-  TARGET_PDB = luogu\luogu2\P1044.pdb
 
 
 # =============================================================================
@@ -2519,10 +2334,9 @@ build luogu/luogu2/P1044.exe: CXX_EXECUTABLE_LINKER__P1044_Debug luogu/luogu2/CM
   OBJECT_DIR = luogu\luogu2\CMakeFiles\P1044.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu2\CMakeFiles\P1044.dir\
   TARGET_FILE = luogu\luogu2\P1044.exe
   TARGET_IMPLIB = luogu\luogu2\libP1044.dll.a
-  TARGET_PDB = luogu\luogu2\P1044.pdb
+  TARGET_PDB = P1044.exe.dbg
 
 
 #############################################
@@ -2566,8 +2380,6 @@ build luogu/luogu3/CMakeFiles/B2125.dir/B2125最高分数的学生姓名.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu3\CMakeFiles\B2125.dir
   OBJECT_FILE_DIR = luogu\luogu3\CMakeFiles\B2125.dir
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\B2125.dir\
-  TARGET_PDB = luogu\luogu3\B2125.pdb
 
 
 # =============================================================================
@@ -2583,10 +2395,9 @@ build luogu/luogu3/B2125.exe: CXX_EXECUTABLE_LINKER__B2125_Debug luogu/luogu3/CM
   OBJECT_DIR = luogu\luogu3\CMakeFiles\B2125.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\B2125.dir\
   TARGET_FILE = luogu\luogu3\B2125.exe
   TARGET_IMPLIB = luogu\luogu3\libB2125.dll.a
-  TARGET_PDB = luogu\luogu3\B2125.pdb
+  TARGET_PDB = B2125.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target P10223
@@ -2602,8 +2413,6 @@ build luogu/luogu3/CMakeFiles/P10223.dir/P10223Eurokod.cpp.obj: CXX_COMPILER__P1
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu3\CMakeFiles\P10223.dir
   OBJECT_FILE_DIR = luogu\luogu3\CMakeFiles\P10223.dir
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\P10223.dir\
-  TARGET_PDB = luogu\luogu3\P10223.pdb
 
 
 # =============================================================================
@@ -2619,10 +2428,9 @@ build luogu/luogu3/P10223.exe: CXX_EXECUTABLE_LINKER__P10223_Debug luogu/luogu3/
   OBJECT_DIR = luogu\luogu3\CMakeFiles\P10223.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\P10223.dir\
   TARGET_FILE = luogu\luogu3\P10223.exe
   TARGET_IMPLIB = luogu\luogu3\libP10223.dll.a
-  TARGET_PDB = luogu\luogu3\P10223.pdb
+  TARGET_PDB = P10223.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target B3631
@@ -2638,8 +2446,6 @@ build luogu/luogu3/CMakeFiles/B3631.dir/B3631单向链表.cpp.obj: CXX_COMPILER_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = luogu\luogu3\CMakeFiles\B3631.dir
   OBJECT_FILE_DIR = luogu\luogu3\CMakeFiles\B3631.dir
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\B3631.dir\
-  TARGET_PDB = luogu\luogu3\B3631.pdb
 
 
 # =============================================================================
@@ -2655,10 +2461,75 @@ build luogu/luogu3/B3631.exe: CXX_EXECUTABLE_LINKER__B3631_Debug luogu/luogu3/CM
   OBJECT_DIR = luogu\luogu3\CMakeFiles\B3631.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = luogu\luogu3\CMakeFiles\B3631.dir\
   TARGET_FILE = luogu\luogu3\B3631.exe
   TARGET_IMPLIB = luogu\luogu3\libB3631.dll.a
-  TARGET_PDB = luogu\luogu3\B3631.pdb
+  TARGET_PDB = B3631.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target nnnnn
+
+
+#############################################
+# Order-only phony target for nnnnn
+
+build cmake_object_order_depends_target_nnnnn: phony || .
+
+build luogu/luogu3/CMakeFiles/nnnnn.dir/nnn.cpp.obj: CXX_COMPILER__nnnnn_unscanned_Debug D$:/cpp/luogu/luogu3/nnn.cpp || cmake_object_order_depends_target_nnnnn
+  DEP_FILE = luogu\luogu3\CMakeFiles\nnnnn.dir\nnn.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = luogu\luogu3\CMakeFiles\nnnnn.dir
+  OBJECT_FILE_DIR = luogu\luogu3\CMakeFiles\nnnnn.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target nnnnn
+
+
+#############################################
+# Link the executable luogu\luogu3\nnnnn.exe
+
+build luogu/luogu3/nnnnn.exe: CXX_EXECUTABLE_LINKER__nnnnn_Debug luogu/luogu3/CMakeFiles/nnnnn.dir/nnn.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = luogu\luogu3\CMakeFiles\nnnnn.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = luogu\luogu3\nnnnn.exe
+  TARGET_IMPLIB = luogu\luogu3\libnnnnn.dll.a
+  TARGET_PDB = nnnnn.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target nnnnnn
+
+
+#############################################
+# Order-only phony target for nnnnnn
+
+build cmake_object_order_depends_target_nnnnnn: phony || .
+
+build luogu/luogu3/CMakeFiles/nnnnnn.dir/nnnn.cpp.obj: CXX_COMPILER__nnnnnn_unscanned_Debug D$:/cpp/luogu/luogu3/nnnn.cpp || cmake_object_order_depends_target_nnnnnn
+  DEP_FILE = luogu\luogu3\CMakeFiles\nnnnnn.dir\nnnn.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = luogu\luogu3\CMakeFiles\nnnnnn.dir
+  OBJECT_FILE_DIR = luogu\luogu3\CMakeFiles\nnnnnn.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target nnnnnn
+
+
+#############################################
+# Link the executable luogu\luogu3\nnnnnn.exe
+
+build luogu/luogu3/nnnnnn.exe: CXX_EXECUTABLE_LINKER__nnnnnn_Debug luogu/luogu3/CMakeFiles/nnnnnn.dir/nnnn.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = luogu\luogu3\CMakeFiles\nnnnnn.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = luogu\luogu3\nnnnnn.exe
+  TARGET_IMPLIB = luogu\luogu3\libnnnnnn.dll.a
+  TARGET_PDB = nnnnnn.exe.dbg
 
 
 #############################################
@@ -2702,8 +2573,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-1.dir/帝国活塞A.cpp.obj: CXX_CO
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-1.pdb
 
 
 # =============================================================================
@@ -2719,10 +2588,9 @@ build BountyOrder/BountyOrder0/X0-1.exe: CXX_EXECUTABLE_LINKER__X0-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-1.pdb
+  TARGET_PDB = X0-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X0-2
@@ -2738,8 +2606,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-2.dir/帝国活塞B.cpp.obj: CXX_CO
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-2.pdb
 
 
 # =============================================================================
@@ -2755,10 +2621,9 @@ build BountyOrder/BountyOrder0/X0-2.exe: CXX_EXECUTABLE_LINKER__X0-2_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-2.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-2.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-2.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-2.pdb
+  TARGET_PDB = X0-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X0-3
@@ -2774,8 +2639,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-3.dir/中位数选择排序.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-3.pdb
 
 
 # =============================================================================
@@ -2791,10 +2654,9 @@ build BountyOrder/BountyOrder0/X0-3.exe: CXX_EXECUTABLE_LINKER__X0-3_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-3.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-3.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-3.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-3.pdb
+  TARGET_PDB = X0-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X0-4
@@ -2810,8 +2672,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-4.dir/中位数冒泡排序.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-4.pdb
 
 
 # =============================================================================
@@ -2827,10 +2687,9 @@ build BountyOrder/BountyOrder0/X0-4.exe: CXX_EXECUTABLE_LINKER__X0-4_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-4.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-4.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-4.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-4.pdb
+  TARGET_PDB = X0-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X0-5
@@ -2846,8 +2705,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-5.dir/中位数队列排序.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-5.pdb
 
 
 # =============================================================================
@@ -2863,10 +2720,9 @@ build BountyOrder/BountyOrder0/X0-5.exe: CXX_EXECUTABLE_LINKER__X0-5_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-5.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-5.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-5.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-5.pdb
+  TARGET_PDB = X0-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X0-6
@@ -2882,8 +2738,6 @@ build BountyOrder/BountyOrder0/CMakeFiles/X0-6.dir/MusicGame.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir\
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-6.pdb
 
 
 # =============================================================================
@@ -2899,10 +2753,9 @@ build BountyOrder/BountyOrder0/X0-6.exe: CXX_EXECUTABLE_LINKER__X0-6_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder0\CMakeFiles\X0-6.dir\
   TARGET_FILE = BountyOrder\BountyOrder0\X0-6.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder0\libX0-6.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder0\X0-6.pdb
+  TARGET_PDB = X0-6.exe.dbg
 
 
 #############################################
@@ -2946,8 +2799,6 @@ build BountyOrder/BountyOrder1/CMakeFiles/X1-1.dir/玩俄罗斯原神玩的.cpp.
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder1\X1-1.pdb
 
 
 # =============================================================================
@@ -2963,10 +2814,9 @@ build BountyOrder/BountyOrder1/X1-1.exe: CXX_EXECUTABLE_LINKER__X1-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder1\CMakeFiles\X1-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder1\X1-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder1\libX1-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder1\X1-1.pdb
+  TARGET_PDB = X1-1.exe.dbg
 
 
 #############################################
@@ -3010,8 +2860,6 @@ build BountyOrder/BountyOrder2/CMakeFiles/X2-1.dir/Charlie-IX.cpp.obj: CXX_COMPI
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-1.pdb
 
 
 # =============================================================================
@@ -3027,10 +2875,9 @@ build BountyOrder/BountyOrder2/X2-1.exe: CXX_EXECUTABLE_LINKER__X2-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder2\X2-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder2\libX2-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-1.pdb
+  TARGET_PDB = X2-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X2-2
@@ -3046,8 +2893,6 @@ build BountyOrder/BountyOrder2/CMakeFiles/X2-2.dir/若有其事.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-2.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-2.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-2.dir\
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-2.pdb
 
 
 # =============================================================================
@@ -3063,10 +2908,9 @@ build BountyOrder/BountyOrder2/X2-2.exe: CXX_EXECUTABLE_LINKER__X2-2_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-2.dir\
   TARGET_FILE = BountyOrder\BountyOrder2\X2-2.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder2\libX2-2.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-2.pdb
+  TARGET_PDB = X2-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X2-3
@@ -3082,8 +2926,6 @@ build BountyOrder/BountyOrder2/CMakeFiles/X2-3.dir/志愿时长.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-3.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-3.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-3.dir\
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-3.pdb
 
 
 # =============================================================================
@@ -3099,10 +2941,9 @@ build BountyOrder/BountyOrder2/X2-3.exe: CXX_EXECUTABLE_LINKER__X2-3_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-3.dir\
   TARGET_FILE = BountyOrder\BountyOrder2\X2-3.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder2\libX2-3.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-3.pdb
+  TARGET_PDB = X2-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X2-4
@@ -3118,8 +2959,6 @@ build BountyOrder/BountyOrder2/CMakeFiles/X2-4.dir/原神，无法启动.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-4.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-4.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-4.dir\
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-4.pdb
 
 
 # =============================================================================
@@ -3135,10 +2974,9 @@ build BountyOrder/BountyOrder2/X2-4.exe: CXX_EXECUTABLE_LINKER__X2-4_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-4.dir\
   TARGET_FILE = BountyOrder\BountyOrder2\X2-4.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder2\libX2-4.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-4.pdb
+  TARGET_PDB = X2-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X2-5
@@ -3154,8 +2992,6 @@ build BountyOrder/BountyOrder2/CMakeFiles/X2-5.dir/代数学家.cpp.obj: CXX_COM
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-5.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-5.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-5.dir\
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-5.pdb
 
 
 # =============================================================================
@@ -3171,10 +3007,9 @@ build BountyOrder/BountyOrder2/X2-5.exe: CXX_EXECUTABLE_LINKER__X2-5_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder2\CMakeFiles\X2-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder2\CMakeFiles\X2-5.dir\
   TARGET_FILE = BountyOrder\BountyOrder2\X2-5.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder2\libX2-5.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder2\X2-5.pdb
+  TARGET_PDB = X2-5.exe.dbg
 
 
 #############################################
@@ -3218,8 +3053,6 @@ build BountyOrder/BountyOrder3/CMakeFiles/X3-1.dir/不可能完成的挑战.cpp.
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder3\CMakeFiles\X3-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder3\CMakeFiles\X3-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder3\CMakeFiles\X3-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder3\X3-1.pdb
 
 
 # =============================================================================
@@ -3235,10 +3068,9 @@ build BountyOrder/BountyOrder3/X3-1.exe: CXX_EXECUTABLE_LINKER__X3-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder3\CMakeFiles\X3-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder3\CMakeFiles\X3-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder3\X3-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder3\libX3-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder3\X3-1.pdb
+  TARGET_PDB = X3-1.exe.dbg
 
 
 #############################################
@@ -3282,8 +3114,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-1.dir/这一发贯穿星辰.cpp.obj
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-1.pdb
 
 
 # =============================================================================
@@ -3299,10 +3129,9 @@ build BountyOrder/BountyOrder4/X4-1.exe: CXX_EXECUTABLE_LINKER__X4-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-1.pdb
+  TARGET_PDB = X4-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X4-2
@@ -3318,8 +3147,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-2.dir/眼前一红？.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-2.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-2.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-2.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-2.pdb
 
 
 # =============================================================================
@@ -3335,10 +3162,9 @@ build BountyOrder/BountyOrder4/X4-2.exe: CXX_EXECUTABLE_LINKER__X4-2_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-2.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-2.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-2.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-2.pdb
+  TARGET_PDB = X4-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X4-3
@@ -3354,8 +3180,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-3.dir/3.15Code.cpp.obj: CXX_COMPILE
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-3.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-3.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-3.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-3.pdb
 
 
 # =============================================================================
@@ -3371,10 +3195,9 @@ build BountyOrder/BountyOrder4/X4-3.exe: CXX_EXECUTABLE_LINKER__X4-3_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-3.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-3.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-3.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-3.pdb
+  TARGET_PDB = X4-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X4-4
@@ -3390,8 +3213,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-4.dir/陷入保底无法自拔.cpp.
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-4.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-4.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-4.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-4.pdb
 
 
 # =============================================================================
@@ -3407,10 +3228,9 @@ build BountyOrder/BountyOrder4/X4-4.exe: CXX_EXECUTABLE_LINKER__X4-4_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-4.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-4.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-4.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-4.pdb
+  TARGET_PDB = X4-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X4-5
@@ -3426,8 +3246,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-5.dir/儿时的噩梦.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-5.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-5.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-5.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-5.pdb
 
 
 # =============================================================================
@@ -3443,10 +3261,9 @@ build BountyOrder/BountyOrder4/X4-5.exe: CXX_EXECUTABLE_LINKER__X4-5_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-5.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-5.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-5.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-5.pdb
+  TARGET_PDB = X4-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target X4-6
@@ -3462,8 +3279,6 @@ build BountyOrder/BountyOrder4/CMakeFiles/X4-6.dir/Tree.cpp.obj: CXX_COMPILER__X
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-6.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-6.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-6.dir\
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-6.pdb
 
 
 # =============================================================================
@@ -3479,10 +3294,9 @@ build BountyOrder/BountyOrder4/X4-6.exe: CXX_EXECUTABLE_LINKER__X4-6_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder4\CMakeFiles\X4-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder4\CMakeFiles\X4-6.dir\
   TARGET_FILE = BountyOrder\BountyOrder4\X4-6.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder4\libX4-6.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder4\X4-6.pdb
+  TARGET_PDB = X4-6.exe.dbg
 
 
 #############################################
@@ -3526,8 +3340,6 @@ build BountyOrder/BountyOrder5/CMakeFiles/X5-1.dir/Saveyourtears.cpp.obj: CXX_CO
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = BountyOrder\BountyOrder5\CMakeFiles\X5-1.dir
   OBJECT_FILE_DIR = BountyOrder\BountyOrder5\CMakeFiles\X5-1.dir
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder5\CMakeFiles\X5-1.dir\
-  TARGET_PDB = BountyOrder\BountyOrder5\X5-1.pdb
 
 
 # =============================================================================
@@ -3543,10 +3355,9 @@ build BountyOrder/BountyOrder5/X5-1.exe: CXX_EXECUTABLE_LINKER__X5-1_Debug Bount
   OBJECT_DIR = BountyOrder\BountyOrder5\CMakeFiles\X5-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = BountyOrder\BountyOrder5\CMakeFiles\X5-1.dir\
   TARGET_FILE = BountyOrder\BountyOrder5\X5-1.exe
   TARGET_IMPLIB = BountyOrder\BountyOrder5\libX5-1.dll.a
-  TARGET_PDB = BountyOrder\BountyOrder5\X5-1.pdb
+  TARGET_PDB = X5-1.exe.dbg
 
 
 #############################################
@@ -3577,6 +3388,166 @@ build BountyOrder/BountyOrder5/rebuild_cache: phony BountyOrder/BountyOrder5/CMa
 # =============================================================================
 
 # =============================================================================
+# Object build statements for EXECUTABLE target X6-1
+
+
+#############################################
+# Order-only phony target for X6-1
+
+build cmake_object_order_depends_target_X6-1: phony || .
+
+build BountyOrder/BountyOrder6/CMakeFiles/X6-1.dir/New-stories.cpp.obj: CXX_COMPILER__X6-1_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder6/New-stories.cpp || cmake_object_order_depends_target_X6-1
+  DEP_FILE = BountyOrder\BountyOrder6\CMakeFiles\X6-1.dir\New-stories.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-1.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target X6-1
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder6\X6-1.exe
+
+build BountyOrder/BountyOrder6/X6-1.exe: CXX_EXECUTABLE_LINKER__X6-1_Debug BountyOrder/BountyOrder6/CMakeFiles/X6-1.dir/New-stories.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder6\X6-1.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder6\libX6-1.dll.a
+  TARGET_PDB = X6-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target X6-2
+
+
+#############################################
+# Order-only phony target for X6-2
+
+build cmake_object_order_depends_target_X6-2: phony || .
+
+build BountyOrder/BountyOrder6/CMakeFiles/X6-2.dir/Let-ships.cpp.obj: CXX_COMPILER__X6-2_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder6/Let-ships.cpp || cmake_object_order_depends_target_X6-2
+  DEP_FILE = BountyOrder\BountyOrder6\CMakeFiles\X6-2.dir\Let-ships.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-2.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target X6-2
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder6\X6-2.exe
+
+build BountyOrder/BountyOrder6/X6-2.exe: CXX_EXECUTABLE_LINKER__X6-2_Debug BountyOrder/BountyOrder6/CMakeFiles/X6-2.dir/Let-ships.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder6\X6-2.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder6\libX6-2.dll.a
+  TARGET_PDB = X6-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target X6-3
+
+
+#############################################
+# Order-only phony target for X6-3
+
+build cmake_object_order_depends_target_X6-3: phony || .
+
+build BountyOrder/BountyOrder6/CMakeFiles/X6-3.dir/Still-ablaze.cpp.obj: CXX_COMPILER__X6-3_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder6/Still-ablaze.cpp || cmake_object_order_depends_target_X6-3
+  DEP_FILE = BountyOrder\BountyOrder6\CMakeFiles\X6-3.dir\Still-ablaze.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-3.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target X6-3
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder6\X6-3.exe
+
+build BountyOrder/BountyOrder6/X6-3.exe: CXX_EXECUTABLE_LINKER__X6-3_Debug BountyOrder/BountyOrder6/CMakeFiles/X6-3.dir/Still-ablaze.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder6\X6-3.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder6\libX6-3.dll.a
+  TARGET_PDB = X6-3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target X6-4
+
+
+#############################################
+# Order-only phony target for X6-4
+
+build cmake_object_order_depends_target_X6-4: phony || .
+
+build BountyOrder/BountyOrder6/CMakeFiles/X6-4.dir/Saveyourtears.cpp.obj: CXX_COMPILER__X6-4_unscanned_Debug D$:/cpp/BountyOrder/BountyOrder6/Saveyourtears.cpp || cmake_object_order_depends_target_X6-4
+  DEP_FILE = BountyOrder\BountyOrder6\CMakeFiles\X6-4.dir\Saveyourtears.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-4.dir
+  OBJECT_FILE_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target X6-4
+
+
+#############################################
+# Link the executable BountyOrder\BountyOrder6\X6-4.exe
+
+build BountyOrder/BountyOrder6/X6-4.exe: CXX_EXECUTABLE_LINKER__X6-4_Debug BountyOrder/BountyOrder6/CMakeFiles/X6-4.dir/Saveyourtears.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = BountyOrder\BountyOrder6\CMakeFiles\X6-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BountyOrder\BountyOrder6\X6-4.exe
+  TARGET_IMPLIB = BountyOrder\BountyOrder6\libX6-4.dll.a
+  TARGET_PDB = X6-4.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build BountyOrder/BountyOrder6/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder6 && "D:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build BountyOrder/BountyOrder6/edit_cache: phony BountyOrder/BountyOrder6/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build BountyOrder/BountyOrder6/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\cpp\cmake-build-debug\BountyOrder\BountyOrder6 && "D:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\cpp -BD:\cpp\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build BountyOrder/BountyOrder6/rebuild_cache: phony BountyOrder/BountyOrder6/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/cpp/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
 # Object build statements for EXECUTABLE target C1-1
 
 
@@ -3590,8 +3561,6 @@ build course/course1/CMakeFiles/C1-1.dir/定点删除与定点插入.cpp.obj: CX
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-1.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-1.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-1.dir\
-  TARGET_PDB = course\course1\C1-1.pdb
 
 
 # =============================================================================
@@ -3607,10 +3576,9 @@ build course/course1/C1-1.exe: CXX_EXECUTABLE_LINKER__C1-1_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-1.dir\
   TARGET_FILE = course\course1\C1-1.exe
   TARGET_IMPLIB = course\course1\libC1-1.dll.a
-  TARGET_PDB = course\course1\C1-1.pdb
+  TARGET_PDB = C1-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-2
@@ -3626,8 +3594,6 @@ build course/course1/CMakeFiles/C1-2.dir/查找删除.cpp.obj: CXX_COMPILER__C1-
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-2.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-2.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-2.dir\
-  TARGET_PDB = course\course1\C1-2.pdb
 
 
 # =============================================================================
@@ -3643,10 +3609,9 @@ build course/course1/C1-2.exe: CXX_EXECUTABLE_LINKER__C1-2_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-2.dir\
   TARGET_FILE = course\course1\C1-2.exe
   TARGET_IMPLIB = course\course1\libC1-2.dll.a
-  TARGET_PDB = course\course1\C1-2.pdb
+  TARGET_PDB = C1-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-3
@@ -3662,8 +3627,6 @@ build course/course1/CMakeFiles/C1-3.dir/质因数分解.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-3.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-3.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-3.dir\
-  TARGET_PDB = course\course1\C1-3.pdb
 
 
 # =============================================================================
@@ -3679,10 +3642,9 @@ build course/course1/C1-3.exe: CXX_EXECUTABLE_LINKER__C1-3_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-3.dir\
   TARGET_FILE = course\course1\C1-3.exe
   TARGET_IMPLIB = course\course1\libC1-3.dll.a
-  TARGET_PDB = course\course1\C1-3.pdb
+  TARGET_PDB = C1-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-4
@@ -3698,8 +3660,6 @@ build course/course1/CMakeFiles/C1-4.dir/因子数.cpp.obj: CXX_COMPILER__C1-4_u
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-4.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-4.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-4.dir\
-  TARGET_PDB = course\course1\C1-4.pdb
 
 
 # =============================================================================
@@ -3715,10 +3675,9 @@ build course/course1/C1-4.exe: CXX_EXECUTABLE_LINKER__C1-4_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-4.dir\
   TARGET_FILE = course\course1\C1-4.exe
   TARGET_IMPLIB = course\course1\libC1-4.dll.a
-  TARGET_PDB = course\course1\C1-4.pdb
+  TARGET_PDB = C1-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-5
@@ -3734,8 +3693,6 @@ build course/course1/CMakeFiles/C1-5.dir/有序插入.cpp.obj: CXX_COMPILER__C1-
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-5.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-5.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-5.dir\
-  TARGET_PDB = course\course1\C1-5.pdb
 
 
 # =============================================================================
@@ -3751,10 +3708,9 @@ build course/course1/C1-5.exe: CXX_EXECUTABLE_LINKER__C1-5_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-5.dir\
   TARGET_FILE = course\course1\C1-5.exe
   TARGET_IMPLIB = course\course1\libC1-5.dll.a
-  TARGET_PDB = course\course1\C1-5.pdb
+  TARGET_PDB = C1-5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-6
@@ -3770,8 +3726,6 @@ build course/course1/CMakeFiles/C1-6.dir/集合运算（交集）.cpp.obj: CXX_C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-6.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-6.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-6.dir\
-  TARGET_PDB = course\course1\C1-6.pdb
 
 
 # =============================================================================
@@ -3787,10 +3741,9 @@ build course/course1/C1-6.exe: CXX_EXECUTABLE_LINKER__C1-6_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-6.dir\
   TARGET_FILE = course\course1\C1-6.exe
   TARGET_IMPLIB = course\course1\libC1-6.dll.a
-  TARGET_PDB = course\course1\C1-6.pdb
+  TARGET_PDB = C1-6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-7
@@ -3806,8 +3759,6 @@ build course/course1/CMakeFiles/C1-7.dir/集合运算（并集）.cpp.obj: CXX_C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-7.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-7.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-7.dir\
-  TARGET_PDB = course\course1\C1-7.pdb
 
 
 # =============================================================================
@@ -3823,10 +3774,9 @@ build course/course1/C1-7.exe: CXX_EXECUTABLE_LINKER__C1-7_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-7.dir\
   TARGET_FILE = course\course1\C1-7.exe
   TARGET_IMPLIB = course\course1\libC1-7.dll.a
-  TARGET_PDB = course\course1\C1-7.pdb
+  TARGET_PDB = C1-7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-8
@@ -3842,8 +3792,6 @@ build course/course1/CMakeFiles/C1-8.dir/集合运算（唯一性）.cpp.obj: CX
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-8.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-8.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-8.dir\
-  TARGET_PDB = course\course1\C1-8.pdb
 
 
 # =============================================================================
@@ -3859,10 +3807,9 @@ build course/course1/C1-8.exe: CXX_EXECUTABLE_LINKER__C1-8_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-8.dir\
   TARGET_FILE = course\course1\C1-8.exe
   TARGET_IMPLIB = course\course1\libC1-8.dll.a
-  TARGET_PDB = course\course1\C1-8.pdb
+  TARGET_PDB = C1-8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C1-9
@@ -3878,8 +3825,6 @@ build course/course1/CMakeFiles/C1-9.dir/有序归并.cpp.obj: CXX_COMPILER__C1-
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course1\CMakeFiles\C1-9.dir
   OBJECT_FILE_DIR = course\course1\CMakeFiles\C1-9.dir
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-9.dir\
-  TARGET_PDB = course\course1\C1-9.pdb
 
 
 # =============================================================================
@@ -3895,10 +3840,9 @@ build course/course1/C1-9.exe: CXX_EXECUTABLE_LINKER__C1-9_Debug course/course1/
   OBJECT_DIR = course\course1\CMakeFiles\C1-9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course1\CMakeFiles\C1-9.dir\
   TARGET_FILE = course\course1\C1-9.exe
   TARGET_IMPLIB = course\course1\libC1-9.dll.a
-  TARGET_PDB = course\course1\C1-9.pdb
+  TARGET_PDB = C1-9.exe.dbg
 
 
 #############################################
@@ -3942,8 +3886,6 @@ build course/course2/CMakeFiles/C2-1.dir/高精度整数：乘法1.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course2\CMakeFiles\C2-1.dir
   OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-1.dir
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-1.dir\
-  TARGET_PDB = course\course2\C2-1.pdb
 
 
 # =============================================================================
@@ -3959,10 +3901,9 @@ build course/course2/C2-1.exe: CXX_EXECUTABLE_LINKER__C2-1_Debug course/course2/
   OBJECT_DIR = course\course2\CMakeFiles\C2-1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-1.dir\
   TARGET_FILE = course\course2\C2-1.exe
   TARGET_IMPLIB = course\course2\libC2-1.dll.a
-  TARGET_PDB = course\course2\C2-1.pdb
+  TARGET_PDB = C2-1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C2-2
@@ -3978,8 +3919,6 @@ build course/course2/CMakeFiles/C2-2.dir/高精度整数：乘法2.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course2\CMakeFiles\C2-2.dir
   OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-2.dir
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-2.dir\
-  TARGET_PDB = course\course2\C2-2.pdb
 
 
 # =============================================================================
@@ -3995,10 +3934,9 @@ build course/course2/C2-2.exe: CXX_EXECUTABLE_LINKER__C2-2_Debug course/course2/
   OBJECT_DIR = course\course2\CMakeFiles\C2-2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-2.dir\
   TARGET_FILE = course\course2\C2-2.exe
   TARGET_IMPLIB = course\course2\libC2-2.dll.a
-  TARGET_PDB = course\course2\C2-2.pdb
+  TARGET_PDB = C2-2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C2-3
@@ -4014,8 +3952,6 @@ build course/course2/CMakeFiles/C2-3.dir/高精度整数：K进制.cpp.obj: CXX_
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course2\CMakeFiles\C2-3.dir
   OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-3.dir
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-3.dir\
-  TARGET_PDB = course\course2\C2-3.pdb
 
 
 # =============================================================================
@@ -4031,10 +3967,9 @@ build course/course2/C2-3.exe: CXX_EXECUTABLE_LINKER__C2-3_Debug course/course2/
   OBJECT_DIR = course\course2\CMakeFiles\C2-3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-3.dir\
   TARGET_FILE = course\course2\C2-3.exe
   TARGET_IMPLIB = course\course2\libC2-3.dll.a
-  TARGET_PDB = course\course2\C2-3.pdb
+  TARGET_PDB = C2-3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C2-4
@@ -4050,8 +3985,6 @@ build course/course2/CMakeFiles/C2-4.dir/高精度整数：除法.cpp.obj: CXX_C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course2\CMakeFiles\C2-4.dir
   OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-4.dir
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-4.dir\
-  TARGET_PDB = course\course2\C2-4.pdb
 
 
 # =============================================================================
@@ -4067,10 +4000,9 @@ build course/course2/C2-4.exe: CXX_EXECUTABLE_LINKER__C2-4_Debug course/course2/
   OBJECT_DIR = course\course2\CMakeFiles\C2-4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-4.dir\
   TARGET_FILE = course\course2\C2-4.exe
   TARGET_IMPLIB = course\course2\libC2-4.dll.a
-  TARGET_PDB = course\course2\C2-4.pdb
+  TARGET_PDB = C2-4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target C2-5
@@ -4086,8 +4018,6 @@ build course/course2/CMakeFiles/C2-5.dir/高精度整数：加法.cpp.obj: CXX_C
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = course\course2\CMakeFiles\C2-5.dir
   OBJECT_FILE_DIR = course\course2\CMakeFiles\C2-5.dir
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-5.dir\
-  TARGET_PDB = course\course2\C2-5.pdb
 
 
 # =============================================================================
@@ -4103,10 +4033,9 @@ build course/course2/C2-5.exe: CXX_EXECUTABLE_LINKER__C2-5_Debug course/course2/
   OBJECT_DIR = course\course2\CMakeFiles\C2-5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = course\course2\CMakeFiles\C2-5.dir\
   TARGET_FILE = course\course2\C2-5.exe
   TARGET_IMPLIB = course\course2\libC2-5.dll.a
-  TARGET_PDB = course\course2\C2-5.pdb
+  TARGET_PDB = C2-5.exe.dbg
 
 
 #############################################
@@ -4522,6 +4451,30 @@ build X5-1: phony BountyOrder/BountyOrder5/X5-1.exe
 
 build X5-1.exe: phony BountyOrder/BountyOrder5/X5-1.exe
 
+build X6-1: phony BountyOrder/BountyOrder6/X6-1.exe
+
+build X6-1.exe: phony BountyOrder/BountyOrder6/X6-1.exe
+
+build X6-2: phony BountyOrder/BountyOrder6/X6-2.exe
+
+build X6-2.exe: phony BountyOrder/BountyOrder6/X6-2.exe
+
+build X6-3: phony BountyOrder/BountyOrder6/X6-3.exe
+
+build X6-3.exe: phony BountyOrder/BountyOrder6/X6-3.exe
+
+build X6-4: phony BountyOrder/BountyOrder6/X6-4.exe
+
+build X6-4.exe: phony BountyOrder/BountyOrder6/X6-4.exe
+
+build nnnnn: phony luogu/luogu3/nnnnn.exe
+
+build nnnnn.exe: phony luogu/luogu3/nnnnn.exe
+
+build nnnnnn: phony luogu/luogu3/nnnnnn.exe
+
+build nnnnnn.exe: phony luogu/luogu3/nnnnnn.exe
+
 build p1183: phony Homework/Homework1/p1183.exe
 
 build p1183.exe: phony Homework/Homework1/p1183.exe
@@ -4538,7 +4491,7 @@ build p1185.exe: phony Homework/Homework1/p1185.exe
 #############################################
 # Folder: D:/cpp/cmake-build-debug
 
-build all: phony Homework/Homework1/all Homework/Homework2/all Homework/Homework3/all Homework/Homework4/all Homework/Homework5/all Homework/Homework6/all luogu/all luogu/luogu1/all luogu/luogu2/all luogu/luogu3/all BountyOrder/BountyOrder0/all BountyOrder/BountyOrder1/all BountyOrder/BountyOrder2/all BountyOrder/BountyOrder3/all BountyOrder/BountyOrder4/all BountyOrder/BountyOrder5/all course/course1/all course/course2/all
+build all: phony Homework/Homework1/all Homework/Homework2/all Homework/Homework3/all Homework/Homework4/all Homework/Homework5/all Homework/Homework6/all luogu/all luogu/luogu1/all luogu/luogu2/all luogu/luogu3/all BountyOrder/BountyOrder0/all BountyOrder/BountyOrder1/all BountyOrder/BountyOrder2/all BountyOrder/BountyOrder3/all BountyOrder/BountyOrder4/all BountyOrder/BountyOrder5/all BountyOrder/BountyOrder6/all course/course1/all course/course2/all
 
 # =============================================================================
 
@@ -4581,6 +4534,13 @@ build BountyOrder/BountyOrder4/all: phony BountyOrder/BountyOrder4/X4-1.exe Boun
 # Folder: D:/cpp/cmake-build-debug/BountyOrder/BountyOrder5
 
 build BountyOrder/BountyOrder5/all: phony BountyOrder/BountyOrder5/X5-1.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/cpp/cmake-build-debug/BountyOrder/BountyOrder6
+
+build BountyOrder/BountyOrder6/all: phony BountyOrder/BountyOrder6/X6-1.exe BountyOrder/BountyOrder6/X6-2.exe BountyOrder/BountyOrder6/X6-3.exe BountyOrder/BountyOrder6/X6-4.exe
 
 # =============================================================================
 
@@ -4664,7 +4624,7 @@ build luogu/luogu2/all: phony luogu/luogu2/P1208.exe luogu/luogu2/P1208-1.exe lu
 #############################################
 # Folder: D:/cpp/cmake-build-debug/luogu/luogu3
 
-build luogu/luogu3/all: phony luogu/luogu3/B2125.exe luogu/luogu3/P10223.exe luogu/luogu3/B3631.exe
+build luogu/luogu3/all: phony luogu/luogu3/B2125.exe luogu/luogu3/P10223.exe luogu/luogu3/B3631.exe luogu/luogu3/nnnnn.exe luogu/luogu3/nnnnnn.exe
 
 # =============================================================================
 # Built-in targets
@@ -4673,14 +4633,14 @@ build luogu/luogu3/all: phony luogu/luogu3/B2125.exe luogu/luogu3/P10223.exe luo
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCCompilerABI.c D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystem.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder2/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder3/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder4/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder5/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/Homework/Homework5/CMakeLists.txt D$:/cpp/Homework/Homework6/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt D$:/cpp/luogu/luogu1/CMakeLists.txt D$:/cpp/luogu/luogu2/CMakeLists.txt D$:/cpp/luogu/luogu3/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder2/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder3/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder4/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder5/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder6/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/Homework/Homework5/CMakeLists.txt D$:/cpp/Homework/Homework6/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt D$:/cpp/luogu/luogu1/CMakeLists.txt D$:/cpp/luogu/luogu2/CMakeLists.txt D$:/cpp/luogu/luogu3/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCCompilerABI.c D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystem.cmake.in D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder2/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder3/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder4/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder5/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/Homework/Homework5/CMakeLists.txt D$:/cpp/Homework/Homework6/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt D$:/cpp/luogu/luogu1/CMakeLists.txt D$:/cpp/luogu/luogu2/CMakeLists.txt D$:/cpp/luogu/luogu3/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake D$:/Program$ Files/JetBrains/CLion$ 2024.2.3/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake D$:/cpp/BountyOrder/BountyOrder0/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder1/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder2/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder3/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder4/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder5/CMakeLists.txt D$:/cpp/BountyOrder/BountyOrder6/CMakeLists.txt D$:/cpp/CMakeLists.txt D$:/cpp/Homework/Homework1/CMakeLists.txt D$:/cpp/Homework/Homework2/CMakeLists.txt D$:/cpp/Homework/Homework3/CMakeLists.txt D$:/cpp/Homework/Homework4/CMakeLists.txt D$:/cpp/Homework/Homework5/CMakeLists.txt D$:/cpp/Homework/Homework6/CMakeLists.txt D$:/cpp/course/course1/CMakeLists.txt D$:/cpp/course/course2/CMakeLists.txt D$:/cpp/luogu/CMakeLists.txt D$:/cpp/luogu/luogu1/CMakeLists.txt D$:/cpp/luogu/luogu2/CMakeLists.txt D$:/cpp/luogu/luogu3/CMakeLists.txt: phony
 
 
 #############################################
