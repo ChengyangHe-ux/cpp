@@ -1,0 +1,6 @@
+add_executable(X4-1 这一发贯穿星辰.cpp)
+add_executable(X4-2 眼前一红？.cpp)
+add_executable(X4-3 3.15Code.cpp)
+add_executable(X4-4 陷入保底无法自拔.cpp)
+add_executable(X4-5 儿时的噩梦.cpp)
+add_executable(X4-6 Tree.cpp)

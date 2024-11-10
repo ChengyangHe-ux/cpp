@@ -1,0 +1,5 @@
+add_executable(X2-1 Charlie-IX.cpp)
+add_executable(X2-2 若有其事.cpp)
+add_executable(X2-3 志愿时长.cpp)
+add_executable(X2-4 原神，无法启动.cpp)
+add_executable(X2-5 代数学家.cpp)

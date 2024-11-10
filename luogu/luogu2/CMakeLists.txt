@@ -1,0 +1,6 @@
+add_executable(P1208 P1208混合牛奶.cpp)
+add_executable(P1208-1 P1208混合牛奶cmp.cpp)
+add_executable(B3635 B3635硬币问题.cpp)
+add_executable(B3636 B3636文字工作.cpp)
+add_executable(P1216 P1216数字金字塔.cpp)
+add_executable(P1044 P1044栈.cpp)
